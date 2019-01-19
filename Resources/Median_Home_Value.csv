@@ -1,0 +1,615 @@
+City,State,Zip Code,Median Home Value USD,Year
+North Little Rock,Arkansas,50450,137600.0,2017
+Rogers,Arkansas,60410,171600.0,2017
+Springdale,Arkansas,66080,144400.0,2017
+Alameda,California,00562,891700.0,2017
+Alhambra,California,00884,597200.0,2017
+Anaheim,California,02000,577500.0,2017
+Antioch,California,02252,408100.0,2017
+Apple Valley town,California,02364,249900.0,2017
+Arden-Arcade CDP,California,02553,372100.0,2017
+Bakersfield,California,03526,239700.0,2017
+Baldwin Park,California,03666,416500.0,2017
+Bellflower,California,04982,471800.0,2017
+Berkeley,California,06000,993500.0,2017
+Buena Park,California,08786,570900.0,2017
+Burbank,California,08954,723000.0,2017
+Camarillo,California,10046,622100.0,2017
+Carlsbad,California,11194,809700.0,2017
+Carmichael CDP,California,11390,382500.0,2017
+Carson,California,11530,467600.0,2017
+Castro Valley CDP,California,11964,729000.0,2017
+Chico,California,13014,332300.0,2017
+Chino,California,13210,465000.0,2017
+Chino Hills,California,13214,610900.0,2017
+Chula Vista,California,13392,497800.0,2017
+Citrus Heights,California,13588,302300.0,2017
+Clovis,California,14218,319100.0,2017
+Compton,California,15044,346300.0,2017
+Concord,California,16000,572800.0,2017
+Corona,California,16350,470300.0,2017
+Costa Mesa,California,16532,744900.0,2017
+Daly City,California,17918,786200.0,2017
+Davis,California,18100,649700.0,2017
+Downey,California,19766,556600.0,2017
+East Los Angeles CDP,California,20802,434200.0,2017
+El Cajon,California,21712,458100.0,2017
+Elk Grove,California,22020,403300.0,2017
+El Monte,California,22230,442100.0,2017
+Escondido,California,22804,442800.0,2017
+Fairfield,California,23182,415700.0,2017
+Florence-Graham CDP,California,24477,371800.0,2017
+Folsom,California,24638,521600.0,2017
+Fontana,California,24680,373600.0,2017
+Fremont,California,26000,927500.0,2017
+Fresno,California,27000,234500.0,2017
+Fullerton,California,28000,672300.0,2017
+Garden Grove,California,29000,558800.0,2017
+Glendale,California,30000,790300.0,2017
+Hawthorne,California,32548,601400.0,2017
+Hayward,California,33000,595500.0,2017
+Hemet,California,33182,194900.0,2017
+Hesperia,California,33434,238600.0,2017
+Huntington Beach,California,36000,738600.0,2017
+Indio,California,36448,277400.0,2017
+Inglewood,California,36546,528300.0,2017
+Irvine,California,36770,822100.0,2017
+Jurupa Valley,California,37692,370300.0,2017
+Laguna Niguel,California,39248,809500.0,2017
+Lake Elsinore,California,39486,347000.0,2017
+Lake Forest,California,39496,626900.0,2017
+Lakewood,California,39892,583200.0,2017
+Lancaster,California,40130,262400.0,2017
+Livermore,California,41992,745600.0,2017
+Lodi,California,42202,326800.0,2017
+Long Beach,California,43000,557700.0,2017
+Los Angeles,California,44000,647000.0,2017
+Lynwood,California,44574,412500.0,2017
+Madera,California,45022,210800.0,2017
+Manteca,California,45484,374800.0,2017
+Menifee,California,46842,339000.0,2017
+Merced,California,46898,222700.0,2017
+Milpitas,California,47766,854100.0,2017
+Mission Viejo,California,48256,694600.0,2017
+Modesto,California,48354,279600.0,2017
+Moreno Valley,California,49270,305900.0,2017
+Mountain View,California,49670,1461400.0,2017
+Murrieta,California,50076,417000.0,2017
+Napa,California,50258,633200.0,2017
+Newport Beach,California,51182,1902000.0,2017
+Norwalk,California,52526,441000.0,2017
+Oakland,California,53000,686700.0,2017
+Oceanside,California,53322,514600.0,2017
+Ontario,California,53896,369700.0,2017
+Orange,California,53980,656300.0,2017
+Oxnard,California,54652,458400.0,2017
+Palmdale,California,55156,274100.0,2017
+Palo Alto,California,55282,2000001.0,2017
+Pasadena,California,56000,802500.0,2017
+Perris,California,56700,283300.0,2017
+Pittsburg,California,57456,387700.0,2017
+Pleasanton,California,57792,997500.0,2017
+Pomona,California,58072,405000.0,2017
+Rancho Cordova,California,59444,304400.0,2017
+Rancho Cucamonga,California,59451,488000.0,2017
+Redding,California,59920,260000.0,2017
+Redlands,California,59962,383800.0,2017
+Redondo Beach,California,60018,907400.0,2017
+Redwood City,California,60102,1196500.0,2017
+Rialto,California,60466,307900.0,2017
+Richmond,California,60620,495400.0,2017
+Riverside,California,62000,368600.0,2017
+Roseville,California,62938,441100.0,2017
+Sacramento,California,64000,335900.0,2017
+Salinas,California,64224,431500.0,2017
+San Bernardino,California,65000,245900.0,2017
+San Buenaventura (Ventura),California,65042,545900.0,2017
+San Clemente,California,65084,894500.0,2017
+San Diego,California,66000,600300.0,2017
+San Francisco,California,67000,1104100.0,2017
+San Jose,California,68000,854700.0,2017
+San Leandro,California,68084,597000.0,2017
+San Marcos,California,68196,525200.0,2017
+San Mateo,California,68252,1093900.0,2017
+San Ramon,California,68378,957800.0,2017
+Santa Ana,California,69000,494700.0,2017
+Santa Barbara,California,69070,1037400.0,2017
+Santa Clara,California,69084,1001100.0,2017
+Santa Clarita,California,69088,536700.0,2017
+Santa Cruz,California,69112,860600.0,2017
+Santa Maria,California,69196,350200.0,2017
+Santa Monica,California,70000,1237500.0,2017
+Santa Rosa,California,70098,568200.0,2017
+Simi Valley,California,72016,602800.0,2017
+South Gate,California,73080,420800.0,2017
+South San Francisco,California,73262,873000.0,2017
+Stockton,California,75000,282000.0,2017
+Sunnyvale,California,77000,1220900.0,2017
+Temecula,California,78120,457300.0,2017
+Thousand Oaks,California,78582,728700.0,2017
+Torrance,California,80000,760300.0,2017
+Tracy,California,80238,456100.0,2017
+Turlock,California,80812,305100.0,2017
+Tustin,California,80854,668500.0,2017
+Union City,California,81204,805100.0,2017
+Upland,California,81344,495700.0,2017
+Vacaville,California,81554,426400.0,2017
+Vallejo,California,81666,373100.0,2017
+Victorville,California,82590,221500.0,2017
+Visalia,California,82954,233900.0,2017
+Vista,California,82996,478000.0,2017
+Walnut Creek,California,83346,814600.0,2017
+West Covina,California,84200,559200.0,2017
+Westminster,California,84550,600100.0,2017
+Whittier,California,85292,581300.0,2017
+Yorba Linda,California,86832,913700.0,2017
+Yuba City,California,86972,274800.0,2017
+Arvada,Colorado,03455,382700.0,2017
+Aurora,Colorado,04000,299600.0,2017
+Boulder,Colorado,07850,694900.0,2017
+Broomfield,Colorado,09280,416600.0,2017
+Centennial,Colorado,12815,446000.0,2017
+Colorado Springs,Colorado,16000,265400.0,2017
+Denver,Colorado,20000,395100.0,2017
+Fort Collins,Colorado,27425,366500.0,2017
+Greeley,Colorado,32155,248000.0,2017
+Highlands Ranch CDP,Colorado,36410,469500.0,2017
+Lakewood,Colorado,43000,385200.0,2017
+Longmont,Colorado,45970,366900.0,2017
+Loveland,Colorado,46465,316700.0,2017
+Pueblo,Colorado,62000,139500.0,2017
+Thornton,Colorado,77290,324800.0,2017
+Westminster,Colorado,83835,341200.0,2017
+Bridgeport,Connecticut,08000,177600.0,2017
+Danbury,Connecticut,18430,314300.0,2017
+Hartford,Connecticut,37000,168000.0,2017
+New Britain,Connecticut,50370,157900.0,2017
+New Haven,Connecticut,52000,194200.0,2017
+Norwalk,Connecticut,55990,423500.0,2017
+Stamford,Connecticut,73000,517700.0,2017
+Waterbury,Connecticut,80000,134000.0,2017
+Wilmington,Delaware,77580,176800.0,2017
+Washington,District of Columbia,50000,607200.0,2017
+Alafaya CDP,Florida,00410,255600.0,2017
+Boca Raton,Florida,07300,459200.0,2017
+Boynton Beach,Florida,07875,200200.0,2017
+Brandon CDP,Florida,08150,183400.0,2017
+Cape Coral,Florida,10275,225800.0,2017
+Clearwater,Florida,12875,207200.0,2017
+Coral Springs,Florida,14400,347400.0,2017
+Davie town,Florida,16475,281200.0,2017
+Daytona Beach,Florida,16525,147700.0,2017
+Deerfield Beach,Florida,16725,165100.0,2017
+Delray Beach,Florida,17100,317400.0,2017
+Deltona,Florida,17200,148500.0,2017
+Fort Lauderdale,Florida,24000,329500.0,2017
+Fort Myers,Florida,24125,230800.0,2017
+Gainesville,Florida,25175,156900.0,2017
+Hialeah,Florida,30000,232600.0,2017
+Hollywood,Florida,32000,261700.0,2017
+Homestead,Florida,32275,223200.0,2017
+Jacksonville,Florida,35000,177000.0,2017
+Kendall CDP,Florida,36100,393800.0,2017
+Kissimmee,Florida,36950,166800.0,2017
+Lakeland,Florida,38250,150800.0,2017
+Largo,Florida,39425,129500.0,2017
+Lauderhill,Florida,39550,174600.0,2017
+Lehigh Acres CDP,Florida,39925,157600.0,2017
+Melbourne,Florida,43975,162100.0,2017
+Miami,Florida,45000,322100.0,2017
+Miami Beach,Florida,45025,458800.0,2017
+Miami Gardens,Florida,45060,192700.0,2017
+Miramar,Florida,45975,314600.0,2017
+North Port,Florida,49675,175300.0,2017
+Orlando,Florida,53000,232600.0,2017
+Palm Bay,Florida,54000,153200.0,2017
+Palm Coast,Florida,54200,215300.0,2017
+Pembroke Pines,Florida,55775,300600.0,2017
+Pine Hills CDP,Florida,56825,137200.0,2017
+Plantation,Florida,57425,317700.0,2017
+Poinciana CDP,Florida,57900,168200.0,2017
+Pompano Beach,Florida,58050,197400.0,2017
+Port Charlotte CDP,Florida,58350,167200.0,2017
+Port St. Lucie,Florida,58715,205000.0,2017
+Riverview CDP,Florida,60950,222400.0,2017
+St. Petersburg,Florida,63000,198400.0,2017
+Spring Hill CDP,Florida,68350,146000.0,2017
+Sunrise,Florida,69700,200500.0,2017
+Tallahassee,Florida,70600,202400.0,2017
+Tamarac,Florida,70675,170300.0,2017
+Tampa,Florida,71000,233800.0,2017
+The Hammocks CDP,Florida,71569,315100.0,2017
+The Villages CDP,Florida,71625,278500.0,2017
+Town 'n' Country CDP,Florida,72145,176600.0,2017
+Weston,Florida,76582,504800.0,2017
+West Palm Beach,Florida,76600,256600.0,2017
+Albany,Georgia,01052,97400.0,2017
+Alpharetta,Georgia,01696,416500.0,2017
+Athens-Clarke County unified government (balance),Georgia,03440,167400.0,2017
+Atlanta,Georgia,04000,299400.0,2017
+Augusta-Richmond County consolidated government (balance),Georgia,04204,101600.0,2017
+Columbus,Georgia,19000,139000.0,2017
+Johns Creek,Georgia,42425,414200.0,2017
+Macon-Bibb County,Georgia,49008,117400.0,2017
+Roswell,Georgia,67284,367900.0,2017
+Sandy Springs,Georgia,68516,499200.0,2017
+Savannah,Georgia,69000,148800.0,2017
+Warner Robins,Georgia,80508,100100.0,2017
+Urban Honolulu CDP,Hawaii,71550,696800.0,2017
+Boise City,Idaho,08830,242000.0,2017
+Meridian,Idaho,52120,271800.0,2017
+Nampa,Idaho,56260,171100.0,2017
+Arlington Heights village,Illinois,02154,377500.0,2017
+Aurora,Illinois,03012,177700.0,2017
+Bloomington,Illinois,06613,165800.0,2017
+Bolingbrook village,Illinois,07133,227300.0,2017
+Champaign,Illinois,12385,173400.0,2017
+Chicago,Illinois,14000,255900.0,2017
+Cicero town,Illinois,14351,158300.0,2017
+Decatur,Illinois,18823,80100.0,2017
+Elgin,Illinois,23074,189000.0,2017
+Evanston,Illinois,24582,374300.0,2017
+Joliet,Illinois,38570,179700.0,2017
+Naperville,Illinois,51622,410000.0,2017
+Palatine village,Illinois,57225,285300.0,2017
+Peoria,Illinois,59000,131100.0,2017
+Rockford,Illinois,65000,88800.0,2017
+Schaumburg village,Illinois,68003,285700.0,2017
+Skokie village,Illinois,70122,327600.0,2017
+Springfield,Illinois,72000,124400.0,2017
+Waukegan,Illinois,79293,138800.0,2017
+Bloomington,Indiana,05860,196900.0,2017
+Carmel,Indiana,10342,345900.0,2017
+Evansville,Indiana,22000,92700.0,2017
+Fishers,Indiana,23278,274000.0,2017
+Fort Wayne,Indiana,25000,117900.0,2017
+Gary,Indiana,27000,66900.0,2017
+Hammond,Indiana,31000,89200.0,2017
+Indianapolis,Indiana,36003,137600.0,2017
+Lafayette,Indiana,40788,105300.0,2017
+Muncie,Indiana,51876,72100.0,2017
+South Bend,Indiana,71000,87600.0,2017
+Ames,Iowa,01855,216000.0,2017
+Cedar Rapids,Iowa,12000,143600.0,2017
+Davenport,Iowa,19000,130900.0,2017
+Des Moines,Iowa,21000,134300.0,2017
+Iowa City,Iowa,38595,219100.0,2017
+Sioux City,Iowa,73335,115700.0,2017
+Waterloo,Iowa,82425,125200.0,2017
+Kansas City,Kansas,36000,103800.0,2017
+Lawrence,Kansas,38900,203800.0,2017
+Olathe,Kansas,52575,239100.0,2017
+Overland Park,Kansas,53775,270800.0,2017
+Shawnee,Kansas,64500,240000.0,2017
+Topeka,Kansas,71000,97300.0,2017
+Wichita,Kansas,79000,135100.0,2017
+Bowling Green,Kentucky,08902,153500.0,2017
+Lexington-Fayette urban county,Kentucky,46027,193100.0,2017
+Louisville/Jefferson County metro government (balance),Kentucky,48006,160500.0,2017
+Baton Rouge,Louisiana,05000,178300.0,2017
+Bossier City,Louisiana,08920,159900.0,2017
+Kenner,Louisiana,39475,179600.0,2017
+Lafayette,Louisiana,40735,193000.0,2017
+Lake Charles,Louisiana,41155,167100.0,2017
+Metairie CDP,Louisiana,50115,238400.0,2017
+New Orleans,Louisiana,55000,227800.0,2017
+Shreveport,Louisiana,70000,155300.0,2017
+Portland,Maine,60545,291200.0,2017
+Baltimore,Maryland,04000,154400.0,2017
+Bethesda CDP,Maryland,07125,938800.0,2017
+Columbia CDP,Maryland,19125,370600.0,2017
+Ellicott City CDP,Maryland,26000,538800.0,2017
+Frederick,Maryland,30325,275900.0,2017
+Gaithersburg,Maryland,31175,427700.0,2017
+Germantown CDP,Maryland,32025,325600.0,2017
+Glen Burnie CDP,Maryland,32650,256800.0,2017
+Rockville,Maryland,67675,484000.0,2017
+Silver Spring CDP,Maryland,72450,489000.0,2017
+Waldorf CDP,Maryland,81175,280800.0,2017
+Boston,Massachusetts,07000,540600.0,2017
+Brockton,Massachusetts,09000,264200.0,2017
+Cambridge,Massachusetts,11000,773200.0,2017
+Fall River,Massachusetts,23000,249300.0,2017
+Framingham CDP,Massachusetts,24960,420300.0,2017
+Lawrence,Massachusetts,34550,282300.0,2017
+Lowell,Massachusetts,37000,270100.0,2017
+Lynn,Massachusetts,37490,336100.0,2017
+New Bedford,Massachusetts,45000,236200.0,2017
+Newton,Massachusetts,45560,930400.0,2017
+Quincy,Massachusetts,55745,426200.0,2017
+Somerville,Massachusetts,62535,666500.0,2017
+Springfield,Massachusetts,67000,152200.0,2017
+Worcester,Massachusetts,82000,221600.0,2017
+Ann Arbor,Michigan,03000,323400.0,2017
+Dearborn,Michigan,21000,144900.0,2017
+Detroit,Michigan,22000,50200.0,2017
+Farmington Hills,Michigan,27440,257000.0,2017
+Flint,Michigan,29000,27400.0,2017
+Grand Rapids,Michigan,34000,144200.0,2017
+Kalamazoo,Michigan,42160,100500.0,2017
+Lansing,Michigan,46000,85700.0,2017
+Livonia,Michigan,49000,190000.0,2017
+Rochester Hills,Michigan,69035,285300.0,2017
+Southfield,Michigan,74900,157400.0,2017
+Sterling Heights,Michigan,76460,187800.0,2017
+Troy,Michigan,80700,297600.0,2017
+Warren,Michigan,84000,124700.0,2017
+Westland,Michigan,86000,121000.0,2017
+Wyoming,Michigan,88940,127500.0,2017
+Bloomington,Minnesota,06616,243500.0,2017
+Brooklyn Park,Minnesota,07966,227800.0,2017
+Duluth,Minnesota,17000,165200.0,2017
+Eagan,Minnesota,17288,288500.0,2017
+Maple Grove,Minnesota,40166,294200.0,2017
+Minneapolis,Minnesota,43000,250400.0,2017
+Plymouth,Minnesota,51730,361900.0,2017
+Rochester,Minnesota,54880,211900.0,2017
+St. Cloud,Minnesota,56896,154600.0,2017
+St. Paul,Minnesota,58000,211100.0,2017
+Woodbury,Minnesota,71428,328000.0,2017
+Gulfport,Mississippi,29700,124600.0,2017
+Jackson,Mississippi,36000,93400.0,2017
+Columbia,Missouri,15670,187100.0,2017
+Independence,Missouri,35000,112700.0,2017
+Kansas City,Missouri,38000,152900.0,2017
+Lee's Summit,Missouri,41348,211300.0,2017
+O'Fallon,Missouri,54074,228200.0,2017
+St. Charles,Missouri,64082,185000.0,2017
+St. Joseph,Missouri,64550,108700.0,2017
+St. Louis,Missouri,65000,141400.0,2017
+Springfield,Missouri,70000,121100.0,2017
+Billings,Montana,06550,226100.0,2017
+Missoula,Montana,50200,279800.0,2017
+Lincoln,Nebraska,28000,171300.0,2017
+Omaha,Nebraska,37000,157100.0,2017
+Enterprise CDP,Nevada,23770,300800.0,2017
+Henderson,Nevada,31900,311200.0,2017
+Las Vegas,Nevada,40000,245500.0,2017
+North Las Vegas,Nevada,51800,226600.0,2017
+Paradise CDP,Nevada,54600,229600.0,2017
+Reno,Nevada,60600,328700.0,2017
+Sparks,Nevada,68400,305800.0,2017
+Spring Valley CDP,Nevada,68585,265800.0,2017
+Sunrise Manor CDP,Nevada,71400,168400.0,2017
+Manchester,New Hampshire,45140,226900.0,2017
+Nashua,New Hampshire,50260,273900.0,2017
+Bayonne,New Jersey,03580,313200.0,2017
+Camden,New Jersey,10000,84700.0,2017
+Clifton,New Jersey,13690,337300.0,2017
+East Orange,New Jersey,19390,187500.0,2017
+Elizabeth,New Jersey,21000,272700.0,2017
+Jersey City,New Jersey,36000,379900.0,2017
+Newark,New Jersey,51000,235000.0,2017
+Passaic,New Jersey,56550,346100.0,2017
+Paterson,New Jersey,57000,241800.0,2017
+Toms River CDP,New Jersey,73110,284800.0,2017
+Trenton,New Jersey,74000,98100.0,2017
+Union City,New Jersey,74630,335600.0,2017
+Albuquerque,New Mexico,02000,196900.0,2017
+Las Cruces,New Mexico,39380,144100.0,2017
+Rio Rancho,New Mexico,63460,187900.0,2017
+Santa Fe,New Mexico,70500,283000.0,2017
+Albany,New York,01000,177100.0,2017
+Brentwood CDP,New York,08026,308900.0,2017
+Buffalo,New York,11000,92700.0,2017
+Cheektowaga CDP,New York,15000,113800.0,2017
+Mount Vernon,New York,49121,341400.0,2017
+New Rochelle,New York,50617,595000.0,2017
+New York,New York,51000,609500.0,2017
+Rochester,New York,63000,82400.0,2017
+Schenectady,New York,65508,105900.0,2017
+Syracuse,New York,73000,90100.0,2017
+Yonkers,New York,84000,429300.0,2017
+Asheville,North Carolina,02140,267000.0,2017
+Cary town,North Carolina,10740,356800.0,2017
+Charlotte,North Carolina,12000,215500.0,2017
+Concord,North Carolina,14100,212300.0,2017
+Durham,North Carolina,19000,230100.0,2017
+Fayetteville,North Carolina,22920,132400.0,2017
+Gastonia,North Carolina,25580,149600.0,2017
+Greensboro,North Carolina,28000,157000.0,2017
+Greenville,North Carolina,28080,156700.0,2017
+High Point,North Carolina,31400,144600.0,2017
+Jacksonville,North Carolina,34200,149000.0,2017
+Raleigh,North Carolina,55000,239700.0,2017
+Wilmington,North Carolina,74440,249400.0,2017
+Winston-Salem,North Carolina,75000,146300.0,2017
+Bismarck,North Dakota,07200,247400.0,2017
+Fargo,North Dakota,25700,213300.0,2017
+Akron,Ohio,01000,81600.0,2017
+Canton,Ohio,12000,74200.0,2017
+Cincinnati,Ohio,15000,143100.0,2017
+Cleveland,Ohio,16000,70200.0,2017
+Columbus,Ohio,18000,151400.0,2017
+Dayton,Ohio,21000,63900.0,2017
+Lorain,Ohio,44856,85800.0,2017
+Parma,Ohio,61000,116400.0,2017
+Toledo,Ohio,77000,78400.0,2017
+Youngstown,Ohio,88000,41400.0,2017
+Broken Arrow,Oklahoma,09050,168200.0,2017
+Edmond,Oklahoma,23200,232900.0,2017
+Lawton,Oklahoma,41850,120500.0,2017
+Norman,Oklahoma,52500,174900.0,2017
+Oklahoma City,Oklahoma,55000,158200.0,2017
+Tulsa,Oklahoma,75000,139700.0,2017
+Beaverton,Oregon,05350,389500.0,2017
+Bend,Oregon,05800,400700.0,2017
+Eugene,Oregon,23850,279000.0,2017
+Gresham,Oregon,31250,296300.0,2017
+Hillsboro,Oregon,34100,350000.0,2017
+Medford,Oregon,47000,270400.0,2017
+Portland,Oregon,59000,427500.0,2017
+Salem,Oregon,64900,234900.0,2017
+Allentown,Pennsylvania,02000,123700.0,2017
+Bethlehem,Pennsylvania,06088,169700.0,2017
+Erie,Pennsylvania,24000,88000.0,2017
+Philadelphia,Pennsylvania,60000,166200.0,2017
+Pittsburgh,Pennsylvania,61000,123600.0,2017
+Reading,Pennsylvania,63624,70000.0,2017
+Scranton,Pennsylvania,69000,108100.0,2017
+Cranston,Rhode Island,19180,245600.0,2017
+Pawtucket,Rhode Island,54640,189300.0,2017
+Providence,Rhode Island,59000,203300.0,2017
+Warwick,Rhode Island,74300,218400.0,2017
+Charleston,South Carolina,13330,344600.0,2017
+Columbia,South Carolina,16000,192500.0,2017
+Greenville,South Carolina,30850,282900.0,2017
+Mount Pleasant town,South Carolina,48535,449000.0,2017
+North Charleston,South Carolina,50875,179600.0,2017
+Rock Hill,South Carolina,61405,159300.0,2017
+Rapid City,South Dakota,52980,184200.0,2017
+Sioux Falls,South Dakota,59020,193900.0,2017
+Chattanooga,Tennessee,14000,163000.0,2017
+Clarksville,Tennessee,15160,153800.0,2017
+Franklin,Tennessee,27740,412900.0,2017
+Jackson,Tennessee,37640,138400.0,2017
+Johnson City,Tennessee,38320,166900.0,2017
+Knoxville,Tennessee,40000,133900.0,2017
+Memphis,Tennessee,48000,98700.0,2017
+Murfreesboro,Tennessee,51560,243800.0,2017
+Nashville-Davidson metropolitan government (balance),Tennessee,52006,246800.0,2017
+Abilene,Texas,01000,114900.0,2017
+Allen,Texas,01924,322400.0,2017
+Amarillo,Texas,03000,131400.0,2017
+Arlington,Texas,04000,167800.0,2017
+Atascocita CDP,Texas,04462,206500.0,2017
+Austin,Texas,05000,332700.0,2017
+Baytown,Texas,06128,126600.0,2017
+Beaumont,Texas,07000,105000.0,2017
+Brownsville,Texas,10768,93300.0,2017
+Bryan,Texas,10912,129600.0,2017
+Carrollton,Texas,13024,240700.0,2017
+Cedar Park,Texas,13552,307200.0,2017
+College Station,Texas,15976,244000.0,2017
+Conroe,Texas,16432,196800.0,2017
+Corpus Christi,Texas,17000,141300.0,2017
+Dallas,Texas,19000,190600.0,2017
+Denton,Texas,19972,223900.0,2017
+Edinburg,Texas,22660,115200.0,2017
+El Paso,Texas,24000,127700.0,2017
+Flower Mound town,Texas,26232,366600.0,2017
+Fort Worth,Texas,27000,169400.0,2017
+Frisco,Texas,27684,404100.0,2017
+Garland,Texas,29000,161700.0,2017
+Georgetown,Texas,29336,280300.0,2017
+Grand Prairie,Texas,30464,164000.0,2017
+Harlingen,Texas,32372,95100.0,2017
+Houston,Texas,35000,173600.0,2017
+Irving,Texas,37000,187700.0,2017
+Killeen,Texas,39148,128300.0,2017
+Laredo,Texas,41464,136400.0,2017
+League City,Texas,41980,253400.0,2017
+Lewisville,Texas,42508,222200.0,2017
+Longview,Texas,43888,145100.0,2017
+Lubbock,Texas,45000,138000.0,2017
+McAllen,Texas,45384,131000.0,2017
+McKinney,Texas,45744,317200.0,2017
+Mansfield,Texas,46452,247600.0,2017
+Mesquite,Texas,47892,142000.0,2017
+Midland,Texas,48072,204100.0,2017
+Mission,Texas,48768,104400.0,2017
+Missouri City,Texas,48804,195500.0,2017
+New Braunfels,Texas,50820,219100.0,2017
+North Richland Hills,Texas,52356,199600.0,2017
+Odessa,Texas,53388,157800.0,2017
+Pasadena,Texas,56000,122900.0,2017
+Pearland,Texas,56348,251400.0,2017
+Pharr,Texas,57200,83100.0,2017
+Plano,Texas,58016,329500.0,2017
+Richardson,Texas,61796,269900.0,2017
+Round Rock,Texas,63500,267500.0,2017
+San Angelo,Texas,64472,134600.0,2017
+San Antonio,Texas,65000,148200.0,2017
+Sugar Land,Texas,70808,332900.0,2017
+Temple,Texas,72176,139000.0,2017
+The Woodlands CDP,Texas,72656,366200.0,2017
+Tyler,Texas,74144,153400.0,2017
+Victoria,Texas,75428,144200.0,2017
+Waco,Texas,76000,117100.0,2017
+Wichita Falls,Texas,79000,101900.0,2017
+Layton,Utah,43660,252300.0,2017
+Ogden,Utah,55980,182600.0,2017
+Orem,Utah,57300,266600.0,2017
+Provo,Utah,62470,256900.0,2017
+St. George,Utah,65330,289500.0,2017
+Salt Lake City,Utah,67000,307900.0,2017
+Sandy,Utah,67440,347300.0,2017
+South Jordan,Utah,70850,385600.0,2017
+West Jordan,Utah,82950,283700.0,2017
+West Valley City,Utah,83470,219800.0,2017
+Alexandria,Virginia,01000,573200.0,2017
+Arlington CDP,Virginia,03000,735100.0,2017
+Centreville CDP,Virginia,14440,434100.0,2017
+Chesapeake,Virginia,16000,270200.0,2017
+Dale City CDP,Virginia,21088,321200.0,2017
+Hampton,Virginia,35000,184100.0,2017
+Lynchburg,Virginia,47672,160400.0,2017
+Newport News,Virginia,56000,192500.0,2017
+Norfolk,Virginia,57000,204400.0,2017
+Portsmouth,Virginia,64000,175200.0,2017
+Richmond,Virginia,67000,233200.0,2017
+Roanoke,Virginia,68000,136300.0,2017
+Suffolk,Virginia,76432,252000.0,2017
+Virginia Beach,Virginia,82000,282300.0,2017
+Auburn,Washington,03180,323100.0,2017
+Bellevue,Washington,05210,806800.0,2017
+Bellingham,Washington,05280,372600.0,2017
+Everett,Washington,22640,325900.0,2017
+Federal Way,Washington,23515,340500.0,2017
+Kennewick,Washington,35275,200500.0,2017
+Kent,Washington,35415,343700.0,2017
+Kirkland,Washington,35940,682300.0,2017
+Marysville,Washington,43955,337000.0,2017
+Pasco,Washington,53545,209000.0,2017
+Renton,Washington,57745,401600.0,2017
+Seattle,Washington,63000,673100.0,2017
+Spokane,Washington,67000,190200.0,2017
+Spokane Valley,Washington,67167,198600.0,2017
+Tacoma,Washington,70000,269800.0,2017
+Vancouver,Washington,74060,290500.0,2017
+Yakima,Washington,80010,168700.0,2017
+Appleton,Wisconsin,02375,148600.0,2017
+Eau Claire,Wisconsin,22300,149100.0,2017
+Green Bay,Wisconsin,31000,138600.0,2017
+Kenosha,Wisconsin,39225,145500.0,2017
+Madison,Wisconsin,48000,240700.0,2017
+Milwaukee,Wisconsin,53000,122300.0,2017
+Oshkosh,Wisconsin,60500,128500.0,2017
+Racine,Wisconsin,66000,106700.0,2017
+Waukesha,Wisconsin,84250,209800.0,2017
+Bayam?n zona urbana,Puerto Rico,06593,129000.0,2017
+Caguas zona urbana,Puerto Rico,10334,113200.0,2017
+Carolina zona urbana,Puerto Rico,14290,133200.0,2017
+Guaynabo zona urbana,Puerto Rico,32522,201700.0,2017
+Ponce zona urbana,Puerto Rico,63820,105200.0,2017
+San Juan zona urbana,Puerto Rico,76770,146300.0,2017
+Birmingham,Alabama,07000,87800.0,2017
+Dothan,Alabama,21184,156800.0,2017
+Hoover,Alabama,35896,283500.0,2017
+Huntsville,Alabama,37000,170900.0,2017
+Mobile,Alabama,50000,124800.0,2017
+Montgomery,Alabama,51000,119500.0,2017
+Tuscaloosa,Alabama,77256,170500.0,2017
+Anchorage municipality,Alaska,03000,320000.0,2017
+Avondale,Arizona,04720,207300.0,2017
+Buckeye,Arizona,07940,216400.0,2017
+Casas Adobes CDP,Arizona,10670,201200.0,2017
+Chandler,Arizona,12000,292800.0,2017
+Flagstaff,Arizona,23620,344600.0,2017
+Gilbert town,Arizona,27400,320000.0,2017
+Glendale,Arizona,27820,220600.0,2017
+Goodyear,Arizona,28380,298900.0,2017
+Mesa,Arizona,46000,224700.0,2017
+Peoria,Arizona,54050,255800.0,2017
+Phoenix,Arizona,55000,231000.0,2017
+San Tan Valley CDP,Arizona,64210,209200.0,2017
+Scottsdale,Arizona,65000,473300.0,2017
+Surprise,Arizona,71510,231900.0,2017
+Tempe,Arizona,73000,266900.0,2017
+Tucson,Arizona,77000,150400.0,2017
+Yuma,Arizona,85540,143400.0,2017
+Conway,Arkansas,15190,178800.0,2017
+Fayetteville,Arkansas,23290,218300.0,2017
+Fort Smith,Arkansas,24550,121900.0,2017
+Jonesboro,Arkansas,35710,153000.0,2017
+Little Rock,Arkansas,41000,169900.0,2017
