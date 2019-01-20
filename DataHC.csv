@@ -1,0 +1,2989 @@
+MedianMonthly_HC,City,Zipcode,Number,State,Year
+740.0,Birmingham,07000,01,Alabama,2013
+695.0,Dothan,21184,01,Alabama,2013
+1196.0,Hoover,35896,01,Alabama,2013
+763.0,Huntsville,37000,01,Alabama,2013
+771.0,Mobile,50000,01,Alabama,2013
+828.0,Montgomery,51000,01,Alabama,2013
+788.0,Tuscaloosa,77256,01,Alabama,2013
+1372.0,Anchorage municipality,03000,02,Alaska,2013
+1019.0,Avondale,04720,04,Arizona,2013
+1027.0,Casas Adobes CDP,10670,04,Arizona,2013
+1205.0,Chandler,12000,04,Arizona,2013
+1084.0,Flagstaff,23620,04,Arizona,2013
+1359.0,Gilbert town,27400,04,Arizona,2013
+907.0,Glendale,27820,04,Arizona,2013
+1202.0,Goodyear,28380,04,Arizona,2013
+879.0,Mesa,46000,04,Arizona,2013
+1115.0,Peoria,54050,04,Arizona,2013
+937.0,Phoenix,55000,04,Arizona,2013
+1105.0,San Tan Valley CDP,64210,04,Arizona,2013
+1234.0,Scottsdale,65000,04,Arizona,2013
+1006.0,Surprise,71510,04,Arizona,2013
+955.0,Tempe,73000,04,Arizona,2013
+776.0,Tucson,77000,04,Arizona,2013
+886.0,Yuma,85540,04,Arizona,2013
+773.0,Fayetteville,23290,05,Arkansas,2013
+642.0,Fort Smith,24550,05,Arkansas,2013
+687.0,Jonesboro,35710,05,Arkansas,2013
+859.0,Little Rock,41000,05,Arkansas,2013
+706.0,North Little Rock,50450,05,Arkansas,2013
+731.0,Springdale,66080,05,Arkansas,2013
+1485.0,Alameda,00562,06,California,2013
+1265.0,Alhambra,00884,06,California,2013
+1460.0,Anaheim,02000,06,California,2013
+1497.0,Antioch,02252,06,California,2013
+1053.0,Apple Valley town,02364,06,California,2013
+932.0,Arden-Arcade CDP,02553,06,California,2013
+1114.0,Bakersfield,03526,06,California,2013
+1282.0,Baldwin Park,03666,06,California,2013
+1220.0,Bellflower,04982,06,California,2013
+1513.0,Berkeley,06000,06,California,2013
+1506.0,Buena Park,08786,06,California,2013
+1494.0,Burbank,08954,06,California,2013
+1813.0,Camarillo,10046,06,California,2013
+2011.0,Carlsbad,11194,06,California,2013
+1103.0,Carmichael CDP,11390,06,California,2013
+1542.0,Carson,11530,06,California,2013
+939.0,Chico,13014,06,California,2013
+1705.0,Chino,13210,06,California,2013
+2065.0,Chino Hills,13214,06,California,2013
+1536.0,Chula Vista,13392,06,California,2013
+1091.0,Citrus Heights,13588,06,California,2013
+1261.0,Clovis,14218,06,California,2013
+1225.0,Compton,15044,06,California,2013
+1408.0,Concord,16000,06,California,2013
+1601.0,Corona,16350,06,California,2013
+1619.0,Costa Mesa,16532,06,California,2013
+1631.0,Daly City,17918,06,California,2013
+1390.0,Davis,18100,06,California,2013
+1338.0,Downey,19766,06,California,2013
+983.0,East Los Angeles CDP,20802,06,California,2013
+1128.0,El Cajon,21712,06,California,2013
+1583.0,Elk Grove,22020,06,California,2013
+1080.0,El Monte,22230,06,California,2013
+1323.0,Escondido,22804,06,California,2013
+1453.0,Fairfield,23182,06,California,2013
+1610.0,Folsom,24638,06,California,2013
+1447.0,Fontana,24680,06,California,2013
+1901.0,Fremont,26000,06,California,2013
+942.0,Fresno,27000,06,California,2013
+1472.0,Fullerton,28000,06,California,2013
+1390.0,Garden Grove,29000,06,California,2013
+1381.0,Glendale,30000,06,California,2013
+1079.0,Hawthorne,32548,06,California,2013
+1402.0,Hayward,33000,06,California,2013
+853.0,Hemet,33182,06,California,2013
+1071.0,Hesperia,33434,06,California,2013
+1699.0,Huntington Beach,36000,06,California,2013
+1146.0,Indio,36448,06,California,2013
+1173.0,Inglewood,36546,06,California,2013
+2015.0,Irvine,36770,06,California,2013
+1230.0,Jurupa Valley,37692,06,California,2013
+1782.0,Lake Forest,39496,06,California,2013
+1693.0,Lakewood,39892,06,California,2013
+1154.0,Lancaster,40130,06,California,2013
+1904.0,Livermore,41992,06,California,2013
+1219.0,Long Beach,43000,06,California,2013
+1333.0,Los Angeles,44000,06,California,2013
+1194.0,Lynwood,44574,06,California,2013
+1310.0,Manteca,45484,06,California,2013
+1313.0,Menifee,46842,06,California,2013
+854.0,Merced,46898,06,California,2013
+1964.0,Milpitas,47766,06,California,2013
+2074.0,Mission Viejo,48256,06,California,2013
+1030.0,Modesto,48354,06,California,2013
+1309.0,Moreno Valley,49270,06,California,2013
+1846.0,Mountain View,49670,06,California,2013
+1698.0,Murrieta,50076,06,California,2013
+1451.0,Napa,50258,06,California,2013
+2317.0,Newport Beach,51182,06,California,2013
+1489.0,Norwalk,52526,06,California,2013
+1264.0,Oakland,53000,06,California,2013
+1383.0,Oceanside,53322,06,California,2013
+1332.0,Ontario,53896,06,California,2013
+1622.0,Orange,53980,06,California,2013
+1443.0,Oxnard,54652,06,California,2013
+1313.0,Palmdale,55156,06,California,2013
+2416.0,Palo Alto,55282,06,California,2013
+1574.0,Pasadena,56000,06,California,2013
+1293.0,Perris,56700,06,California,2013
+1378.0,Pittsburg,57456,06,California,2013
+2404.0,Pleasanton,57792,06,California,2013
+1262.0,Pomona,58072,06,California,2013
+1106.0,Rancho Cordova,59444,06,California,2013
+1717.0,Rancho Cucamonga,59451,06,California,2013
+982.0,Redding,59920,06,California,2013
+1216.0,Redlands,59962,06,California,2013
+1850.0,Redondo Beach,60018,06,California,2013
+1943.0,Redwood City,60102,06,California,2013
+1177.0,Rialto,60466,06,California,2013
+1261.0,Richmond,60620,06,California,2013
+1291.0,Riverside,62000,06,California,2013
+1483.0,Roseville,62938,06,California,2013
+1081.0,Sacramento,64000,06,California,2013
+1212.0,Salinas,64224,06,California,2013
+971.0,San Bernardino,65000,06,California,2013
+1499.0,San Buenaventura (Ventura),65042,06,California,2013
+1970.0,San Clemente,65084,06,California,2013
+1475.0,San Diego,66000,06,California,2013
+1640.0,San Francisco,67000,06,California,2013
+1727.0,San Jose,68000,06,California,2013
+1289.0,San Leandro,68084,06,California,2013
+1420.0,San Marcos,68196,06,California,2013
+1835.0,San Mateo,68252,06,California,2013
+2647.0,San Ramon,68378,06,California,2013
+1323.0,Santa Ana,69000,06,California,2013
+1534.0,Santa Barbara,69070,06,California,2013
+1885.0,Santa Clara,69084,06,California,2013
+1729.0,Santa Clarita,69088,06,California,2013
+1129.0,Santa Maria,69196,06,California,2013
+1650.0,Santa Monica,70000,06,California,2013
+1390.0,Santa Rosa,70098,06,California,2013
+1863.0,Simi Valley,72016,06,California,2013
+1191.0,South Gate,73080,06,California,2013
+1749.0,South San Francisco,73262,06,California,2013
+1377.0,South Whittier CDP,73430,06,California,2013
+1004.0,Stockton,75000,06,California,2013
+1786.0,Sunnyvale,77000,06,California,2013
+1695.0,Temecula,78120,06,California,2013
+2098.0,Thousand Oaks,78582,06,California,2013
+1618.0,Torrance,80000,06,California,2013
+1584.0,Tracy,80238,06,California,2013
+1006.0,Turlock,80812,06,California,2013
+1613.0,Tustin,80854,06,California,2013
+1638.0,Union City,81204,06,California,2013
+1250.0,Upland,81344,06,California,2013
+1507.0,Vacaville,81554,06,California,2013
+1271.0,Vallejo,81666,06,California,2013
+1123.0,Victorville,82590,06,California,2013
+1051.0,Visalia,82954,06,California,2013
+1228.0,Vista,82996,06,California,2013
+1612.0,Walnut Creek,83346,06,California,2013
+1528.0,West Covina,84200,06,California,2013
+1399.0,Westminster,84550,06,California,2013
+1385.0,Whittier,85292,06,California,2013
+2303.0,Yorba Linda,86832,06,California,2013
+1057.0,Yuba City,86972,06,California,2013
+1213.0,Arvada,03455,08,Colorado,2013
+1082.0,Aurora,04000,08,Colorado,2013
+1305.0,Boulder,07850,08,Colorado,2013
+1517.0,Centennial,12815,08,Colorado,2013
+1034.0,Colorado Springs,16000,08,Colorado,2013
+1039.0,Denver,20000,08,Colorado,2013
+1150.0,Fort Collins,27425,08,Colorado,2013
+844.0,Greeley,32155,08,Colorado,2013
+1642.0,Highlands Ranch CDP,36410,08,Colorado,2013
+1048.0,Lakewood,43000,08,Colorado,2013
+1166.0,Longmont,45970,08,Colorado,2013
+1017.0,Loveland,46465,08,Colorado,2013
+730.0,Pueblo,62000,08,Colorado,2013
+1244.0,Thornton,77290,08,Colorado,2013
+1199.0,Westminster,83835,08,Colorado,2013
+1189.0,Bridgeport,08000,09,Connecticut,2013
+1389.0,Danbury,18430,09,Connecticut,2013
+922.0,Hartford,37000,09,Connecticut,2013
+963.0,New Britain,50370,09,Connecticut,2013
+1130.0,New Haven,52000,09,Connecticut,2013
+1698.0,Norwalk,55990,09,Connecticut,2013
+1709.0,Stamford,73000,09,Connecticut,2013
+942.0,Waterbury,80000,09,Connecticut,2013
+980.0,Wilmington,77580,10,Delaware,2013
+1477.0,Washington,50000,11,District of Columbia,2013
+1329.0,Alafaya CDP,00410,12,Florida,2013
+1565.0,Boca Raton,07300,12,Florida,2013
+1033.0,Boynton Beach,07875,12,Florida,2013
+1065.0,Brandon CDP,08150,12,Florida,2013
+1002.0,Cape Coral,10275,12,Florida,2013
+918.0,Clearwater,12875,12,Florida,2013
+1392.0,Coral Springs,14400,12,Florida,2013
+1214.0,Davie town,16475,12,Florida,2013
+934.0,Deerfield Beach,16725,12,Florida,2013
+997.0,Deltona,17200,12,Florida,2013
+1184.0,Fort Lauderdale,24000,12,Florida,2013
+830.0,Fort Myers,24125,12,Florida,2013
+798.0,Gainesville,25175,12,Florida,2013
+922.0,Hialeah,30000,12,Florida,2013
+1085.0,Hollywood,32000,12,Florida,2013
+970.0,Jacksonville,35000,12,Florida,2013
+1383.0,Kendall CDP,36100,12,Florida,2013
+906.0,Kissimmee,36950,12,Florida,2013
+799.0,Lakeland,38250,12,Florida,2013
+781.0,Largo,39425,12,Florida,2013
+1004.0,Lauderhill,39550,12,Florida,2013
+818.0,Lehigh Acres CDP,39925,12,Florida,2013
+811.0,Melbourne,43975,12,Florida,2013
+965.0,Miami,45000,12,Florida,2013
+1170.0,Miami Beach,45025,12,Florida,2013
+1091.0,Miami Gardens,45060,12,Florida,2013
+1613.0,Miramar,45975,12,Florida,2013
+1010.0,Orlando,53000,12,Florida,2013
+851.0,Palm Bay,54000,12,Florida,2013
+872.0,Palm Coast,54200,12,Florida,2013
+1492.0,Pembroke Pines,55775,12,Florida,2013
+947.0,Pine Hills CDP,56825,12,Florida,2013
+1410.0,Plantation,57425,12,Florida,2013
+1015.0,Pompano Beach,58050,12,Florida,2013
+1112.0,Port St. Lucie,58715,12,Florida,2013
+1262.0,Riverview CDP,60950,12,Florida,2013
+953.0,St. Petersburg,63000,12,Florida,2013
+851.0,Spring Hill CDP,68350,12,Florida,2013
+1136.0,Sunrise,69700,12,Florida,2013
+894.0,Tallahassee,70600,12,Florida,2013
+992.0,Tampa,71000,12,Florida,2013
+1007.0,Town 'n' Country CDP,72145,12,Florida,2013
+1953.0,Weston,76582,12,Florida,2013
+1118.0,West Palm Beach,76600,12,Florida,2013
+662.0,Albany,01052,13,Georgia,2013
+799.0,Athens-Clarke County unified government (balance),03440,13,Georgia,2013
+1061.0,Atlanta,04000,13,Georgia,2013
+782.0,Augusta-Richmond County consolidated government (balance),04204,13,Georgia,2013
+838.0,Columbus,19000,13,Georgia,2013
+1670.0,Johns Creek,42425,13,Georgia,2013
+691.0,Macon,49000,13,Georgia,2013
+1177.0,Roswell,67284,13,Georgia,2013
+1089.0,Sandy Springs,68516,13,Georgia,2013
+904.0,Savannah,69000,13,Georgia,2013
+845.0,Warner Robins,80508,13,Georgia,2013
+1272.0,Urban Honolulu CDP,71550,15,Hawaii,2013
+866.0,Boise City,08830,16,Idaho,2013
+1130.0,Meridian,52120,16,Idaho,2013
+814.0,Nampa,56260,16,Idaho,2013
+1399.0,Arlington Heights village,02154,17,Illinois,2013
+1289.0,Aurora,03012,17,Illinois,2013
+886.0,Bloomington,06613,17,Illinois,2013
+1595.0,Bolingbrook village,07133,17,Illinois,2013
+863.0,Champaign,12385,17,Illinois,2013
+1073.0,Chicago,14000,17,Illinois,2013
+925.0,Cicero town,14351,17,Illinois,2013
+626.0,Decatur,18823,17,Illinois,2013
+1162.0,Elgin,23074,17,Illinois,2013
+1499.0,Evanston,24582,17,Illinois,2013
+1213.0,Joliet,38570,17,Illinois,2013
+1660.0,Naperville,51622,17,Illinois,2013
+1249.0,Palatine village,57225,17,Illinois,2013
+754.0,Peoria,59000,17,Illinois,2013
+793.0,Rockford,65000,17,Illinois,2013
+1268.0,Schaumburg village,68003,17,Illinois,2013
+1209.0,Skokie village,70122,17,Illinois,2013
+778.0,Springfield,72000,17,Illinois,2013
+982.0,Waukegan,79293,17,Illinois,2013
+796.0,Bloomington,05860,18,Indiana,2013
+1470.0,Carmel,10342,18,Indiana,2013
+684.0,Evansville,22000,18,Indiana,2013
+1381.0,Fishers town,23278,18,Indiana,2013
+680.0,Fort Wayne,25000,18,Indiana,2013
+677.0,Gary,27000,18,Indiana,2013
+815.0,Hammond,31000,18,Indiana,2013
+829.0,Indianapolis,36003,18,Indiana,2013
+751.0,Lafayette,40788,18,Indiana,2013
+647.0,Muncie,51876,18,Indiana,2013
+685.0,South Bend,71000,18,Indiana,2013
+828.0,Cedar Rapids,12000,19,Iowa,2013
+749.0,Davenport,19000,19,Iowa,2013
+811.0,Des Moines,21000,19,Iowa,2013
+881.0,Iowa City,38595,19,Iowa,2013
+685.0,Sioux City,73335,19,Iowa,2013
+696.0,Waterloo,82425,19,Iowa,2013
+811.0,Kansas City,36000,20,Kansas,2013
+925.0,Lawrence,38900,20,Kansas,2013
+1246.0,Olathe,52575,20,Kansas,2013
+1162.0,Overland Park,53775,20,Kansas,2013
+716.0,Topeka,71000,20,Kansas,2013
+754.0,Wichita,79000,20,Kansas,2013
+861.0,Lexington-Fayette urban county,46027,21,Kentucky,2013
+793.0,Louisville/Jefferson County metro government (balance),48006,21,Kentucky,2013
+730.0,Baton Rouge,05000,22,Louisiana,2013
+873.0,Bossier City,08920,22,Louisiana,2013
+905.0,Kenner,39475,22,Louisiana,2013
+800.0,Lafayette,40735,22,Louisiana,2013
+689.0,Lake Charles,41155,22,Louisiana,2013
+870.0,Metairie CDP,50115,22,Louisiana,2013
+942.0,New Orleans,55000,22,Louisiana,2013
+703.0,Shreveport,70000,22,Louisiana,2013
+984.0,Portland,60545,23,Maine,2013
+975.0,Baltimore,04000,24,Maryland,2013
+2171.0,Bethesda CDP,07125,24,Maryland,2013
+1692.0,Columbia CDP,19125,24,Maryland,2013
+2049.0,Ellicott City CDP,26000,24,Maryland,2013
+1312.0,Frederick,30325,24,Maryland,2013
+1627.0,Gaithersburg,31175,24,Maryland,2013
+1695.0,Germantown CDP,32025,24,Maryland,2013
+1211.0,Glen Burnie CDP,32650,24,Maryland,2013
+1532.0,Silver Spring CDP,72450,24,Maryland,2013
+1704.0,Waldorf CDP,81175,24,Maryland,2013
+1411.0,Boston,07000,25,Massachusetts,2013
+1292.0,Brockton,09000,25,Massachusetts,2013
+1664.0,Cambridge,11000,25,Massachusetts,2013
+749.0,Fall River,23000,25,Massachusetts,2013
+1384.0,Framingham CDP,24960,25,Massachusetts,2013
+1053.0,Lawrence,34550,25,Massachusetts,2013
+1068.0,Lowell,37000,25,Massachusetts,2013
+1170.0,Lynn,37490,25,Massachusetts,2013
+776.0,New Bedford,45000,25,Massachusetts,2013
+1957.0,Newton,45560,25,Massachusetts,2013
+1314.0,Quincy,55745,25,Massachusetts,2013
+1520.0,Somerville,62535,25,Massachusetts,2013
+940.0,Springfield,67000,25,Massachusetts,2013
+998.0,Worcester,82000,25,Massachusetts,2013
+1175.0,Ann Arbor,03000,26,Michigan,2013
+927.0,Dearborn,21000,26,Michigan,2013
+663.0,Detroit,22000,26,Michigan,2013
+1171.0,Farmington Hills,27440,26,Michigan,2013
+611.0,Flint,29000,26,Michigan,2013
+806.0,Grand Rapids,34000,26,Michigan,2013
+762.0,Kalamazoo,42160,26,Michigan,2013
+747.0,Lansing,46000,26,Michigan,2013
+1096.0,Livonia,49000,26,Michigan,2013
+1205.0,Rochester Hills,69035,26,Michigan,2013
+996.0,Southfield,74900,26,Michigan,2013
+921.0,Sterling Heights,76460,26,Michigan,2013
+1200.0,Troy,80700,26,Michigan,2013
+772.0,Warren,84000,26,Michigan,2013
+801.0,Westland,86000,26,Michigan,2013
+782.0,Wyoming,88940,26,Michigan,2013
+1112.0,Bloomington,06616,27,Minnesota,2013
+1092.0,Brooklyn Park,07966,27,Minnesota,2013
+725.0,Duluth,17000,27,Minnesota,2013
+1214.0,Eagan,17288,27,Minnesota,2013
+1418.0,Maple Grove,40166,27,Minnesota,2013
+1005.0,Minneapolis,43000,27,Minnesota,2013
+1256.0,Plymouth,51730,27,Minnesota,2013
+949.0,Rochester,54880,27,Minnesota,2013
+759.0,St. Cloud,56896,27,Minnesota,2013
+950.0,St. Paul,58000,27,Minnesota,2013
+1485.0,Woodbury,71428,27,Minnesota,2013
+806.0,Gulfport,29700,28,Mississippi,2013
+731.0,Jackson,36000,28,Mississippi,2013
+837.0,Columbia,15670,29,Missouri,2013
+775.0,Independence,35000,29,Missouri,2013
+844.0,Kansas City,38000,29,Missouri,2013
+1282.0,Lee's Summit,41348,29,Missouri,2013
+1237.0,O'Fallon,54074,29,Missouri,2013
+935.0,St. Charles,64082,29,Missouri,2013
+720.0,St. Joseph,64550,29,Missouri,2013
+759.0,St. Louis,65000,29,Missouri,2013
+675.0,Springfield,70000,29,Missouri,2013
+841.0,Billings,06550,30,Montana,2013
+812.0,Missoula,50200,30,Montana,2013
+841.0,Lincoln,28000,31,Nebraska,2013
+872.0,Omaha,37000,31,Nebraska,2013
+1325.0,Enterprise CDP,23770,32,Nevada,2013
+1166.0,Henderson,31900,32,Nevada,2013
+1021.0,Las Vegas,40000,32,Nevada,2013
+1091.0,North Las Vegas,51800,32,Nevada,2013
+932.0,Paradise CDP,54600,32,Nevada,2013
+905.0,Reno,60600,32,Nevada,2013
+953.0,Sparks,68400,32,Nevada,2013
+1022.0,Spring Valley CDP,68585,32,Nevada,2013
+864.0,Sunrise Manor CDP,71400,32,Nevada,2013
+1104.0,Manchester,45140,33,New Hampshire,2013
+1202.0,Nashua,50260,33,New Hampshire,2013
+1216.0,Bayonne,03580,34,New Jersey,2013
+853.0,Camden,10000,34,New Jersey,2013
+1547.0,Clifton,13690,34,New Jersey,2013
+1087.0,East Orange,19390,34,New Jersey,2013
+1107.0,Elizabeth,21000,34,New Jersey,2013
+1266.0,Jersey City,36000,34,New Jersey,2013
+1001.0,Newark,51000,34,New Jersey,2013
+1155.0,Passaic,56550,34,New Jersey,2013
+1196.0,Paterson,57000,34,New Jersey,2013
+1448.0,Toms River CDP,73110,34,New Jersey,2013
+1039.0,Trenton,74000,34,New Jersey,2013
+1183.0,Union City,74630,34,New Jersey,2013
+900.0,Albuquerque,02000,35,New Mexico,2013
+747.0,Las Cruces,39380,35,New Mexico,2013
+1089.0,Rio Rancho,63460,35,New Mexico,2013
+1004.0,Santa Fe,70500,35,New Mexico,2013
+900.0,Albany,01000,36,New York,2013
+697.0,Buffalo,11000,36,New York,2013
+788.0,Cheektowaga CDP,15000,36,New York,2013
+1397.0,Mount Vernon,49121,36,New York,2013
+1565.0,New Rochelle,50617,36,New York,2013
+1293.0,New York,51000,36,New York,2013
+771.0,Rochester,63000,36,New York,2013
+857.0,Schenectady,65508,36,New York,2013
+722.0,Syracuse,73000,36,New York,2013
+1292.0,Yonkers,84000,36,New York,2013
+895.0,Asheville,02140,37,North Carolina,2013
+1205.0,Cary town,10740,37,North Carolina,2013
+991.0,Charlotte,12000,37,North Carolina,2013
+1026.0,Concord,14100,37,North Carolina,2013
+969.0,Durham,19000,37,North Carolina,2013
+882.0,Fayetteville,22920,37,North Carolina,2013
+808.0,Gastonia,25580,37,North Carolina,2013
+806.0,Greensboro,28000,37,North Carolina,2013
+776.0,Greenville,28080,37,North Carolina,2013
+802.0,High Point,31400,37,North Carolina,2013
+1011.0,Jacksonville,34200,37,North Carolina,2013
+1000.0,Raleigh,55000,37,North Carolina,2013
+916.0,Wilmington,74440,37,North Carolina,2013
+769.0,Winston-Salem,75000,37,North Carolina,2013
+812.0,Bismarck,07200,38,North Dakota,2013
+790.0,Fargo,25700,38,North Dakota,2013
+717.0,Akron,01000,39,Ohio,2013
+619.0,Canton,12000,39,Ohio,2013
+714.0,Cincinnati,15000,39,Ohio,2013
+666.0,Cleveland,16000,39,Ohio,2013
+884.0,Columbus,18000,39,Ohio,2013
+632.0,Dayton,21000,39,Ohio,2013
+660.0,Lorain,44856,39,Ohio,2013
+839.0,Parma,61000,39,Ohio,2013
+652.0,Toledo,77000,39,Ohio,2013
+519.0,Youngstown,88000,39,Ohio,2013
+1051.0,Broken Arrow,09050,40,Oklahoma,2013
+1120.0,Edmond,23200,40,Oklahoma,2013
+757.0,Lawton,41850,40,Oklahoma,2013
+857.0,Norman,52500,40,Oklahoma,2013
+822.0,Oklahoma City,55000,40,Oklahoma,2013
+778.0,Tulsa,75000,40,Oklahoma,2013
+1106.0,Beaverton,05350,41,Oregon,2013
+1001.0,Bend,05800,41,Oregon,2013
+1021.0,Eugene,23850,41,Oregon,2013
+988.0,Gresham,31250,41,Oregon,2013
+1159.0,Hillsboro,34100,41,Oregon,2013
+948.0,Medford,47000,41,Oregon,2013
+1164.0,Portland,59000,41,Oregon,2013
+835.0,Salem,64900,41,Oregon,2013
+942.0,Allentown,02000,42,Pennsylvania,2013
+983.0,Bethlehem,06088,42,Pennsylvania,2013
+688.0,Erie,24000,42,Pennsylvania,2013
+885.0,Philadelphia,60000,42,Pennsylvania,2013
+798.0,Pittsburgh,61000,42,Pennsylvania,2013
+747.0,Reading,63624,42,Pennsylvania,2013
+760.0,Scranton,69000,42,Pennsylvania,2013
+1188.0,Cranston,19180,44,Rhode Island,2013
+895.0,Pawtucket,54640,44,Rhode Island,2013
+971.0,Providence,59000,44,Rhode Island,2013
+1250.0,Warwick,74300,44,Rhode Island,2013
+1124.0,Charleston,13330,45,South Carolina,2013
+862.0,Columbia,16000,45,South Carolina,2013
+1419.0,Mount Pleasant town,48535,45,South Carolina,2013
+897.0,North Charleston,50875,45,South Carolina,2013
+799.0,Rock Hill,61405,45,South Carolina,2013
+790.0,Rapid City,52980,46,South Dakota,2013
+826.0,Sioux Falls,59020,46,South Dakota,2013
+755.0,Chattanooga,14000,47,Tennessee,2013
+927.0,Clarksville,15160,47,Tennessee,2013
+1244.0,Franklin,27740,47,Tennessee,2013
+752.0,Jackson,37640,47,Tennessee,2013
+659.0,Johnson City,38320,47,Tennessee,2013
+792.0,Knoxville,40000,47,Tennessee,2013
+841.0,Memphis,48000,47,Tennessee,2013
+943.0,Murfreesboro,51560,47,Tennessee,2013
+936.0,Nashville-Davidson metropolitan government (balance),52006,47,Tennessee,2013
+740.0,Abilene,01000,48,Texas,2013
+1478.0,Allen,01924,48,Texas,2013
+802.0,Amarillo,03000,48,Texas,2013
+944.0,Arlington,04000,48,Texas,2013
+1408.0,Atascocita CDP,04462,48,Texas,2013
+1138.0,Austin,05000,48,Texas,2013
+757.0,Baytown,06128,48,Texas,2013
+742.0,Beaumont,07000,48,Texas,2013
+632.0,Brownsville,10768,48,Texas,2013
+818.0,Bryan,10912,48,Texas,2013
+1181.0,Carrollton,13024,48,Texas,2013
+966.0,College Station,15976,48,Texas,2013
+871.0,Corpus Christi,17000,48,Texas,2013
+887.0,Dallas,19000,48,Texas,2013
+948.0,Denton,19972,48,Texas,2013
+755.0,Edinburg,22660,48,Texas,2013
+766.0,El Paso,24000,48,Texas,2013
+1800.0,Flower Mound town,26232,48,Texas,2013
+950.0,Fort Worth,27000,48,Texas,2013
+1709.0,Frisco,27684,48,Texas,2013
+967.0,Garland,29000,48,Texas,2013
+1017.0,Grand Prairie,30464,48,Texas,2013
+567.0,Harlingen,32372,48,Texas,2013
+879.0,Houston,35000,48,Texas,2013
+926.0,Irving,37000,48,Texas,2013
+901.0,Killeen,39148,48,Texas,2013
+826.0,Laredo,41464,48,Texas,2013
+1338.0,League City,41980,48,Texas,2013
+1071.0,Lewisville,42508,48,Texas,2013
+756.0,Longview,43888,48,Texas,2013
+816.0,Lubbock,45000,48,Texas,2013
+777.0,McAllen,45384,48,Texas,2013
+1404.0,McKinney,45744,48,Texas,2013
+1010.0,Mesquite,47892,48,Texas,2013
+1037.0,Midland,48072,48,Texas,2013
+741.0,Mission,48768,48,Texas,2013
+1336.0,Missouri City,48804,48,Texas,2013
+1114.0,North Richland Hills,52356,48,Texas,2013
+823.0,Odessa,53388,48,Texas,2013
+845.0,Pasadena,56000,48,Texas,2013
+1486.0,Pearland,56348,48,Texas,2013
+687.0,Pharr,57200,48,Texas,2013
+1273.0,Plano,58016,48,Texas,2013
+1180.0,Richardson,61796,48,Texas,2013
+1185.0,Round Rock,63500,48,Texas,2013
+790.0,San Angelo,64472,48,Texas,2013
+859.0,San Antonio,65000,48,Texas,2013
+1460.0,Sugar Land,70808,48,Texas,2013
+780.0,Temple,72176,48,Texas,2013
+1761.0,The Woodlands CDP,72656,48,Texas,2013
+839.0,Tyler,74144,48,Texas,2013
+787.0,Victoria,75428,48,Texas,2013
+727.0,Waco,76000,48,Texas,2013
+757.0,Wichita Falls,79000,48,Texas,2013
+1116.0,Layton,43660,49,Utah,2013
+796.0,Ogden,55980,49,Utah,2013
+918.0,Orem,57300,49,Utah,2013
+806.0,Provo,62470,49,Utah,2013
+901.0,St. George,65330,49,Utah,2013
+893.0,Salt Lake City,67000,49,Utah,2013
+1264.0,Sandy,67440,49,Utah,2013
+1252.0,West Jordan,82950,49,Utah,2013
+1002.0,West Valley City,83470,49,Utah,2013
+1675.0,Alexandria,01000,51,Virginia,2013
+1945.0,Arlington CDP,03000,51,Virginia,2013
+1892.0,Centreville CDP,14440,51,Virginia,2013
+1390.0,Chesapeake,16000,51,Virginia,2013
+1621.0,Dale City CDP,21088,51,Virginia,2013
+1034.0,Hampton,35000,51,Virginia,2013
+779.0,Lynchburg,47672,51,Virginia,2013
+972.0,Newport News,56000,51,Virginia,2013
+1051.0,Norfolk,57000,51,Virginia,2013
+1030.0,Portsmouth,64000,51,Virginia,2013
+918.0,Richmond,67000,51,Virginia,2013
+786.0,Roanoke,68000,51,Virginia,2013
+1319.0,Suffolk,76432,51,Virginia,2013
+1355.0,Virginia Beach,82000,51,Virginia,2013
+1075.0,Auburn,03180,53,Washington,2013
+1605.0,Bellevue,05210,53,Washington,2013
+930.0,Bellingham,05280,53,Washington,2013
+1109.0,Everett,22640,53,Washington,2013
+1140.0,Federal Way,23515,53,Washington,2013
+922.0,Kennewick,35275,53,Washington,2013
+1204.0,Kent,35415,53,Washington,2013
+1597.0,Kirkland,35940,53,Washington,2013
+932.0,Pasco,53545,53,Washington,2013
+1268.0,Renton,57745,53,Washington,2013
+1376.0,Seattle,63000,53,Washington,2013
+807.0,Spokane,67000,53,Washington,2013
+836.0,Spokane Valley,67167,53,Washington,2013
+1095.0,Tacoma,70000,53,Washington,2013
+967.0,Vancouver,74060,53,Washington,2013
+811.0,Yakima,80010,53,Washington,2013
+836.0,Appleton,02375,55,Wisconsin,2013
+794.0,Eau Claire,22300,55,Wisconsin,2013
+744.0,Green Bay,31000,55,Wisconsin,2013
+915.0,Kenosha,39225,55,Wisconsin,2013
+1033.0,Madison,48000,55,Wisconsin,2013
+836.0,Milwaukee,53000,55,Wisconsin,2013
+738.0,Oshkosh,60500,55,Wisconsin,2013
+818.0,Racine,66000,55,Wisconsin,2013
+973.0,Waukesha,84250,55,Wisconsin,2013
+522.0,Bayamón zona urbana,06593,72,Puerto Rico,2013
+529.0,Caguas zona urbana,10334,72,Puerto Rico,2013
+623.0,Carolina zona urbana,14290,72,Puerto Rico,2013
+910.0,Guaynabo zona urbana,32522,72,Puerto Rico,2013
+272.0,Mayagüez zona urbana,52431,72,Puerto Rico,2013
+266.0,Ponce zona urbana,63820,72,Puerto Rico,2013
+537.0,San Juan zona urbana,76770,72,Puerto Rico,2013
+743.0,Birmingham,07000,01,Alabama,2014
+707.0,Dothan,21184,01,Alabama,2014
+1176.0,Hoover,35896,01,Alabama,2014
+768.0,Huntsville,37000,01,Alabama,2014
+796.0,Mobile,50000,01,Alabama,2014
+832.0,Montgomery,51000,01,Alabama,2014
+846.0,Tuscaloosa,77256,01,Alabama,2014
+1424.0,Anchorage municipality,03000,02,Alaska,2014
+1054.0,Avondale,04720,04,Arizona,2014
+1010.0,Casas Adobes CDP,10670,04,Arizona,2014
+1179.0,Chandler,12000,04,Arizona,2014
+1109.0,Flagstaff,23620,04,Arizona,2014
+1396.0,Gilbert town,27400,04,Arizona,2014
+955.0,Glendale,27820,04,Arizona,2014
+1192.0,Goodyear,28380,04,Arizona,2014
+910.0,Mesa,46000,04,Arizona,2014
+1119.0,Peoria,54050,04,Arizona,2014
+941.0,Phoenix,55000,04,Arizona,2014
+1098.0,San Tan Valley CDP,64210,04,Arizona,2014
+1285.0,Scottsdale,65000,04,Arizona,2014
+1094.0,Surprise,71510,04,Arizona,2014
+982.0,Tempe,73000,04,Arizona,2014
+776.0,Tucson,77000,04,Arizona,2014
+871.0,Yuma,85540,04,Arizona,2014
+789.0,Fayetteville,23290,05,Arkansas,2014
+637.0,Fort Smith,24550,05,Arkansas,2014
+761.0,Jonesboro,35710,05,Arkansas,2014
+838.0,Little Rock,41000,05,Arkansas,2014
+778.0,North Little Rock,50450,05,Arkansas,2014
+774.0,Springdale,66080,05,Arkansas,2014
+1593.0,Alameda,00562,06,California,2014
+1208.0,Alhambra,00884,06,California,2014
+1501.0,Anaheim,02000,06,California,2014
+1406.0,Antioch,02252,06,California,2014
+1012.0,Apple Valley town,02364,06,California,2014
+925.0,Arden-Arcade CDP,02553,06,California,2014
+1129.0,Bakersfield,03526,06,California,2014
+1285.0,Baldwin Park,03666,06,California,2014
+1221.0,Bellflower,04982,06,California,2014
+1499.0,Berkeley,06000,06,California,2014
+1490.0,Buena Park,08786,06,California,2014
+1535.0,Burbank,08954,06,California,2014
+1872.0,Camarillo,10046,06,California,2014
+2149.0,Carlsbad,11194,06,California,2014
+1033.0,Carmichael CDP,11390,06,California,2014
+1549.0,Carson,11530,06,California,2014
+984.0,Chico,13014,06,California,2014
+1718.0,Chino,13210,06,California,2014
+2102.0,Chino Hills,13214,06,California,2014
+1614.0,Chula Vista,13392,06,California,2014
+1106.0,Citrus Heights,13588,06,California,2014
+1226.0,Clovis,14218,06,California,2014
+1295.0,Compton,15044,06,California,2014
+1461.0,Concord,16000,06,California,2014
+1646.0,Corona,16350,06,California,2014
+1652.0,Costa Mesa,16532,06,California,2014
+1758.0,Daly City,17918,06,California,2014
+1235.0,Davis,18100,06,California,2014
+1307.0,Downey,19766,06,California,2014
+997.0,East Los Angeles CDP,20802,06,California,2014
+1150.0,El Cajon,21712,06,California,2014
+1652.0,Elk Grove,22020,06,California,2014
+1136.0,El Monte,22230,06,California,2014
+1329.0,Escondido,22804,06,California,2014
+1496.0,Fairfield,23182,06,California,2014
+1751.0,Folsom,24638,06,California,2014
+1455.0,Fontana,24680,06,California,2014
+1993.0,Fremont,26000,06,California,2014
+943.0,Fresno,27000,06,California,2014
+1520.0,Fullerton,28000,06,California,2014
+1428.0,Garden Grove,29000,06,California,2014
+1401.0,Glendale,30000,06,California,2014
+1107.0,Hawthorne,32548,06,California,2014
+1523.0,Hayward,33000,06,California,2014
+793.0,Hemet,33182,06,California,2014
+1031.0,Hesperia,33434,06,California,2014
+1710.0,Huntington Beach,36000,06,California,2014
+1180.0,Indio,36448,06,California,2014
+1155.0,Inglewood,36546,06,California,2014
+1958.0,Irvine,36770,06,California,2014
+1305.0,Jurupa Valley,37692,06,California,2014
+2318.0,Laguna Niguel,39248,06,California,2014
+1914.0,Lake Forest,39496,06,California,2014
+1720.0,Lakewood,39892,06,California,2014
+1180.0,Lancaster,40130,06,California,2014
+1968.0,Livermore,41992,06,California,2014
+1254.0,Long Beach,43000,06,California,2014
+1373.0,Los Angeles,44000,06,California,2014
+1174.0,Lynwood,44574,06,California,2014
+1387.0,Manteca,45484,06,California,2014
+1290.0,Menifee,46842,06,California,2014
+906.0,Merced,46898,06,California,2014
+2102.0,Milpitas,47766,06,California,2014
+2092.0,Mission Viejo,48256,06,California,2014
+1078.0,Modesto,48354,06,California,2014
+1318.0,Moreno Valley,49270,06,California,2014
+1914.0,Mountain View,49670,06,California,2014
+1714.0,Murrieta,50076,06,California,2014
+1576.0,Napa,50258,06,California,2014
+2359.0,Newport Beach,51182,06,California,2014
+1475.0,Norwalk,52526,06,California,2014
+1322.0,Oakland,53000,06,California,2014
+1446.0,Oceanside,53322,06,California,2014
+1377.0,Ontario,53896,06,California,2014
+1713.0,Orange,53980,06,California,2014
+1458.0,Oxnard,54652,06,California,2014
+1361.0,Palmdale,55156,06,California,2014
+2491.0,Palo Alto,55282,06,California,2014
+1572.0,Pasadena,56000,06,California,2014
+1305.0,Perris,56700,06,California,2014
+1474.0,Pittsburg,57456,06,California,2014
+2152.0,Pleasanton,57792,06,California,2014
+1281.0,Pomona,58072,06,California,2014
+1080.0,Rancho Cordova,59444,06,California,2014
+1677.0,Rancho Cucamonga,59451,06,California,2014
+998.0,Redding,59920,06,California,2014
+1374.0,Redlands,59962,06,California,2014
+2036.0,Redondo Beach,60018,06,California,2014
+1928.0,Redwood City,60102,06,California,2014
+1165.0,Rialto,60466,06,California,2014
+1259.0,Richmond,60620,06,California,2014
+1298.0,Riverside,62000,06,California,2014
+1563.0,Roseville,62938,06,California,2014
+1076.0,Sacramento,64000,06,California,2014
+1231.0,Salinas,64224,06,California,2014
+1009.0,San Bernardino,65000,06,California,2014
+1517.0,San Buenaventura (Ventura),65042,06,California,2014
+2072.0,San Clemente,65084,06,California,2014
+1539.0,San Diego,66000,06,California,2014
+1735.0,San Francisco,67000,06,California,2014
+1862.0,San Jose,68000,06,California,2014
+1398.0,San Leandro,68084,06,California,2014
+1586.0,San Marcos,68196,06,California,2014
+1978.0,San Mateo,68252,06,California,2014
+2822.0,San Ramon,68378,06,California,2014
+1356.0,Santa Ana,69000,06,California,2014
+1696.0,Santa Barbara,69070,06,California,2014
+1941.0,Santa Clara,69084,06,California,2014
+1749.0,Santa Clarita,69088,06,California,2014
+1273.0,Santa Maria,69196,06,California,2014
+1745.0,Santa Monica,70000,06,California,2014
+1453.0,Santa Rosa,70098,06,California,2014
+1934.0,Simi Valley,72016,06,California,2014
+1135.0,South Gate,73080,06,California,2014
+1655.0,South San Francisco,73262,06,California,2014
+1034.0,Stockton,75000,06,California,2014
+1870.0,Sunnyvale,77000,06,California,2014
+1726.0,Temecula,78120,06,California,2014
+1980.0,Thousand Oaks,78582,06,California,2014
+1609.0,Torrance,80000,06,California,2014
+1688.0,Tracy,80238,06,California,2014
+1055.0,Turlock,80812,06,California,2014
+1633.0,Tustin,80854,06,California,2014
+1830.0,Union City,81204,06,California,2014
+1401.0,Upland,81344,06,California,2014
+1617.0,Vacaville,81554,06,California,2014
+1304.0,Vallejo,81666,06,California,2014
+1170.0,Victorville,82590,06,California,2014
+1019.0,Visalia,82954,06,California,2014
+1428.0,Vista,82996,06,California,2014
+1549.0,Walnut Creek,83346,06,California,2014
+1612.0,West Covina,84200,06,California,2014
+1368.0,Westminster,84550,06,California,2014
+1411.0,Whittier,85292,06,California,2014
+2342.0,Yorba Linda,86832,06,California,2014
+1060.0,Yuba City,86972,06,California,2014
+1262.0,Arvada,03455,08,Colorado,2014
+1117.0,Aurora,04000,08,Colorado,2014
+1248.0,Boulder,07850,08,Colorado,2014
+1500.0,Centennial,12815,08,Colorado,2014
+1038.0,Colorado Springs,16000,08,Colorado,2014
+1108.0,Denver,20000,08,Colorado,2014
+1150.0,Fort Collins,27425,08,Colorado,2014
+931.0,Greeley,32155,08,Colorado,2014
+1791.0,Highlands Ranch CDP,36410,08,Colorado,2014
+1063.0,Lakewood,43000,08,Colorado,2014
+1154.0,Longmont,45970,08,Colorado,2014
+989.0,Loveland,46465,08,Colorado,2014
+757.0,Pueblo,62000,08,Colorado,2014
+1291.0,Thornton,77290,08,Colorado,2014
+1225.0,Westminster,83835,08,Colorado,2014
+1218.0,Bridgeport,08000,09,Connecticut,2014
+1462.0,Danbury,18430,09,Connecticut,2014
+937.0,Hartford,37000,09,Connecticut,2014
+948.0,New Britain,50370,09,Connecticut,2014
+1209.0,New Haven,52000,09,Connecticut,2014
+1691.0,Norwalk,55990,09,Connecticut,2014
+1975.0,Stamford,73000,09,Connecticut,2014
+1013.0,Waterbury,80000,09,Connecticut,2014
+963.0,Wilmington,77580,10,Delaware,2014
+1513.0,Washington,50000,11,District of Columbia,2014
+1338.0,Alafaya CDP,00410,12,Florida,2014
+1544.0,Boca Raton,07300,12,Florida,2014
+1125.0,Boynton Beach,07875,12,Florida,2014
+1073.0,Brandon CDP,08150,12,Florida,2014
+1030.0,Cape Coral,10275,12,Florida,2014
+977.0,Clearwater,12875,12,Florida,2014
+1443.0,Coral Springs,14400,12,Florida,2014
+1302.0,Davie town,16475,12,Florida,2014
+1017.0,Deerfield Beach,16725,12,Florida,2014
+1167.0,Delray Beach,17100,12,Florida,2014
+999.0,Deltona,17200,12,Florida,2014
+1155.0,Fort Lauderdale,24000,12,Florida,2014
+863.0,Fort Myers,24125,12,Florida,2014
+811.0,Gainesville,25175,12,Florida,2014
+986.0,Hialeah,30000,12,Florida,2014
+1122.0,Hollywood,32000,12,Florida,2014
+1125.0,Homestead,32275,12,Florida,2014
+957.0,Jacksonville,35000,12,Florida,2014
+1311.0,Kendall CDP,36100,12,Florida,2014
+948.0,Kissimmee,36950,12,Florida,2014
+796.0,Lakeland,38250,12,Florida,2014
+822.0,Largo,39425,12,Florida,2014
+976.0,Lauderhill,39550,12,Florida,2014
+850.0,Lehigh Acres CDP,39925,12,Florida,2014
+808.0,Melbourne,43975,12,Florida,2014
+1002.0,Miami,45000,12,Florida,2014
+1245.0,Miami Beach,45025,12,Florida,2014
+1046.0,Miami Gardens,45060,12,Florida,2014
+1592.0,Miramar,45975,12,Florida,2014
+991.0,Orlando,53000,12,Florida,2014
+891.0,Palm Bay,54000,12,Florida,2014
+916.0,Palm Coast,54200,12,Florida,2014
+1386.0,Pembroke Pines,55775,12,Florida,2014
+917.0,Pine Hills CDP,56825,12,Florida,2014
+1380.0,Plantation,57425,12,Florida,2014
+973.0,Pompano Beach,58050,12,Florida,2014
+1057.0,Port St. Lucie,58715,12,Florida,2014
+1114.0,Riverview CDP,60950,12,Florida,2014
+960.0,St. Petersburg,63000,12,Florida,2014
+810.0,Spring Hill CDP,68350,12,Florida,2014
+1210.0,Sunrise,69700,12,Florida,2014
+939.0,Tallahassee,70600,12,Florida,2014
+966.0,Tampa,71000,12,Florida,2014
+607.0,The Villages CDP,71625,12,Florida,2014
+982.0,Town 'n' Country CDP,72145,12,Florida,2014
+1968.0,Weston,76582,12,Florida,2014
+1102.0,West Palm Beach,76600,12,Florida,2014
+688.0,Albany,01052,13,Georgia,2014
+820.0,Athens-Clarke County unified government (balance),03440,13,Georgia,2014
+1082.0,Atlanta,04000,13,Georgia,2014
+767.0,Augusta-Richmond County consolidated government (balance),04204,13,Georgia,2014
+874.0,Columbus,19000,13,Georgia,2014
+1484.0,Johns Creek,42425,13,Georgia,2014
+780.0,Macon-Bibb County,49008,13,Georgia,2014
+1214.0,Roswell,67284,13,Georgia,2014
+1144.0,Sandy Springs,68516,13,Georgia,2014
+900.0,Savannah,69000,13,Georgia,2014
+833.0,Warner Robins,80508,13,Georgia,2014
+1365.0,Urban Honolulu CDP,71550,15,Hawaii,2014
+897.0,Boise City,08830,16,Idaho,2014
+1065.0,Meridian,52120,16,Idaho,2014
+820.0,Nampa,56260,16,Idaho,2014
+1368.0,Arlington Heights village,02154,17,Illinois,2014
+1334.0,Aurora,03012,17,Illinois,2014
+916.0,Bloomington,06613,17,Illinois,2014
+1539.0,Bolingbrook village,07133,17,Illinois,2014
+897.0,Champaign,12385,17,Illinois,2014
+1105.0,Chicago,14000,17,Illinois,2014
+898.0,Cicero town,14351,17,Illinois,2014
+633.0,Decatur,18823,17,Illinois,2014
+1204.0,Elgin,23074,17,Illinois,2014
+1476.0,Evanston,24582,17,Illinois,2014
+1182.0,Joliet,38570,17,Illinois,2014
+1766.0,Naperville,51622,17,Illinois,2014
+1289.0,Palatine village,57225,17,Illinois,2014
+790.0,Peoria,59000,17,Illinois,2014
+775.0,Rockford,65000,17,Illinois,2014
+1310.0,Schaumburg village,68003,17,Illinois,2014
+1281.0,Skokie village,70122,17,Illinois,2014
+785.0,Springfield,72000,17,Illinois,2014
+993.0,Waukegan,79293,17,Illinois,2014
+831.0,Bloomington,05860,18,Indiana,2014
+1414.0,Carmel,10342,18,Indiana,2014
+725.0,Evansville,22000,18,Indiana,2014
+1231.0,Fishers town,23278,18,Indiana,2014
+677.0,Fort Wayne,25000,18,Indiana,2014
+662.0,Gary,27000,18,Indiana,2014
+820.0,Hammond,31000,18,Indiana,2014
+835.0,Indianapolis,36003,18,Indiana,2014
+777.0,Lafayette,40788,18,Indiana,2014
+640.0,Muncie,51876,18,Indiana,2014
+690.0,South Bend,71000,18,Indiana,2014
+900.0,Cedar Rapids,12000,19,Iowa,2014
+793.0,Davenport,19000,19,Iowa,2014
+859.0,Des Moines,21000,19,Iowa,2014
+1041.0,Iowa City,38595,19,Iowa,2014
+670.0,Sioux City,73335,19,Iowa,2014
+731.0,Waterloo,82425,19,Iowa,2014
+818.0,Kansas City,36000,20,Kansas,2014
+883.0,Lawrence,38900,20,Kansas,2014
+1204.0,Olathe,52575,20,Kansas,2014
+1140.0,Overland Park,53775,20,Kansas,2014
+773.0,Topeka,71000,20,Kansas,2014
+792.0,Wichita,79000,20,Kansas,2014
+863.0,Lexington-Fayette urban county,46027,21,Kentucky,2014
+810.0,Louisville/Jefferson County metro government (balance),48006,21,Kentucky,2014
+796.0,Baton Rouge,05000,22,Louisiana,2014
+921.0,Bossier City,08920,22,Louisiana,2014
+962.0,Kenner,39475,22,Louisiana,2014
+830.0,Lafayette,40735,22,Louisiana,2014
+696.0,Lake Charles,41155,22,Louisiana,2014
+897.0,Metairie CDP,50115,22,Louisiana,2014
+927.0,New Orleans,55000,22,Louisiana,2014
+766.0,Shreveport,70000,22,Louisiana,2014
+1113.0,Portland,60545,23,Maine,2014
+1020.0,Baltimore,04000,24,Maryland,2014
+2167.0,Bethesda CDP,07125,24,Maryland,2014
+1761.0,Columbia CDP,19125,24,Maryland,2014
+1919.0,Ellicott City CDP,26000,24,Maryland,2014
+1447.0,Frederick,30325,24,Maryland,2014
+1688.0,Gaithersburg,31175,24,Maryland,2014
+1619.0,Germantown CDP,32025,24,Maryland,2014
+1265.0,Glen Burnie CDP,32650,24,Maryland,2014
+1866.0,Rockville,67675,24,Maryland,2014
+1547.0,Silver Spring CDP,72450,24,Maryland,2014
+1707.0,Waldorf CDP,81175,24,Maryland,2014
+1495.0,Boston,07000,25,Massachusetts,2014
+1187.0,Brockton,09000,25,Massachusetts,2014
+1772.0,Cambridge,11000,25,Massachusetts,2014
+770.0,Fall River,23000,25,Massachusetts,2014
+1353.0,Framingham CDP,24960,25,Massachusetts,2014
+1073.0,Lawrence,34550,25,Massachusetts,2014
+1130.0,Lowell,37000,25,Massachusetts,2014
+1168.0,Lynn,37490,25,Massachusetts,2014
+813.0,New Bedford,45000,25,Massachusetts,2014
+1959.0,Newton,45560,25,Massachusetts,2014
+1456.0,Quincy,55745,25,Massachusetts,2014
+1529.0,Somerville,62535,25,Massachusetts,2014
+933.0,Springfield,67000,25,Massachusetts,2014
+1075.0,Worcester,82000,25,Massachusetts,2014
+1178.0,Ann Arbor,03000,26,Michigan,2014
+936.0,Dearborn,21000,26,Michigan,2014
+686.0,Detroit,22000,26,Michigan,2014
+1143.0,Farmington Hills,27440,26,Michigan,2014
+657.0,Flint,29000,26,Michigan,2014
+801.0,Grand Rapids,34000,26,Michigan,2014
+735.0,Kalamazoo,42160,26,Michigan,2014
+788.0,Lansing,46000,26,Michigan,2014
+1025.0,Livonia,49000,26,Michigan,2014
+1313.0,Rochester Hills,69035,26,Michigan,2014
+1054.0,Southfield,74900,26,Michigan,2014
+938.0,Sterling Heights,76460,26,Michigan,2014
+1170.0,Troy,80700,26,Michigan,2014
+804.0,Warren,84000,26,Michigan,2014
+823.0,Westland,86000,26,Michigan,2014
+792.0,Wyoming,88940,26,Michigan,2014
+1016.0,Bloomington,06616,27,Minnesota,2014
+1175.0,Brooklyn Park,07966,27,Minnesota,2014
+833.0,Duluth,17000,27,Minnesota,2014
+1203.0,Eagan,17288,27,Minnesota,2014
+1441.0,Maple Grove,40166,27,Minnesota,2014
+1026.0,Minneapolis,43000,27,Minnesota,2014
+1360.0,Plymouth,51730,27,Minnesota,2014
+964.0,Rochester,54880,27,Minnesota,2014
+804.0,St. Cloud,56896,27,Minnesota,2014
+964.0,St. Paul,58000,27,Minnesota,2014
+1435.0,Woodbury,71428,27,Minnesota,2014
+814.0,Gulfport,29700,28,Mississippi,2014
+759.0,Jackson,36000,28,Mississippi,2014
+886.0,Columbia,15670,29,Missouri,2014
+778.0,Independence,35000,29,Missouri,2014
+864.0,Kansas City,38000,29,Missouri,2014
+1244.0,Lee's Summit,41348,29,Missouri,2014
+1273.0,O'Fallon,54074,29,Missouri,2014
+937.0,St. Charles,64082,29,Missouri,2014
+697.0,St. Joseph,64550,29,Missouri,2014
+806.0,St. Louis,65000,29,Missouri,2014
+681.0,Springfield,70000,29,Missouri,2014
+843.0,Billings,06550,30,Montana,2014
+854.0,Missoula,50200,30,Montana,2014
+848.0,Lincoln,28000,31,Nebraska,2014
+920.0,Omaha,37000,31,Nebraska,2014
+1280.0,Enterprise CDP,23770,32,Nevada,2014
+1148.0,Henderson,31900,32,Nevada,2014
+1005.0,Las Vegas,40000,32,Nevada,2014
+1085.0,North Las Vegas,51800,32,Nevada,2014
+915.0,Paradise CDP,54600,32,Nevada,2014
+905.0,Reno,60600,32,Nevada,2014
+1060.0,Sparks,68400,32,Nevada,2014
+1039.0,Spring Valley CDP,68585,32,Nevada,2014
+859.0,Sunrise Manor CDP,71400,32,Nevada,2014
+1121.0,Manchester,45140,33,New Hampshire,2014
+1267.0,Nashua,50260,33,New Hampshire,2014
+1240.0,Bayonne,03580,34,New Jersey,2014
+828.0,Camden,10000,34,New Jersey,2014
+1461.0,Clifton,13690,34,New Jersey,2014
+1102.0,East Orange,19390,34,New Jersey,2014
+1147.0,Elizabeth,21000,34,New Jersey,2014
+1310.0,Jersey City,36000,34,New Jersey,2014
+1064.0,Newark,51000,34,New Jersey,2014
+1219.0,Passaic,56550,34,New Jersey,2014
+1227.0,Paterson,57000,34,New Jersey,2014
+1528.0,Toms River CDP,73110,34,New Jersey,2014
+1029.0,Trenton,74000,34,New Jersey,2014
+1182.0,Union City,74630,34,New Jersey,2014
+918.0,Albuquerque,02000,35,New Mexico,2014
+771.0,Las Cruces,39380,35,New Mexico,2014
+1069.0,Rio Rancho,63460,35,New Mexico,2014
+972.0,Santa Fe,70500,35,New Mexico,2014
+925.0,Albany,01000,36,New York,2014
+1865.0,Brentwood CDP,08026,36,New York,2014
+705.0,Buffalo,11000,36,New York,2014
+791.0,Cheektowaga CDP,15000,36,New York,2014
+1351.0,Mount Vernon,49121,36,New York,2014
+1658.0,New Rochelle,50617,36,New York,2014
+1337.0,New York,51000,36,New York,2014
+778.0,Rochester,63000,36,New York,2014
+887.0,Schenectady,65508,36,New York,2014
+755.0,Syracuse,73000,36,New York,2014
+1356.0,Yonkers,84000,36,New York,2014
+944.0,Asheville,02140,37,North Carolina,2014
+1261.0,Cary town,10740,37,North Carolina,2014
+1041.0,Charlotte,12000,37,North Carolina,2014
+941.0,Concord,14100,37,North Carolina,2014
+977.0,Durham,19000,37,North Carolina,2014
+887.0,Fayetteville,22920,37,North Carolina,2014
+798.0,Gastonia,25580,37,North Carolina,2014
+844.0,Greensboro,28000,37,North Carolina,2014
+786.0,Greenville,28080,37,North Carolina,2014
+911.0,High Point,31400,37,North Carolina,2014
+955.0,Jacksonville,34200,37,North Carolina,2014
+1034.0,Raleigh,55000,37,North Carolina,2014
+943.0,Wilmington,74440,37,North Carolina,2014
+808.0,Winston-Salem,75000,37,North Carolina,2014
+760.0,Bismarck,07200,38,North Dakota,2014
+749.0,Fargo,25700,38,North Dakota,2014
+730.0,Akron,01000,39,Ohio,2014
+662.0,Canton,12000,39,Ohio,2014
+728.0,Cincinnati,15000,39,Ohio,2014
+663.0,Cleveland,16000,39,Ohio,2014
+908.0,Columbus,18000,39,Ohio,2014
+661.0,Dayton,21000,39,Ohio,2014
+714.0,Lorain,44856,39,Ohio,2014
+790.0,Parma,61000,39,Ohio,2014
+676.0,Toledo,77000,39,Ohio,2014
+573.0,Youngstown,88000,39,Ohio,2014
+1089.0,Broken Arrow,09050,40,Oklahoma,2014
+1154.0,Edmond,23200,40,Oklahoma,2014
+815.0,Lawton,41850,40,Oklahoma,2014
+865.0,Norman,52500,40,Oklahoma,2014
+831.0,Oklahoma City,55000,40,Oklahoma,2014
+795.0,Tulsa,75000,40,Oklahoma,2014
+1210.0,Beaverton,05350,41,Oregon,2014
+1118.0,Bend,05800,41,Oregon,2014
+1024.0,Eugene,23850,41,Oregon,2014
+981.0,Gresham,31250,41,Oregon,2014
+1229.0,Hillsboro,34100,41,Oregon,2014
+896.0,Medford,47000,41,Oregon,2014
+1195.0,Portland,59000,41,Oregon,2014
+931.0,Salem,64900,41,Oregon,2014
+890.0,Allentown,02000,42,Pennsylvania,2014
+985.0,Bethlehem,06088,42,Pennsylvania,2014
+681.0,Erie,24000,42,Pennsylvania,2014
+921.0,Philadelphia,60000,42,Pennsylvania,2014
+814.0,Pittsburgh,61000,42,Pennsylvania,2014
+744.0,Reading,63624,42,Pennsylvania,2014
+779.0,Scranton,69000,42,Pennsylvania,2014
+1166.0,Cranston,19180,44,Rhode Island,2014
+983.0,Pawtucket,54640,44,Rhode Island,2014
+1030.0,Providence,59000,44,Rhode Island,2014
+1210.0,Warwick,74300,44,Rhode Island,2014
+1192.0,Charleston,13330,45,South Carolina,2014
+875.0,Columbia,16000,45,South Carolina,2014
+1581.0,Mount Pleasant town,48535,45,South Carolina,2014
+945.0,North Charleston,50875,45,South Carolina,2014
+868.0,Rock Hill,61405,45,South Carolina,2014
+785.0,Rapid City,52980,46,South Dakota,2014
+799.0,Sioux Falls,59020,46,South Dakota,2014
+791.0,Chattanooga,14000,47,Tennessee,2014
+909.0,Clarksville,15160,47,Tennessee,2014
+1426.0,Franklin,27740,47,Tennessee,2014
+830.0,Jackson,37640,47,Tennessee,2014
+718.0,Johnson City,38320,47,Tennessee,2014
+747.0,Knoxville,40000,47,Tennessee,2014
+862.0,Memphis,48000,47,Tennessee,2014
+962.0,Murfreesboro,51560,47,Tennessee,2014
+965.0,Nashville-Davidson metropolitan government (balance),52006,47,Tennessee,2014
+800.0,Abilene,01000,48,Texas,2014
+1635.0,Allen,01924,48,Texas,2014
+813.0,Amarillo,03000,48,Texas,2014
+967.0,Arlington,04000,48,Texas,2014
+1348.0,Atascocita CDP,04462,48,Texas,2014
+1188.0,Austin,05000,48,Texas,2014
+820.0,Baytown,06128,48,Texas,2014
+726.0,Beaumont,07000,48,Texas,2014
+670.0,Brownsville,10768,48,Texas,2014
+832.0,Bryan,10912,48,Texas,2014
+1158.0,Carrollton,13024,48,Texas,2014
+968.0,College Station,15976,48,Texas,2014
+911.0,Conroe,16432,48,Texas,2014
+913.0,Corpus Christi,17000,48,Texas,2014
+911.0,Dallas,19000,48,Texas,2014
+989.0,Denton,19972,48,Texas,2014
+729.0,Edinburg,22660,48,Texas,2014
+774.0,El Paso,24000,48,Texas,2014
+1818.0,Flower Mound town,26232,48,Texas,2014
+997.0,Fort Worth,27000,48,Texas,2014
+1799.0,Frisco,27684,48,Texas,2014
+985.0,Garland,29000,48,Texas,2014
+1048.0,Grand Prairie,30464,48,Texas,2014
+650.0,Harlingen,32372,48,Texas,2014
+910.0,Houston,35000,48,Texas,2014
+964.0,Irving,37000,48,Texas,2014
+917.0,Killeen,39148,48,Texas,2014
+807.0,Laredo,41464,48,Texas,2014
+1451.0,League City,41980,48,Texas,2014
+1088.0,Lewisville,42508,48,Texas,2014
+783.0,Longview,43888,48,Texas,2014
+874.0,Lubbock,45000,48,Texas,2014
+780.0,McAllen,45384,48,Texas,2014
+1449.0,McKinney,45744,48,Texas,2014
+1002.0,Mesquite,47892,48,Texas,2014
+1125.0,Midland,48072,48,Texas,2014
+754.0,Mission,48768,48,Texas,2014
+1321.0,Missouri City,48804,48,Texas,2014
+1047.0,New Braunfels,50820,48,Texas,2014
+1092.0,North Richland Hills,52356,48,Texas,2014
+954.0,Odessa,53388,48,Texas,2014
+868.0,Pasadena,56000,48,Texas,2014
+1478.0,Pearland,56348,48,Texas,2014
+632.0,Pharr,57200,48,Texas,2014
+1282.0,Plano,58016,48,Texas,2014
+1264.0,Richardson,61796,48,Texas,2014
+1245.0,Round Rock,63500,48,Texas,2014
+728.0,San Angelo,64472,48,Texas,2014
+887.0,San Antonio,65000,48,Texas,2014
+1589.0,Sugar Land,70808,48,Texas,2014
+855.0,Temple,72176,48,Texas,2014
+1667.0,The Woodlands CDP,72656,48,Texas,2014
+808.0,Tyler,74144,48,Texas,2014
+797.0,Victoria,75428,48,Texas,2014
+760.0,Waco,76000,48,Texas,2014
+740.0,Wichita Falls,79000,48,Texas,2014
+1096.0,Layton,43660,49,Utah,2014
+941.0,Millcreek CDP,50150,49,Utah,2014
+810.0,Ogden,55980,49,Utah,2014
+996.0,Orem,57300,49,Utah,2014
+792.0,Provo,62470,49,Utah,2014
+881.0,St. George,65330,49,Utah,2014
+897.0,Salt Lake City,67000,49,Utah,2014
+1262.0,Sandy,67440,49,Utah,2014
+1251.0,West Jordan,82950,49,Utah,2014
+1053.0,West Valley City,83470,49,Utah,2014
+1678.0,Alexandria,01000,51,Virginia,2014
+1994.0,Arlington CDP,03000,51,Virginia,2014
+1864.0,Centreville CDP,14440,51,Virginia,2014
+1282.0,Chesapeake,16000,51,Virginia,2014
+1649.0,Dale City CDP,21088,51,Virginia,2014
+1086.0,Hampton,35000,51,Virginia,2014
+810.0,Lynchburg,47672,51,Virginia,2014
+980.0,Newport News,56000,51,Virginia,2014
+1033.0,Norfolk,57000,51,Virginia,2014
+1041.0,Portsmouth,64000,51,Virginia,2014
+962.0,Richmond,67000,51,Virginia,2014
+804.0,Roanoke,68000,51,Virginia,2014
+1225.0,Suffolk,76432,51,Virginia,2014
+1341.0,Virginia Beach,82000,51,Virginia,2014
+1196.0,Auburn,03180,53,Washington,2014
+1717.0,Bellevue,05210,53,Washington,2014
+936.0,Bellingham,05280,53,Washington,2014
+1099.0,Everett,22640,53,Washington,2014
+1152.0,Federal Way,23515,53,Washington,2014
+886.0,Kennewick,35275,53,Washington,2014
+1228.0,Kent,35415,53,Washington,2014
+1721.0,Kirkland,35940,53,Washington,2014
+1281.0,Marysville,43955,53,Washington,2014
+1010.0,Pasco,53545,53,Washington,2014
+1348.0,Renton,57745,53,Washington,2014
+1397.0,Seattle,63000,53,Washington,2014
+882.0,Spokane,67000,53,Washington,2014
+872.0,Spokane Valley,67167,53,Washington,2014
+1100.0,Tacoma,70000,53,Washington,2014
+994.0,Vancouver,74060,53,Washington,2014
+808.0,Yakima,80010,53,Washington,2014
+854.0,Appleton,02375,55,Wisconsin,2014
+821.0,Eau Claire,22300,55,Wisconsin,2014
+758.0,Green Bay,31000,55,Wisconsin,2014
+957.0,Kenosha,39225,55,Wisconsin,2014
+1087.0,Madison,48000,55,Wisconsin,2014
+856.0,Milwaukee,53000,55,Wisconsin,2014
+789.0,Oshkosh,60500,55,Wisconsin,2014
+814.0,Racine,66000,55,Wisconsin,2014
+1067.0,Waukesha,84250,55,Wisconsin,2014
+577.0,Bayamón zona urbana,06593,72,Puerto Rico,2014
+518.0,Caguas zona urbana,10334,72,Puerto Rico,2014
+710.0,Carolina zona urbana,14290,72,Puerto Rico,2014
+907.0,Guaynabo zona urbana,32522,72,Puerto Rico,2014
+266.0,Mayagüez zona urbana,52431,72,Puerto Rico,2014
+367.0,Ponce zona urbana,63820,72,Puerto Rico,2014
+514.0,San Juan zona urbana,76770,72,Puerto Rico,2014
+752.0,Birmingham,07000,01,Alabama,2015
+736.0,Dothan,21184,01,Alabama,2015
+1185.0,Hoover,35896,01,Alabama,2015
+785.0,Huntsville,37000,01,Alabama,2015
+782.0,Mobile,50000,01,Alabama,2015
+831.0,Montgomery,51000,01,Alabama,2015
+857.0,Tuscaloosa,77256,01,Alabama,2015
+1412.0,Anchorage municipality,03000,02,Alaska,2015
+1087.0,Avondale,04720,04,Arizona,2015
+1022.0,Casas Adobes CDP,10670,04,Arizona,2015
+1237.0,Chandler,12000,04,Arizona,2015
+1155.0,Flagstaff,23620,04,Arizona,2015
+1443.0,Gilbert town,27400,04,Arizona,2015
+952.0,Glendale,27820,04,Arizona,2015
+1280.0,Goodyear,28380,04,Arizona,2015
+918.0,Mesa,46000,04,Arizona,2015
+1143.0,Peoria,54050,04,Arizona,2015
+993.0,Phoenix,55000,04,Arizona,2015
+1105.0,San Tan Valley CDP,64210,04,Arizona,2015
+1237.0,Scottsdale,65000,04,Arizona,2015
+1121.0,Surprise,71510,04,Arizona,2015
+988.0,Tempe,73000,04,Arizona,2015
+791.0,Tucson,77000,04,Arizona,2015
+884.0,Yuma,85540,04,Arizona,2015
+747.0,Fayetteville,23290,05,Arkansas,2015
+684.0,Fort Smith,24550,05,Arkansas,2015
+747.0,Jonesboro,35710,05,Arkansas,2015
+882.0,Little Rock,41000,05,Arkansas,2015
+830.0,North Little Rock,50450,05,Arkansas,2015
+815.0,Springdale,66080,05,Arkansas,2015
+1742.0,Alameda,00562,06,California,2015
+1263.0,Alhambra,00884,06,California,2015
+1474.0,Anaheim,02000,06,California,2015
+1646.0,Antioch,02252,06,California,2015
+974.0,Apple Valley town,02364,06,California,2015
+965.0,Arden-Arcade CDP,02553,06,California,2015
+1167.0,Bakersfield,03526,06,California,2015
+1359.0,Baldwin Park,03666,06,California,2015
+1353.0,Bellflower,04982,06,California,2015
+1583.0,Berkeley,06000,06,California,2015
+1600.0,Buena Park,08786,06,California,2015
+1617.0,Burbank,08954,06,California,2015
+1817.0,Camarillo,10046,06,California,2015
+2050.0,Carlsbad,11194,06,California,2015
+1081.0,Carmichael CDP,11390,06,California,2015
+1549.0,Carson,11530,06,California,2015
+1042.0,Chico,13014,06,California,2015
+1674.0,Chino,13210,06,California,2015
+1959.0,Chino Hills,13214,06,California,2015
+1690.0,Chula Vista,13392,06,California,2015
+1060.0,Citrus Heights,13588,06,California,2015
+1263.0,Clovis,14218,06,California,2015
+1267.0,Compton,15044,06,California,2015
+1521.0,Concord,16000,06,California,2015
+1717.0,Corona,16350,06,California,2015
+1681.0,Costa Mesa,16532,06,California,2015
+2020.0,Daly City,17918,06,California,2015
+1469.0,Davis,18100,06,California,2015
+1433.0,Downey,19766,06,California,2015
+1037.0,East Los Angeles CDP,20802,06,California,2015
+1223.0,El Cajon,21712,06,California,2015
+1663.0,Elk Grove,22020,06,California,2015
+1151.0,El Monte,22230,06,California,2015
+1379.0,Escondido,22804,06,California,2015
+1460.0,Fairfield,23182,06,California,2015
+1153.0,Florence-Graham CDP,24477,06,California,2015
+1824.0,Folsom,24638,06,California,2015
+1437.0,Fontana,24680,06,California,2015
+2095.0,Fremont,26000,06,California,2015
+981.0,Fresno,27000,06,California,2015
+1517.0,Fullerton,28000,06,California,2015
+1468.0,Garden Grove,29000,06,California,2015
+1457.0,Glendale,30000,06,California,2015
+1165.0,Hawthorne,32548,06,California,2015
+1651.0,Hayward,33000,06,California,2015
+977.0,Hemet,33182,06,California,2015
+1079.0,Hesperia,33434,06,California,2015
+1757.0,Huntington Beach,36000,06,California,2015
+1165.0,Indio,36448,06,California,2015
+1223.0,Inglewood,36546,06,California,2015
+2133.0,Irvine,36770,06,California,2015
+1311.0,Jurupa Valley,37692,06,California,2015
+2181.0,Laguna Niguel,39248,06,California,2015
+1841.0,Lake Forest,39496,06,California,2015
+1640.0,Lakewood,39892,06,California,2015
+1149.0,Lancaster,40130,06,California,2015
+2081.0,Livermore,41992,06,California,2015
+1266.0,Long Beach,43000,06,California,2015
+1422.0,Los Angeles,44000,06,California,2015
+1230.0,Lynwood,44574,06,California,2015
+1395.0,Manteca,45484,06,California,2015
+1364.0,Menifee,46842,06,California,2015
+909.0,Merced,46898,06,California,2015
+2149.0,Milpitas,47766,06,California,2015
+2081.0,Mission Viejo,48256,06,California,2015
+1123.0,Modesto,48354,06,California,2015
+1340.0,Moreno Valley,49270,06,California,2015
+2201.0,Mountain View,49670,06,California,2015
+1777.0,Murrieta,50076,06,California,2015
+1587.0,Napa,50258,06,California,2015
+2419.0,Newport Beach,51182,06,California,2015
+1553.0,Norwalk,52526,06,California,2015
+1431.0,Oakland,53000,06,California,2015
+1539.0,Oceanside,53322,06,California,2015
+1380.0,Ontario,53896,06,California,2015
+1783.0,Orange,53980,06,California,2015
+1503.0,Oxnard,54652,06,California,2015
+1335.0,Palmdale,55156,06,California,2015
+2420.0,Palo Alto,55282,06,California,2015
+1659.0,Pasadena,56000,06,California,2015
+1294.0,Perris,56700,06,California,2015
+1491.0,Pittsburg,57456,06,California,2015
+2406.0,Pleasanton,57792,06,California,2015
+1340.0,Pomona,58072,06,California,2015
+1139.0,Rancho Cordova,59444,06,California,2015
+1795.0,Rancho Cucamonga,59451,06,California,2015
+988.0,Redding,59920,06,California,2015
+1340.0,Redlands,59962,06,California,2015
+1972.0,Redondo Beach,60018,06,California,2015
+2152.0,Redwood City,60102,06,California,2015
+1296.0,Rialto,60466,06,California,2015
+1381.0,Richmond,60620,06,California,2015
+1318.0,Riverside,62000,06,California,2015
+1536.0,Roseville,62938,06,California,2015
+1149.0,Sacramento,64000,06,California,2015
+1259.0,Salinas,64224,06,California,2015
+947.0,San Bernardino,65000,06,California,2015
+1473.0,San Buenaventura (Ventura),65042,06,California,2015
+2108.0,San Clemente,65084,06,California,2015
+1560.0,San Diego,66000,06,California,2015
+1840.0,San Francisco,67000,06,California,2015
+1930.0,San Jose,68000,06,California,2015
+1412.0,San Leandro,68084,06,California,2015
+1699.0,San Marcos,68196,06,California,2015
+2181.0,San Mateo,68252,06,California,2015
+2697.0,San Ramon,68378,06,California,2015
+1411.0,Santa Ana,69000,06,California,2015
+1609.0,Santa Barbara,69070,06,California,2015
+2115.0,Santa Clara,69084,06,California,2015
+1817.0,Santa Clarita,69088,06,California,2015
+1254.0,Santa Maria,69196,06,California,2015
+1774.0,Santa Monica,70000,06,California,2015
+1441.0,Santa Rosa,70098,06,California,2015
+2059.0,Simi Valley,72016,06,California,2015
+1149.0,South Gate,73080,06,California,2015
+1784.0,South San Francisco,73262,06,California,2015
+1046.0,Stockton,75000,06,California,2015
+2112.0,Sunnyvale,77000,06,California,2015
+1744.0,Temecula,78120,06,California,2015
+2149.0,Thousand Oaks,78582,06,California,2015
+1684.0,Torrance,80000,06,California,2015
+1692.0,Tracy,80238,06,California,2015
+1160.0,Turlock,80812,06,California,2015
+1702.0,Tustin,80854,06,California,2015
+2005.0,Union City,81204,06,California,2015
+1412.0,Upland,81344,06,California,2015
+1557.0,Vacaville,81554,06,California,2015
+1289.0,Vallejo,81666,06,California,2015
+1188.0,Victorville,82590,06,California,2015
+1065.0,Visalia,82954,06,California,2015
+1582.0,Vista,82996,06,California,2015
+1764.0,Walnut Creek,83346,06,California,2015
+1623.0,West Covina,84200,06,California,2015
+1420.0,Westminster,84550,06,California,2015
+1440.0,Whittier,85292,06,California,2015
+2182.0,Yorba Linda,86832,06,California,2015
+974.0,Yuba City,86972,06,California,2015
+1294.0,Arvada,03455,08,Colorado,2015
+1170.0,Aurora,04000,08,Colorado,2015
+1381.0,Boulder,07850,08,Colorado,2015
+1463.0,Broomfield,09280,08,Colorado,2015
+1477.0,Centennial,12815,08,Colorado,2015
+1082.0,Colorado Springs,16000,08,Colorado,2015
+1180.0,Denver,20000,08,Colorado,2015
+1229.0,Fort Collins,27425,08,Colorado,2015
+938.0,Greeley,32155,08,Colorado,2015
+1741.0,Highlands Ranch CDP,36410,08,Colorado,2015
+1196.0,Lakewood,43000,08,Colorado,2015
+1180.0,Longmont,45970,08,Colorado,2015
+1068.0,Loveland,46465,08,Colorado,2015
+764.0,Pueblo,62000,08,Colorado,2015
+1381.0,Thornton,77290,08,Colorado,2015
+1327.0,Westminster,83835,08,Colorado,2015
+1243.0,Bridgeport,08000,09,Connecticut,2015
+1561.0,Danbury,18430,09,Connecticut,2015
+1008.0,Hartford,37000,09,Connecticut,2015
+975.0,New Britain,50370,09,Connecticut,2015
+1187.0,New Haven,52000,09,Connecticut,2015
+1846.0,Norwalk,55990,09,Connecticut,2015
+1944.0,Stamford,73000,09,Connecticut,2015
+1022.0,Waterbury,80000,09,Connecticut,2015
+951.0,Wilmington,77580,10,Delaware,2015
+1577.0,Washington,50000,11,District of Columbia,2015
+1280.0,Alafaya CDP,00410,12,Florida,2015
+1519.0,Boca Raton,07300,12,Florida,2015
+1128.0,Boynton Beach,07875,12,Florida,2015
+1072.0,Brandon CDP,08150,12,Florida,2015
+1048.0,Cape Coral,10275,12,Florida,2015
+997.0,Clearwater,12875,12,Florida,2015
+1509.0,Coral Springs,14400,12,Florida,2015
+1335.0,Davie town,16475,12,Florida,2015
+1053.0,Deerfield Beach,16725,12,Florida,2015
+1275.0,Delray Beach,17100,12,Florida,2015
+974.0,Deltona,17200,12,Florida,2015
+1246.0,Fort Lauderdale,24000,12,Florida,2015
+875.0,Fort Myers,24125,12,Florida,2015
+859.0,Gainesville,25175,12,Florida,2015
+1004.0,Hialeah,30000,12,Florida,2015
+1125.0,Hollywood,32000,12,Florida,2015
+1115.0,Homestead,32275,12,Florida,2015
+988.0,Jacksonville,35000,12,Florida,2015
+1460.0,Kendall CDP,36100,12,Florida,2015
+975.0,Kissimmee,36950,12,Florida,2015
+809.0,Lakeland,38250,12,Florida,2015
+830.0,Largo,39425,12,Florida,2015
+1092.0,Lauderhill,39550,12,Florida,2015
+837.0,Lehigh Acres CDP,39925,12,Florida,2015
+873.0,Melbourne,43975,12,Florida,2015
+1048.0,Miami,45000,12,Florida,2015
+1292.0,Miami Beach,45025,12,Florida,2015
+1158.0,Miami Gardens,45060,12,Florida,2015
+1507.0,Miramar,45975,12,Florida,2015
+1049.0,Orlando,53000,12,Florida,2015
+867.0,Palm Bay,54000,12,Florida,2015
+939.0,Palm Coast,54200,12,Florida,2015
+1428.0,Pembroke Pines,55775,12,Florida,2015
+946.0,Pine Hills CDP,56825,12,Florida,2015
+1563.0,Plantation,57425,12,Florida,2015
+1104.0,Poinciana CDP,57900,12,Florida,2015
+1048.0,Pompano Beach,58050,12,Florida,2015
+1091.0,Port St. Lucie,58715,12,Florida,2015
+1241.0,Riverview CDP,60950,12,Florida,2015
+979.0,St. Petersburg,63000,12,Florida,2015
+831.0,Spring Hill CDP,68350,12,Florida,2015
+1187.0,Sunrise,69700,12,Florida,2015
+970.0,Tallahassee,70600,12,Florida,2015
+1006.0,Tampa,71000,12,Florida,2015
+622.0,The Villages CDP,71625,12,Florida,2015
+991.0,Town 'n' Country CDP,72145,12,Florida,2015
+2225.0,Weston,76582,12,Florida,2015
+1109.0,West Palm Beach,76600,12,Florida,2015
+688.0,Albany,01052,13,Georgia,2015
+833.0,Athens-Clarke County unified government (balance),03440,13,Georgia,2015
+1081.0,Atlanta,04000,13,Georgia,2015
+816.0,Augusta-Richmond County consolidated government (balance),04204,13,Georgia,2015
+875.0,Columbus,19000,13,Georgia,2015
+1592.0,Johns Creek,42425,13,Georgia,2015
+786.0,Macon-Bibb County,49008,13,Georgia,2015
+1242.0,Roswell,67284,13,Georgia,2015
+1248.0,Sandy Springs,68516,13,Georgia,2015
+948.0,Savannah,69000,13,Georgia,2015
+868.0,Warner Robins,80508,13,Georgia,2015
+1409.0,Urban Honolulu CDP,71550,15,Hawaii,2015
+922.0,Boise City,08830,16,Idaho,2015
+1074.0,Meridian,52120,16,Idaho,2015
+810.0,Nampa,56260,16,Idaho,2015
+1407.0,Arlington Heights village,02154,17,Illinois,2015
+1237.0,Aurora,03012,17,Illinois,2015
+923.0,Bloomington,06613,17,Illinois,2015
+1480.0,Bolingbrook village,07133,17,Illinois,2015
+1028.0,Champaign,12385,17,Illinois,2015
+1124.0,Chicago,14000,17,Illinois,2015
+978.0,Cicero town,14351,17,Illinois,2015
+621.0,Decatur,18823,17,Illinois,2015
+1202.0,Elgin,23074,17,Illinois,2015
+1526.0,Evanston,24582,17,Illinois,2015
+1144.0,Joliet,38570,17,Illinois,2015
+1710.0,Naperville,51622,17,Illinois,2015
+1276.0,Palatine village,57225,17,Illinois,2015
+836.0,Peoria,59000,17,Illinois,2015
+767.0,Rockford,65000,17,Illinois,2015
+1385.0,Schaumburg village,68003,17,Illinois,2015
+1249.0,Skokie village,70122,17,Illinois,2015
+784.0,Springfield,72000,17,Illinois,2015
+934.0,Waukegan,79293,17,Illinois,2015
+864.0,Bloomington,05860,18,Indiana,2015
+1440.0,Carmel,10342,18,Indiana,2015
+711.0,Evansville,22000,18,Indiana,2015
+1362.0,Fishers town,23278,18,Indiana,2015
+734.0,Fort Wayne,25000,18,Indiana,2015
+716.0,Gary,27000,18,Indiana,2015
+785.0,Hammond,31000,18,Indiana,2015
+842.0,Indianapolis,36003,18,Indiana,2015
+758.0,Lafayette,40788,18,Indiana,2015
+664.0,Muncie,51876,18,Indiana,2015
+707.0,South Bend,71000,18,Indiana,2015
+872.0,Ames,01855,19,Iowa,2015
+817.0,Cedar Rapids,12000,19,Iowa,2015
+802.0,Davenport,19000,19,Iowa,2015
+849.0,Des Moines,21000,19,Iowa,2015
+947.0,Iowa City,38595,19,Iowa,2015
+732.0,Sioux City,73335,19,Iowa,2015
+701.0,Waterloo,82425,19,Iowa,2015
+823.0,Kansas City,36000,20,Kansas,2015
+889.0,Lawrence,38900,20,Kansas,2015
+1231.0,Olathe,52575,20,Kansas,2015
+1171.0,Overland Park,53775,20,Kansas,2015
+1173.0,Shawnee,64500,20,Kansas,2015
+776.0,Topeka,71000,20,Kansas,2015
+790.0,Wichita,79000,20,Kansas,2015
+907.0,Lexington-Fayette urban county,46027,21,Kentucky,2015
+841.0,Louisville/Jefferson County metro government (balance),48006,21,Kentucky,2015
+799.0,Baton Rouge,05000,22,Louisiana,2015
+905.0,Bossier City,08920,22,Louisiana,2015
+892.0,Kenner,39475,22,Louisiana,2015
+830.0,Lafayette,40735,22,Louisiana,2015
+714.0,Lake Charles,41155,22,Louisiana,2015
+884.0,Metairie CDP,50115,22,Louisiana,2015
+963.0,New Orleans,55000,22,Louisiana,2015
+743.0,Shreveport,70000,22,Louisiana,2015
+1096.0,Portland,60545,23,Maine,2015
+1034.0,Baltimore,04000,24,Maryland,2015
+1749.0,Columbia CDP,19125,24,Maryland,2015
+1892.0,Ellicott City CDP,26000,24,Maryland,2015
+1430.0,Frederick,30325,24,Maryland,2015
+1675.0,Gaithersburg,31175,24,Maryland,2015
+1716.0,Germantown CDP,32025,24,Maryland,2015
+1295.0,Glen Burnie CDP,32650,24,Maryland,2015
+1910.0,Rockville,67675,24,Maryland,2015
+1573.0,Silver Spring CDP,72450,24,Maryland,2015
+1689.0,Waldorf CDP,81175,24,Maryland,2015
+1564.0,Boston,07000,25,Massachusetts,2015
+1229.0,Brockton,09000,25,Massachusetts,2015
+1920.0,Cambridge,11000,25,Massachusetts,2015
+790.0,Fall River,23000,25,Massachusetts,2015
+1505.0,Framingham CDP,24960,25,Massachusetts,2015
+1148.0,Lawrence,34550,25,Massachusetts,2015
+1163.0,Lowell,37000,25,Massachusetts,2015
+1317.0,Lynn,37490,25,Massachusetts,2015
+861.0,New Bedford,45000,25,Massachusetts,2015
+2254.0,Newton,45560,25,Massachusetts,2015
+1494.0,Quincy,55745,25,Massachusetts,2015
+1713.0,Somerville,62535,25,Massachusetts,2015
+968.0,Springfield,67000,25,Massachusetts,2015
+1086.0,Worcester,82000,25,Massachusetts,2015
+1173.0,Ann Arbor,03000,26,Michigan,2015
+946.0,Dearborn,21000,26,Michigan,2015
+684.0,Detroit,22000,26,Michigan,2015
+1162.0,Farmington Hills,27440,26,Michigan,2015
+616.0,Flint,29000,26,Michigan,2015
+826.0,Grand Rapids,34000,26,Michigan,2015
+706.0,Kalamazoo,42160,26,Michigan,2015
+749.0,Lansing,46000,26,Michigan,2015
+995.0,Livonia,49000,26,Michigan,2015
+1291.0,Rochester Hills,69035,26,Michigan,2015
+1084.0,Southfield,74900,26,Michigan,2015
+965.0,Sterling Heights,76460,26,Michigan,2015
+1183.0,Troy,80700,26,Michigan,2015
+783.0,Warren,84000,26,Michigan,2015
+853.0,Westland,86000,26,Michigan,2015
+811.0,Wyoming,88940,26,Michigan,2015
+1118.0,Bloomington,06616,27,Minnesota,2015
+1089.0,Brooklyn Park,07966,27,Minnesota,2015
+836.0,Duluth,17000,27,Minnesota,2015
+1224.0,Eagan,17288,27,Minnesota,2015
+1438.0,Maple Grove,40166,27,Minnesota,2015
+1088.0,Minneapolis,43000,27,Minnesota,2015
+1220.0,Plymouth,51730,27,Minnesota,2015
+970.0,Rochester,54880,27,Minnesota,2015
+820.0,St. Cloud,56896,27,Minnesota,2015
+986.0,St. Paul,58000,27,Minnesota,2015
+1450.0,Woodbury,71428,27,Minnesota,2015
+804.0,Gulfport,29700,28,Mississippi,2015
+795.0,Jackson,36000,28,Mississippi,2015
+849.0,Columbia,15670,29,Missouri,2015
+815.0,Independence,35000,29,Missouri,2015
+885.0,Kansas City,38000,29,Missouri,2015
+1175.0,Lee's Summit,41348,29,Missouri,2015
+1246.0,O'Fallon,54074,29,Missouri,2015
+949.0,St. Charles,64082,29,Missouri,2015
+734.0,St. Joseph,64550,29,Missouri,2015
+820.0,St. Louis,65000,29,Missouri,2015
+681.0,Springfield,70000,29,Missouri,2015
+944.0,Billings,06550,30,Montana,2015
+810.0,Missoula,50200,30,Montana,2015
+877.0,Lincoln,28000,31,Nebraska,2015
+948.0,Omaha,37000,31,Nebraska,2015
+1328.0,Enterprise CDP,23770,32,Nevada,2015
+1220.0,Henderson,31900,32,Nevada,2015
+1022.0,Las Vegas,40000,32,Nevada,2015
+1083.0,North Las Vegas,51800,32,Nevada,2015
+911.0,Paradise CDP,54600,32,Nevada,2015
+964.0,Reno,60600,32,Nevada,2015
+1046.0,Sparks,68400,32,Nevada,2015
+1053.0,Spring Valley CDP,68585,32,Nevada,2015
+888.0,Sunrise Manor CDP,71400,32,Nevada,2015
+1155.0,Manchester,45140,33,New Hampshire,2015
+1323.0,Nashua,50260,33,New Hampshire,2015
+1269.0,Bayonne,03580,34,New Jersey,2015
+830.0,Camden,10000,34,New Jersey,2015
+1473.0,Clifton,13690,34,New Jersey,2015
+1151.0,East Orange,19390,34,New Jersey,2015
+1145.0,Elizabeth,21000,34,New Jersey,2015
+1366.0,Jersey City,36000,34,New Jersey,2015
+1045.0,Newark,51000,34,New Jersey,2015
+1201.0,Passaic,56550,34,New Jersey,2015
+1164.0,Paterson,57000,34,New Jersey,2015
+1531.0,Toms River CDP,73110,34,New Jersey,2015
+975.0,Trenton,74000,34,New Jersey,2015
+1202.0,Union City,74630,34,New Jersey,2015
+923.0,Albuquerque,02000,35,New Mexico,2015
+769.0,Las Cruces,39380,35,New Mexico,2015
+1172.0,Rio Rancho,63460,35,New Mexico,2015
+987.0,Santa Fe,70500,35,New Mexico,2015
+908.0,Albany,01000,36,New York,2015
+1714.0,Brentwood CDP,08026,36,New York,2015
+694.0,Buffalo,11000,36,New York,2015
+806.0,Cheektowaga CDP,15000,36,New York,2015
+1405.0,Mount Vernon,49121,36,New York,2015
+1664.0,New Rochelle,50617,36,New York,2015
+1378.0,New York,51000,36,New York,2015
+802.0,Rochester,63000,36,New York,2015
+861.0,Schenectady,65508,36,New York,2015
+780.0,Syracuse,73000,36,New York,2015
+1360.0,Yonkers,84000,36,New York,2015
+926.0,Asheville,02140,37,North Carolina,2015
+1285.0,Cary town,10740,37,North Carolina,2015
+1061.0,Charlotte,12000,37,North Carolina,2015
+1020.0,Concord,14100,37,North Carolina,2015
+999.0,Durham,19000,37,North Carolina,2015
+894.0,Fayetteville,22920,37,North Carolina,2015
+839.0,Gastonia,25580,37,North Carolina,2015
+845.0,Greensboro,28000,37,North Carolina,2015
+838.0,Greenville,28080,37,North Carolina,2015
+880.0,High Point,31400,37,North Carolina,2015
+933.0,Jacksonville,34200,37,North Carolina,2015
+1089.0,Raleigh,55000,37,North Carolina,2015
+944.0,Wilmington,74440,37,North Carolina,2015
+788.0,Winston-Salem,75000,37,North Carolina,2015
+854.0,Bismarck,07200,38,North Dakota,2015
+792.0,Fargo,25700,38,North Dakota,2015
+708.0,Akron,01000,39,Ohio,2015
+582.0,Canton,12000,39,Ohio,2015
+749.0,Cincinnati,15000,39,Ohio,2015
+670.0,Cleveland,16000,39,Ohio,2015
+931.0,Columbus,18000,39,Ohio,2015
+656.0,Dayton,21000,39,Ohio,2015
+676.0,Lorain,44856,39,Ohio,2015
+858.0,Parma,61000,39,Ohio,2015
+694.0,Toledo,77000,39,Ohio,2015
+547.0,Youngstown,88000,39,Ohio,2015
+1095.0,Broken Arrow,09050,40,Oklahoma,2015
+1166.0,Edmond,23200,40,Oklahoma,2015
+786.0,Lawton,41850,40,Oklahoma,2015
+902.0,Norman,52500,40,Oklahoma,2015
+867.0,Oklahoma City,55000,40,Oklahoma,2015
+808.0,Tulsa,75000,40,Oklahoma,2015
+1197.0,Beaverton,05350,41,Oregon,2015
+1089.0,Bend,05800,41,Oregon,2015
+1026.0,Eugene,23850,41,Oregon,2015
+1026.0,Gresham,31250,41,Oregon,2015
+1343.0,Hillsboro,34100,41,Oregon,2015
+942.0,Medford,47000,41,Oregon,2015
+1236.0,Portland,59000,41,Oregon,2015
+891.0,Salem,64900,41,Oregon,2015
+940.0,Allentown,02000,42,Pennsylvania,2015
+1041.0,Bethlehem,06088,42,Pennsylvania,2015
+680.0,Erie,24000,42,Pennsylvania,2015
+922.0,Philadelphia,60000,42,Pennsylvania,2015
+822.0,Pittsburgh,61000,42,Pennsylvania,2015
+739.0,Reading,63624,42,Pennsylvania,2015
+769.0,Scranton,69000,42,Pennsylvania,2015
+1164.0,Cranston,19180,44,Rhode Island,2015
+948.0,Pawtucket,54640,44,Rhode Island,2015
+1054.0,Providence,59000,44,Rhode Island,2015
+1309.0,Warwick,74300,44,Rhode Island,2015
+1288.0,Charleston,13330,45,South Carolina,2015
+887.0,Columbia,16000,45,South Carolina,2015
+1626.0,Mount Pleasant town,48535,45,South Carolina,2015
+958.0,North Charleston,50875,45,South Carolina,2015
+921.0,Rock Hill,61405,45,South Carolina,2015
+873.0,Rapid City,52980,46,South Dakota,2015
+858.0,Sioux Falls,59020,46,South Dakota,2015
+815.0,Chattanooga,14000,47,Tennessee,2015
+947.0,Clarksville,15160,47,Tennessee,2015
+1483.0,Franklin,27740,47,Tennessee,2015
+868.0,Jackson,37640,47,Tennessee,2015
+722.0,Johnson City,38320,47,Tennessee,2015
+783.0,Knoxville,40000,47,Tennessee,2015
+851.0,Memphis,48000,47,Tennessee,2015
+971.0,Murfreesboro,51560,47,Tennessee,2015
+988.0,Nashville-Davidson metropolitan government (balance),52006,47,Tennessee,2015
+805.0,Abilene,01000,48,Texas,2015
+1579.0,Allen,01924,48,Texas,2015
+841.0,Amarillo,03000,48,Texas,2015
+1045.0,Arlington,04000,48,Texas,2015
+1393.0,Atascocita CDP,04462,48,Texas,2015
+1244.0,Austin,05000,48,Texas,2015
+798.0,Baytown,06128,48,Texas,2015
+810.0,Beaumont,07000,48,Texas,2015
+646.0,Brownsville,10768,48,Texas,2015
+862.0,Bryan,10912,48,Texas,2015
+1208.0,Carrollton,13024,48,Texas,2015
+1578.0,Cedar Park,13552,48,Texas,2015
+996.0,College Station,15976,48,Texas,2015
+952.0,Conroe,16432,48,Texas,2015
+930.0,Corpus Christi,17000,48,Texas,2015
+951.0,Dallas,19000,48,Texas,2015
+1024.0,Denton,19972,48,Texas,2015
+754.0,Edinburg,22660,48,Texas,2015
+790.0,El Paso,24000,48,Texas,2015
+1870.0,Flower Mound town,26232,48,Texas,2015
+1015.0,Fort Worth,27000,48,Texas,2015
+1816.0,Frisco,27684,48,Texas,2015
+1044.0,Garland,29000,48,Texas,2015
+1085.0,Grand Prairie,30464,48,Texas,2015
+664.0,Harlingen,32372,48,Texas,2015
+956.0,Houston,35000,48,Texas,2015
+1054.0,Irving,37000,48,Texas,2015
+949.0,Killeen,39148,48,Texas,2015
+824.0,Laredo,41464,48,Texas,2015
+1560.0,League City,41980,48,Texas,2015
+1122.0,Lewisville,42508,48,Texas,2015
+799.0,Longview,43888,48,Texas,2015
+866.0,Lubbock,45000,48,Texas,2015
+729.0,McAllen,45384,48,Texas,2015
+1532.0,McKinney,45744,48,Texas,2015
+966.0,Mesquite,47892,48,Texas,2015
+1175.0,Midland,48072,48,Texas,2015
+857.0,Mission,48768,48,Texas,2015
+1470.0,Missouri City,48804,48,Texas,2015
+1061.0,New Braunfels,50820,48,Texas,2015
+1146.0,North Richland Hills,52356,48,Texas,2015
+986.0,Odessa,53388,48,Texas,2015
+849.0,Pasadena,56000,48,Texas,2015
+1419.0,Pearland,56348,48,Texas,2015
+622.0,Pharr,57200,48,Texas,2015
+1362.0,Plano,58016,48,Texas,2015
+1311.0,Richardson,61796,48,Texas,2015
+1248.0,Round Rock,63500,48,Texas,2015
+871.0,San Angelo,64472,48,Texas,2015
+900.0,San Antonio,65000,48,Texas,2015
+1583.0,Sugar Land,70808,48,Texas,2015
+839.0,Temple,72176,48,Texas,2015
+1767.0,The Woodlands CDP,72656,48,Texas,2015
+862.0,Tyler,74144,48,Texas,2015
+844.0,Victoria,75428,48,Texas,2015
+805.0,Waco,76000,48,Texas,2015
+761.0,Wichita Falls,79000,48,Texas,2015
+1078.0,Layton,43660,49,Utah,2015
+790.0,Ogden,55980,49,Utah,2015
+986.0,Orem,57300,49,Utah,2015
+875.0,Provo,62470,49,Utah,2015
+953.0,St. George,65330,49,Utah,2015
+891.0,Salt Lake City,67000,49,Utah,2015
+1313.0,Sandy,67440,49,Utah,2015
+1474.0,South Jordan,70850,49,Utah,2015
+1321.0,West Jordan,82950,49,Utah,2015
+1014.0,West Valley City,83470,49,Utah,2015
+1777.0,Alexandria,01000,51,Virginia,2015
+1958.0,Arlington CDP,03000,51,Virginia,2015
+1914.0,Centreville CDP,14440,51,Virginia,2015
+1400.0,Chesapeake,16000,51,Virginia,2015
+1774.0,Dale City CDP,21088,51,Virginia,2015
+1121.0,Hampton,35000,51,Virginia,2015
+839.0,Lynchburg,47672,51,Virginia,2015
+1020.0,Newport News,56000,51,Virginia,2015
+1084.0,Norfolk,57000,51,Virginia,2015
+1063.0,Portsmouth,64000,51,Virginia,2015
+982.0,Richmond,67000,51,Virginia,2015
+791.0,Roanoke,68000,51,Virginia,2015
+1318.0,Suffolk,76432,51,Virginia,2015
+1356.0,Virginia Beach,82000,51,Virginia,2015
+1252.0,Auburn,03180,53,Washington,2015
+1746.0,Bellevue,05210,53,Washington,2015
+965.0,Bellingham,05280,53,Washington,2015
+1135.0,Everett,22640,53,Washington,2015
+1235.0,Federal Way,23515,53,Washington,2015
+881.0,Kennewick,35275,53,Washington,2015
+1294.0,Kent,35415,53,Washington,2015
+1769.0,Kirkland,35940,53,Washington,2015
+1426.0,Marysville,43955,53,Washington,2015
+997.0,Pasco,53545,53,Washington,2015
+1429.0,Renton,57745,53,Washington,2015
+1541.0,Seattle,63000,53,Washington,2015
+871.0,Spokane,67000,53,Washington,2015
+885.0,Spokane Valley,67167,53,Washington,2015
+1124.0,Tacoma,70000,53,Washington,2015
+1080.0,Vancouver,74060,53,Washington,2015
+802.0,Yakima,80010,53,Washington,2015
+896.0,Appleton,02375,55,Wisconsin,2015
+840.0,Eau Claire,22300,55,Wisconsin,2015
+731.0,Green Bay,31000,55,Wisconsin,2015
+930.0,Kenosha,39225,55,Wisconsin,2015
+1111.0,Madison,48000,55,Wisconsin,2015
+862.0,Milwaukee,53000,55,Wisconsin,2015
+795.0,Oshkosh,60500,55,Wisconsin,2015
+821.0,Racine,66000,55,Wisconsin,2015
+975.0,Waukesha,84250,55,Wisconsin,2015
+565.0,Bayamón zona urbana,06593,72,Puerto Rico,2015
+451.0,Caguas zona urbana,10334,72,Puerto Rico,2015
+607.0,Carolina zona urbana,14290,72,Puerto Rico,2015
+874.0,Guaynabo zona urbana,32522,72,Puerto Rico,2015
+275.0,Mayagüez zona urbana,52431,72,Puerto Rico,2015
+243.0,Ponce zona urbana,63820,72,Puerto Rico,2015
+472.0,San Juan zona urbana,76770,72,Puerto Rico,2015
+751.0,Birmingham,07000,01,Alabama,2016
+731.0,Dothan,21184,01,Alabama,2016
+1166.0,Hoover,35896,01,Alabama,2016
+828.0,Huntsville,37000,01,Alabama,2016
+814.0,Mobile,50000,01,Alabama,2016
+822.0,Montgomery,51000,01,Alabama,2016
+846.0,Tuscaloosa,77256,01,Alabama,2016
+1506.0,Anchorage municipality,03000,02,Alaska,2016
+1126.0,Avondale,04720,04,Arizona,2016
+1075.0,Casas Adobes CDP,10670,04,Arizona,2016
+1279.0,Chandler,12000,04,Arizona,2016
+1169.0,Flagstaff,23620,04,Arizona,2016
+1470.0,Gilbert town,27400,04,Arizona,2016
+957.0,Glendale,27820,04,Arizona,2016
+1263.0,Goodyear,28380,04,Arizona,2016
+991.0,Mesa,46000,04,Arizona,2016
+1176.0,Peoria,54050,04,Arizona,2016
+1018.0,Phoenix,55000,04,Arizona,2016
+1119.0,San Tan Valley CDP,64210,04,Arizona,2016
+1313.0,Scottsdale,65000,04,Arizona,2016
+1178.0,Surprise,71510,04,Arizona,2016
+1092.0,Tempe,73000,04,Arizona,2016
+816.0,Tucson,77000,04,Arizona,2016
+762.0,Yuma,85540,04,Arizona,2016
+855.0,Conway,15190,05,Arkansas,2016
+799.0,Fayetteville,23290,05,Arkansas,2016
+666.0,Fort Smith,24550,05,Arkansas,2016
+715.0,Jonesboro,35710,05,Arkansas,2016
+864.0,Little Rock,41000,05,Arkansas,2016
+794.0,North Little Rock,50450,05,Arkansas,2016
+890.0,Rogers,60410,05,Arkansas,2016
+805.0,Springdale,66080,05,Arkansas,2016
+1769.0,Alameda,00562,06,California,2016
+1335.0,Alhambra,00884,06,California,2016
+1590.0,Anaheim,02000,06,California,2016
+1703.0,Antioch,02252,06,California,2016
+1106.0,Apple Valley town,02364,06,California,2016
+992.0,Arden-Arcade CDP,02553,06,California,2016
+1171.0,Bakersfield,03526,06,California,2016
+1443.0,Baldwin Park,03666,06,California,2016
+1308.0,Bellflower,04982,06,California,2016
+1787.0,Berkeley,06000,06,California,2016
+1537.0,Buena Park,08786,06,California,2016
+1653.0,Burbank,08954,06,California,2016
+1910.0,Camarillo,10046,06,California,2016
+2410.0,Carlsbad,11194,06,California,2016
+1149.0,Carmichael CDP,11390,06,California,2016
+1607.0,Carson,11530,06,California,2016
+1810.0,Castro Valley CDP,11964,06,California,2016
+1046.0,Chico,13014,06,California,2016
+1662.0,Chino,13210,06,California,2016
+2141.0,Chino Hills,13214,06,California,2016
+1693.0,Chula Vista,13392,06,California,2016
+1202.0,Citrus Heights,13588,06,California,2016
+1346.0,Clovis,14218,06,California,2016
+1261.0,Compton,15044,06,California,2016
+1665.0,Concord,16000,06,California,2016
+1732.0,Corona,16350,06,California,2016
+1768.0,Costa Mesa,16532,06,California,2016
+2072.0,Daly City,17918,06,California,2016
+1470.0,Davis,18100,06,California,2016
+1473.0,Downey,19766,06,California,2016
+1086.0,East Los Angeles CDP,20802,06,California,2016
+1239.0,El Cajon,21712,06,California,2016
+1681.0,Elk Grove,22020,06,California,2016
+1187.0,El Monte,22230,06,California,2016
+1449.0,Escondido,22804,06,California,2016
+1511.0,Fairfield,23182,06,California,2016
+1074.0,Florence-Graham CDP,24477,06,California,2016
+1760.0,Folsom,24638,06,California,2016
+1518.0,Fontana,24680,06,California,2016
+2357.0,Fremont,26000,06,California,2016
+992.0,Fresno,27000,06,California,2016
+1585.0,Fullerton,28000,06,California,2016
+1585.0,Garden Grove,29000,06,California,2016
+1617.0,Glendale,30000,06,California,2016
+1136.0,Hawthorne,32548,06,California,2016
+1709.0,Hayward,33000,06,California,2016
+937.0,Hemet,33182,06,California,2016
+1121.0,Hesperia,33434,06,California,2016
+1744.0,Huntington Beach,36000,06,California,2016
+1189.0,Indio,36448,06,California,2016
+1343.0,Inglewood,36546,06,California,2016
+2377.0,Irvine,36770,06,California,2016
+1307.0,Jurupa Valley,37692,06,California,2016
+2310.0,Laguna Niguel,39248,06,California,2016
+2025.0,Lake Forest,39496,06,California,2016
+1692.0,Lakewood,39892,06,California,2016
+1174.0,Lancaster,40130,06,California,2016
+2211.0,Livermore,41992,06,California,2016
+1323.0,Long Beach,43000,06,California,2016
+1471.0,Los Angeles,44000,06,California,2016
+1311.0,Lynwood,44574,06,California,2016
+1493.0,Manteca,45484,06,California,2016
+1493.0,Menifee,46842,06,California,2016
+937.0,Merced,46898,06,California,2016
+2204.0,Milpitas,47766,06,California,2016
+2258.0,Mission Viejo,48256,06,California,2016
+1166.0,Modesto,48354,06,California,2016
+1378.0,Moreno Valley,49270,06,California,2016
+2352.0,Mountain View,49670,06,California,2016
+1839.0,Murrieta,50076,06,California,2016
+1578.0,Napa,50258,06,California,2016
+2390.0,Newport Beach,51182,06,California,2016
+1505.0,Norwalk,52526,06,California,2016
+1465.0,Oakland,53000,06,California,2016
+1598.0,Oceanside,53322,06,California,2016
+1420.0,Ontario,53896,06,California,2016
+1899.0,Orange,53980,06,California,2016
+1583.0,Oxnard,54652,06,California,2016
+1320.0,Palmdale,55156,06,California,2016
+2362.0,Palo Alto,55282,06,California,2016
+1692.0,Pasadena,56000,06,California,2016
+1509.0,Perris,56700,06,California,2016
+1669.0,Pittsburg,57456,06,California,2016
+2515.0,Pleasanton,57792,06,California,2016
+1390.0,Pomona,58072,06,California,2016
+1226.0,Rancho Cordova,59444,06,California,2016
+1756.0,Rancho Cucamonga,59451,06,California,2016
+1066.0,Redding,59920,06,California,2016
+1258.0,Redlands,59962,06,California,2016
+2127.0,Redondo Beach,60018,06,California,2016
+2278.0,Redwood City,60102,06,California,2016
+1266.0,Rialto,60466,06,California,2016
+1436.0,Richmond,60620,06,California,2016
+1399.0,Riverside,62000,06,California,2016
+1590.0,Roseville,62938,06,California,2016
+1187.0,Sacramento,64000,06,California,2016
+1300.0,Salinas,64224,06,California,2016
+1021.0,San Bernardino,65000,06,California,2016
+1571.0,San Buenaventura (Ventura),65042,06,California,2016
+1963.0,San Clemente,65084,06,California,2016
+1664.0,San Diego,66000,06,California,2016
+1939.0,San Francisco,67000,06,California,2016
+2123.0,San Jose,68000,06,California,2016
+1434.0,San Leandro,68084,06,California,2016
+1829.0,San Marcos,68196,06,California,2016
+2309.0,San Mateo,68252,06,California,2016
+2870.0,San Ramon,68378,06,California,2016
+1463.0,Santa Ana,69000,06,California,2016
+1810.0,Santa Barbara,69070,06,California,2016
+2293.0,Santa Clara,69084,06,California,2016
+1941.0,Santa Clarita,69088,06,California,2016
+1326.0,Santa Maria,69196,06,California,2016
+1695.0,Santa Monica,70000,06,California,2016
+1578.0,Santa Rosa,70098,06,California,2016
+2025.0,Simi Valley,72016,06,California,2016
+1142.0,South Gate,73080,06,California,2016
+1941.0,South San Francisco,73262,06,California,2016
+1101.0,Stockton,75000,06,California,2016
+2291.0,Sunnyvale,77000,06,California,2016
+1881.0,Temecula,78120,06,California,2016
+2114.0,Thousand Oaks,78582,06,California,2016
+1688.0,Torrance,80000,06,California,2016
+1820.0,Tracy,80238,06,California,2016
+1055.0,Turlock,80812,06,California,2016
+1770.0,Tustin,80854,06,California,2016
+2096.0,Union City,81204,06,California,2016
+1494.0,Upland,81344,06,California,2016
+1731.0,Vacaville,81554,06,California,2016
+1492.0,Vallejo,81666,06,California,2016
+1263.0,Victorville,82590,06,California,2016
+1072.0,Visalia,82954,06,California,2016
+1515.0,Vista,82996,06,California,2016
+1788.0,Walnut Creek,83346,06,California,2016
+1638.0,West Covina,84200,06,California,2016
+1458.0,Westminster,84550,06,California,2016
+1474.0,Whittier,85292,06,California,2016
+2672.0,Yorba Linda,86832,06,California,2016
+985.0,Yuba City,86972,06,California,2016
+1387.0,Arvada,03455,08,Colorado,2016
+1274.0,Aurora,04000,08,Colorado,2016
+1517.0,Boulder,07850,08,Colorado,2016
+1528.0,Broomfield,09280,08,Colorado,2016
+1577.0,Centennial,12815,08,Colorado,2016
+1099.0,Colorado Springs,16000,08,Colorado,2016
+1265.0,Denver,20000,08,Colorado,2016
+1281.0,Fort Collins,27425,08,Colorado,2016
+973.0,Greeley,32155,08,Colorado,2016
+1819.0,Highlands Ranch CDP,36410,08,Colorado,2016
+1213.0,Lakewood,43000,08,Colorado,2016
+1284.0,Longmont,45970,08,Colorado,2016
+1181.0,Loveland,46465,08,Colorado,2016
+780.0,Pueblo,62000,08,Colorado,2016
+1384.0,Thornton,77290,08,Colorado,2016
+1312.0,Westminster,83835,08,Colorado,2016
+1234.0,Bridgeport,08000,09,Connecticut,2016
+1464.0,Danbury,18430,09,Connecticut,2016
+962.0,Hartford,37000,09,Connecticut,2016
+1047.0,New Britain,50370,09,Connecticut,2016
+1234.0,New Haven,52000,09,Connecticut,2016
+1925.0,Norwalk,55990,09,Connecticut,2016
+1918.0,Stamford,73000,09,Connecticut,2016
+977.0,Waterbury,80000,09,Connecticut,2016
+938.0,Wilmington,77580,10,Delaware,2016
+1543.0,Washington,50000,11,District of Columbia,2016
+1445.0,Alafaya CDP,00410,12,Florida,2016
+1518.0,Boca Raton,07300,12,Florida,2016
+1336.0,Boynton Beach,07875,12,Florida,2016
+1146.0,Brandon CDP,08150,12,Florida,2016
+1096.0,Cape Coral,10275,12,Florida,2016
+963.0,Clearwater,12875,12,Florida,2016
+1470.0,Coral Springs,14400,12,Florida,2016
+1369.0,Davie town,16475,12,Florida,2016
+808.0,Daytona Beach,16525,12,Florida,2016
+1081.0,Deerfield Beach,16725,12,Florida,2016
+1373.0,Delray Beach,17100,12,Florida,2016
+940.0,Deltona,17200,12,Florida,2016
+1285.0,Fort Lauderdale,24000,12,Florida,2016
+929.0,Fort Myers,24125,12,Florida,2016
+893.0,Gainesville,25175,12,Florida,2016
+1022.0,Hialeah,30000,12,Florida,2016
+1202.0,Hollywood,32000,12,Florida,2016
+1072.0,Homestead,32275,12,Florida,2016
+978.0,Jacksonville,35000,12,Florida,2016
+1358.0,Kendall CDP,36100,12,Florida,2016
+1070.0,Kissimmee,36950,12,Florida,2016
+873.0,Lakeland,38250,12,Florida,2016
+859.0,Largo,39425,12,Florida,2016
+1119.0,Lauderhill,39550,12,Florida,2016
+931.0,Lehigh Acres CDP,39925,12,Florida,2016
+876.0,Melbourne,43975,12,Florida,2016
+1087.0,Miami,45000,12,Florida,2016
+1394.0,Miami Beach,45025,12,Florida,2016
+1165.0,Miami Gardens,45060,12,Florida,2016
+1304.0,Miramar,45975,12,Florida,2016
+1117.0,Orlando,53000,12,Florida,2016
+836.0,Palm Bay,54000,12,Florida,2016
+1028.0,Palm Coast,54200,12,Florida,2016
+1416.0,Pembroke Pines,55775,12,Florida,2016
+988.0,Pine Hills CDP,56825,12,Florida,2016
+1529.0,Plantation,57425,12,Florida,2016
+1123.0,Pompano Beach,58050,12,Florida,2016
+1102.0,Port St. Lucie,58715,12,Florida,2016
+1238.0,Riverview CDP,60950,12,Florida,2016
+1004.0,St. Petersburg,63000,12,Florida,2016
+813.0,Spring Hill CDP,68350,12,Florida,2016
+1269.0,Sunrise,69700,12,Florida,2016
+979.0,Tallahassee,70600,12,Florida,2016
+1116.0,Tamarac,70675,12,Florida,2016
+1089.0,Tampa,71000,12,Florida,2016
+1554.0,The Hammocks CDP,71569,12,Florida,2016
+646.0,The Villages CDP,71625,12,Florida,2016
+1003.0,Town 'n' Country CDP,72145,12,Florida,2016
+2022.0,Weston,76582,12,Florida,2016
+1177.0,West Palm Beach,76600,12,Florida,2016
+720.0,Albany,01052,13,Georgia,2016
+1442.0,Alpharetta,01696,13,Georgia,2016
+794.0,Athens-Clarke County unified government (balance),03440,13,Georgia,2016
+1174.0,Atlanta,04000,13,Georgia,2016
+801.0,Augusta-Richmond County consolidated government (balance),04204,13,Georgia,2016
+870.0,Columbus,19000,13,Georgia,2016
+1668.0,Johns Creek,42425,13,Georgia,2016
+774.0,Macon-Bibb County,49008,13,Georgia,2016
+1370.0,Roswell,67284,13,Georgia,2016
+1266.0,Sandy Springs,68516,13,Georgia,2016
+928.0,Savannah,69000,13,Georgia,2016
+892.0,Warner Robins,80508,13,Georgia,2016
+1400.0,Urban Honolulu CDP,71550,15,Hawaii,2016
+945.0,Boise City,08830,16,Idaho,2016
+1079.0,Meridian,52120,16,Idaho,2016
+838.0,Nampa,56260,16,Idaho,2016
+1451.0,Arlington Heights village,02154,17,Illinois,2016
+1231.0,Aurora,03012,17,Illinois,2016
+888.0,Bloomington,06613,17,Illinois,2016
+1550.0,Bolingbrook village,07133,17,Illinois,2016
+921.0,Champaign,12385,17,Illinois,2016
+1168.0,Chicago,14000,17,Illinois,2016
+932.0,Cicero town,14351,17,Illinois,2016
+630.0,Decatur,18823,17,Illinois,2016
+1253.0,Elgin,23074,17,Illinois,2016
+1382.0,Evanston,24582,17,Illinois,2016
+1202.0,Joliet,38570,17,Illinois,2016
+1832.0,Naperville,51622,17,Illinois,2016
+1349.0,Palatine village,57225,17,Illinois,2016
+800.0,Peoria,59000,17,Illinois,2016
+734.0,Rockford,65000,17,Illinois,2016
+1349.0,Schaumburg village,68003,17,Illinois,2016
+1283.0,Skokie village,70122,17,Illinois,2016
+821.0,Springfield,72000,17,Illinois,2016
+928.0,Waukegan,79293,17,Illinois,2016
+857.0,Bloomington,05860,18,Indiana,2016
+1479.0,Carmel,10342,18,Indiana,2016
+709.0,Evansville,22000,18,Indiana,2016
+1359.0,Fishers,23278,18,Indiana,2016
+706.0,Fort Wayne,25000,18,Indiana,2016
+669.0,Gary,27000,18,Indiana,2016
+798.0,Hammond,31000,18,Indiana,2016
+876.0,Indianapolis,36003,18,Indiana,2016
+763.0,Lafayette,40788,18,Indiana,2016
+598.0,Muncie,51876,18,Indiana,2016
+667.0,South Bend,71000,18,Indiana,2016
+930.0,Ames,01855,19,Iowa,2016
+855.0,Cedar Rapids,12000,19,Iowa,2016
+846.0,Davenport,19000,19,Iowa,2016
+868.0,Des Moines,21000,19,Iowa,2016
+928.0,Iowa City,38595,19,Iowa,2016
+695.0,Sioux City,73335,19,Iowa,2016
+740.0,Waterloo,82425,19,Iowa,2016
+825.0,Kansas City,36000,20,Kansas,2016
+1010.0,Lawrence,38900,20,Kansas,2016
+1225.0,Olathe,52575,20,Kansas,2016
+1201.0,Overland Park,53775,20,Kansas,2016
+1231.0,Shawnee,64500,20,Kansas,2016
+743.0,Topeka,71000,20,Kansas,2016
+805.0,Wichita,79000,20,Kansas,2016
+742.0,Bowling Green,08902,21,Kentucky,2016
+901.0,Lexington-Fayette urban county,46027,21,Kentucky,2016
+853.0,Louisville/Jefferson County metro government (balance),48006,21,Kentucky,2016
+818.0,Baton Rouge,05000,22,Louisiana,2016
+942.0,Bossier City,08920,22,Louisiana,2016
+1017.0,Kenner,39475,22,Louisiana,2016
+831.0,Lafayette,40735,22,Louisiana,2016
+719.0,Lake Charles,41155,22,Louisiana,2016
+930.0,Metairie CDP,50115,22,Louisiana,2016
+974.0,New Orleans,55000,22,Louisiana,2016
+743.0,Shreveport,70000,22,Louisiana,2016
+1152.0,Portland,60545,23,Maine,2016
+1031.0,Baltimore,04000,24,Maryland,2016
+1732.0,Columbia CDP,19125,24,Maryland,2016
+1765.0,Ellicott City CDP,26000,24,Maryland,2016
+1369.0,Frederick,30325,24,Maryland,2016
+1702.0,Gaithersburg,31175,24,Maryland,2016
+1674.0,Germantown CDP,32025,24,Maryland,2016
+1307.0,Glen Burnie CDP,32650,24,Maryland,2016
+1936.0,Rockville,67675,24,Maryland,2016
+1592.0,Silver Spring CDP,72450,24,Maryland,2016
+1799.0,Waldorf CDP,81175,24,Maryland,2016
+1599.0,Boston,07000,25,Massachusetts,2016
+1187.0,Brockton,09000,25,Massachusetts,2016
+1947.0,Cambridge,11000,25,Massachusetts,2016
+784.0,Fall River,23000,25,Massachusetts,2016
+1499.0,Framingham CDP,24960,25,Massachusetts,2016
+1080.0,Lawrence,34550,25,Massachusetts,2016
+1229.0,Lowell,37000,25,Massachusetts,2016
+1227.0,Lynn,37490,25,Massachusetts,2016
+826.0,New Bedford,45000,25,Massachusetts,2016
+2231.0,Newton,45560,25,Massachusetts,2016
+1476.0,Quincy,55745,25,Massachusetts,2016
+1822.0,Somerville,62535,25,Massachusetts,2016
+921.0,Springfield,67000,25,Massachusetts,2016
+1080.0,Worcester,82000,25,Massachusetts,2016
+1229.0,Ann Arbor,03000,26,Michigan,2016
+914.0,Dearborn,21000,26,Michigan,2016
+693.0,Detroit,22000,26,Michigan,2016
+1150.0,Farmington Hills,27440,26,Michigan,2016
+607.0,Flint,29000,26,Michigan,2016
+865.0,Grand Rapids,34000,26,Michigan,2016
+736.0,Kalamazoo,42160,26,Michigan,2016
+788.0,Lansing,46000,26,Michigan,2016
+1047.0,Livonia,49000,26,Michigan,2016
+1274.0,Rochester Hills,69035,26,Michigan,2016
+1080.0,Southfield,74900,26,Michigan,2016
+995.0,Sterling Heights,76460,26,Michigan,2016
+1215.0,Troy,80700,26,Michigan,2016
+840.0,Warren,84000,26,Michigan,2016
+843.0,Westland,86000,26,Michigan,2016
+844.0,Wyoming,88940,26,Michigan,2016
+1107.0,Bloomington,06616,27,Minnesota,2016
+1170.0,Brooklyn Park,07966,27,Minnesota,2016
+835.0,Duluth,17000,27,Minnesota,2016
+1232.0,Eagan,17288,27,Minnesota,2016
+1520.0,Maple Grove,40166,27,Minnesota,2016
+1070.0,Minneapolis,43000,27,Minnesota,2016
+1439.0,Plymouth,51730,27,Minnesota,2016
+1074.0,Rochester,54880,27,Minnesota,2016
+788.0,St. Cloud,56896,27,Minnesota,2016
+1008.0,St. Paul,58000,27,Minnesota,2016
+1602.0,Woodbury,71428,27,Minnesota,2016
+738.0,Gulfport,29700,28,Mississippi,2016
+802.0,Jackson,36000,28,Mississippi,2016
+834.0,Columbia,15670,29,Missouri,2016
+752.0,Independence,35000,29,Missouri,2016
+921.0,Kansas City,38000,29,Missouri,2016
+1199.0,Lee's Summit,41348,29,Missouri,2016
+1340.0,O'Fallon,54074,29,Missouri,2016
+999.0,St. Charles,64082,29,Missouri,2016
+752.0,St. Joseph,64550,29,Missouri,2016
+836.0,St. Louis,65000,29,Missouri,2016
+676.0,Springfield,70000,29,Missouri,2016
+980.0,Billings,06550,30,Montana,2016
+856.0,Missoula,50200,30,Montana,2016
+868.0,Lincoln,28000,31,Nebraska,2016
+953.0,Omaha,37000,31,Nebraska,2016
+1351.0,Enterprise CDP,23770,32,Nevada,2016
+1181.0,Henderson,31900,32,Nevada,2016
+1056.0,Las Vegas,40000,32,Nevada,2016
+1124.0,North Las Vegas,51800,32,Nevada,2016
+958.0,Paradise CDP,54600,32,Nevada,2016
+973.0,Reno,60600,32,Nevada,2016
+1079.0,Sparks,68400,32,Nevada,2016
+1092.0,Spring Valley CDP,68585,32,Nevada,2016
+874.0,Sunrise Manor CDP,71400,32,Nevada,2016
+1140.0,Manchester,45140,33,New Hampshire,2016
+1300.0,Nashua,50260,33,New Hampshire,2016
+1298.0,Bayonne,03580,34,New Jersey,2016
+836.0,Camden,10000,34,New Jersey,2016
+1535.0,Clifton,13690,34,New Jersey,2016
+1107.0,East Orange,19390,34,New Jersey,2016
+1138.0,Elizabeth,21000,34,New Jersey,2016
+1397.0,Jersey City,36000,34,New Jersey,2016
+1084.0,Newark,51000,34,New Jersey,2016
+1194.0,Passaic,56550,34,New Jersey,2016
+1172.0,Paterson,57000,34,New Jersey,2016
+1397.0,Toms River CDP,73110,34,New Jersey,2016
+989.0,Trenton,74000,34,New Jersey,2016
+1216.0,Union City,74630,34,New Jersey,2016
+895.0,Albuquerque,02000,35,New Mexico,2016
+760.0,Las Cruces,39380,35,New Mexico,2016
+1075.0,Rio Rancho,63460,35,New Mexico,2016
+1015.0,Santa Fe,70500,35,New Mexico,2016
+953.0,Albany,01000,36,New York,2016
+1791.0,Brentwood CDP,08026,36,New York,2016
+692.0,Buffalo,11000,36,New York,2016
+818.0,Cheektowaga CDP,15000,36,New York,2016
+1357.0,Mount Vernon,49121,36,New York,2016
+1731.0,New Rochelle,50617,36,New York,2016
+1405.0,New York,51000,36,New York,2016
+784.0,Rochester,63000,36,New York,2016
+894.0,Schenectady,65508,36,New York,2016
+754.0,Syracuse,73000,36,New York,2016
+1385.0,Yonkers,84000,36,New York,2016
+944.0,Asheville,02140,37,North Carolina,2016
+1344.0,Cary town,10740,37,North Carolina,2016
+1102.0,Charlotte,12000,37,North Carolina,2016
+971.0,Concord,14100,37,North Carolina,2016
+1021.0,Durham,19000,37,North Carolina,2016
+878.0,Fayetteville,22920,37,North Carolina,2016
+832.0,Gastonia,25580,37,North Carolina,2016
+845.0,Greensboro,28000,37,North Carolina,2016
+808.0,Greenville,28080,37,North Carolina,2016
+859.0,High Point,31400,37,North Carolina,2016
+955.0,Jacksonville,34200,37,North Carolina,2016
+1104.0,Raleigh,55000,37,North Carolina,2016
+970.0,Wilmington,74440,37,North Carolina,2016
+782.0,Winston-Salem,75000,37,North Carolina,2016
+800.0,Bismarck,07200,38,North Dakota,2016
+831.0,Fargo,25700,38,North Dakota,2016
+725.0,Akron,01000,39,Ohio,2016
+670.0,Canton,12000,39,Ohio,2016
+789.0,Cincinnati,15000,39,Ohio,2016
+662.0,Cleveland,16000,39,Ohio,2016
+940.0,Columbus,18000,39,Ohio,2016
+665.0,Dayton,21000,39,Ohio,2016
+702.0,Lorain,44856,39,Ohio,2016
+808.0,Parma,61000,39,Ohio,2016
+688.0,Toledo,77000,39,Ohio,2016
+513.0,Youngstown,88000,39,Ohio,2016
+1034.0,Broken Arrow,09050,40,Oklahoma,2016
+1166.0,Edmond,23200,40,Oklahoma,2016
+816.0,Lawton,41850,40,Oklahoma,2016
+854.0,Norman,52500,40,Oklahoma,2016
+878.0,Oklahoma City,55000,40,Oklahoma,2016
+803.0,Tulsa,75000,40,Oklahoma,2016
+1286.0,Beaverton,05350,41,Oregon,2016
+1240.0,Bend,05800,41,Oregon,2016
+1022.0,Eugene,23850,41,Oregon,2016
+1195.0,Gresham,31250,41,Oregon,2016
+1407.0,Hillsboro,34100,41,Oregon,2016
+949.0,Medford,47000,41,Oregon,2016
+1326.0,Portland,59000,41,Oregon,2016
+988.0,Salem,64900,41,Oregon,2016
+981.0,Allentown,02000,42,Pennsylvania,2016
+1029.0,Bethlehem,06088,42,Pennsylvania,2016
+692.0,Erie,24000,42,Pennsylvania,2016
+926.0,Philadelphia,60000,42,Pennsylvania,2016
+843.0,Pittsburgh,61000,42,Pennsylvania,2016
+755.0,Reading,63624,42,Pennsylvania,2016
+743.0,Scranton,69000,42,Pennsylvania,2016
+1160.0,Cranston,19180,44,Rhode Island,2016
+945.0,Pawtucket,54640,44,Rhode Island,2016
+993.0,Providence,59000,44,Rhode Island,2016
+1227.0,Warwick,74300,44,Rhode Island,2016
+1263.0,Charleston,13330,45,South Carolina,2016
+902.0,Columbia,16000,45,South Carolina,2016
+958.0,Greenville,30850,45,South Carolina,2016
+1626.0,Mount Pleasant town,48535,45,South Carolina,2016
+923.0,North Charleston,50875,45,South Carolina,2016
+875.0,Rock Hill,61405,45,South Carolina,2016
+790.0,Rapid City,52980,46,South Dakota,2016
+900.0,Sioux Falls,59020,46,South Dakota,2016
+806.0,Chattanooga,14000,47,Tennessee,2016
+940.0,Clarksville,15160,47,Tennessee,2016
+1394.0,Franklin,27740,47,Tennessee,2016
+812.0,Jackson,37640,47,Tennessee,2016
+739.0,Johnson City,38320,47,Tennessee,2016
+776.0,Knoxville,40000,47,Tennessee,2016
+862.0,Memphis,48000,47,Tennessee,2016
+1053.0,Murfreesboro,51560,47,Tennessee,2016
+1017.0,Nashville-Davidson metropolitan government (balance),52006,47,Tennessee,2016
+797.0,Abilene,01000,48,Texas,2016
+1670.0,Allen,01924,48,Texas,2016
+829.0,Amarillo,03000,48,Texas,2016
+1021.0,Arlington,04000,48,Texas,2016
+1429.0,Atascocita CDP,04462,48,Texas,2016
+1297.0,Austin,05000,48,Texas,2016
+924.0,Baytown,06128,48,Texas,2016
+806.0,Beaumont,07000,48,Texas,2016
+627.0,Brownsville,10768,48,Texas,2016
+802.0,Bryan,10912,48,Texas,2016
+1222.0,Carrollton,13024,48,Texas,2016
+1605.0,Cedar Park,13552,48,Texas,2016
+1040.0,College Station,15976,48,Texas,2016
+982.0,Conroe,16432,48,Texas,2016
+961.0,Corpus Christi,17000,48,Texas,2016
+961.0,Dallas,19000,48,Texas,2016
+1096.0,Denton,19972,48,Texas,2016
+715.0,Edinburg,22660,48,Texas,2016
+812.0,El Paso,24000,48,Texas,2016
+1878.0,Flower Mound town,26232,48,Texas,2016
+1047.0,Fort Worth,27000,48,Texas,2016
+1901.0,Frisco,27684,48,Texas,2016
+1029.0,Garland,29000,48,Texas,2016
+1173.0,Georgetown,29336,48,Texas,2016
+1091.0,Grand Prairie,30464,48,Texas,2016
+684.0,Harlingen,32372,48,Texas,2016
+974.0,Houston,35000,48,Texas,2016
+1023.0,Irving,37000,48,Texas,2016
+914.0,Killeen,39148,48,Texas,2016
+823.0,Laredo,41464,48,Texas,2016
+1484.0,League City,41980,48,Texas,2016
+1141.0,Lewisville,42508,48,Texas,2016
+822.0,Longview,43888,48,Texas,2016
+905.0,Lubbock,45000,48,Texas,2016
+784.0,McAllen,45384,48,Texas,2016
+1504.0,McKinney,45744,48,Texas,2016
+1654.0,Mansfield,46452,48,Texas,2016
+1050.0,Mesquite,47892,48,Texas,2016
+1122.0,Midland,48072,48,Texas,2016
+806.0,Mission,48768,48,Texas,2016
+1381.0,Missouri City,48804,48,Texas,2016
+1176.0,New Braunfels,50820,48,Texas,2016
+1100.0,North Richland Hills,52356,48,Texas,2016
+881.0,Odessa,53388,48,Texas,2016
+872.0,Pasadena,56000,48,Texas,2016
+1483.0,Pearland,56348,48,Texas,2016
+607.0,Pharr,57200,48,Texas,2016
+1427.0,Plano,58016,48,Texas,2016
+1281.0,Richardson,61796,48,Texas,2016
+1312.0,Round Rock,63500,48,Texas,2016
+822.0,San Angelo,64472,48,Texas,2016
+926.0,San Antonio,65000,48,Texas,2016
+1563.0,Sugar Land,70808,48,Texas,2016
+852.0,Temple,72176,48,Texas,2016
+1597.0,The Woodlands CDP,72656,48,Texas,2016
+873.0,Tyler,74144,48,Texas,2016
+841.0,Victoria,75428,48,Texas,2016
+829.0,Waco,76000,48,Texas,2016
+759.0,Wichita Falls,79000,48,Texas,2016
+1089.0,Layton,43660,49,Utah,2016
+789.0,Ogden,55980,49,Utah,2016
+985.0,Orem,57300,49,Utah,2016
+829.0,Provo,62470,49,Utah,2016
+941.0,St. George,65330,49,Utah,2016
+1017.0,Salt Lake City,67000,49,Utah,2016
+1287.0,Sandy,67440,49,Utah,2016
+1527.0,South Jordan,70850,49,Utah,2016
+1282.0,West Jordan,82950,49,Utah,2016
+1149.0,West Valley City,83470,49,Utah,2016
+1733.0,Alexandria,01000,51,Virginia,2016
+1985.0,Arlington CDP,03000,51,Virginia,2016
+1937.0,Centreville CDP,14440,51,Virginia,2016
+1347.0,Chesapeake,16000,51,Virginia,2016
+1705.0,Dale City CDP,21088,51,Virginia,2016
+1095.0,Hampton,35000,51,Virginia,2016
+748.0,Lynchburg,47672,51,Virginia,2016
+1046.0,Newport News,56000,51,Virginia,2016
+1077.0,Norfolk,57000,51,Virginia,2016
+1062.0,Portsmouth,64000,51,Virginia,2016
+995.0,Richmond,67000,51,Virginia,2016
+775.0,Roanoke,68000,51,Virginia,2016
+1297.0,Suffolk,76432,51,Virginia,2016
+1386.0,Virginia Beach,82000,51,Virginia,2016
+1253.0,Auburn,03180,53,Washington,2016
+1906.0,Bellevue,05210,53,Washington,2016
+995.0,Bellingham,05280,53,Washington,2016
+1190.0,Everett,22640,53,Washington,2016
+1354.0,Federal Way,23515,53,Washington,2016
+892.0,Kennewick,35275,53,Washington,2016
+1286.0,Kent,35415,53,Washington,2016
+1811.0,Kirkland,35940,53,Washington,2016
+1461.0,Marysville,43955,53,Washington,2016
+969.0,Pasco,53545,53,Washington,2016
+1477.0,Renton,57745,53,Washington,2016
+1603.0,Seattle,63000,53,Washington,2016
+885.0,Spokane,67000,53,Washington,2016
+904.0,Spokane Valley,67167,53,Washington,2016
+1195.0,Tacoma,70000,53,Washington,2016
+1100.0,Vancouver,74060,53,Washington,2016
+794.0,Yakima,80010,53,Washington,2016
+918.0,Appleton,02375,55,Wisconsin,2016
+879.0,Eau Claire,22300,55,Wisconsin,2016
+770.0,Green Bay,31000,55,Wisconsin,2016
+895.0,Kenosha,39225,55,Wisconsin,2016
+1135.0,Madison,48000,55,Wisconsin,2016
+856.0,Milwaukee,53000,55,Wisconsin,2016
+772.0,Oshkosh,60500,55,Wisconsin,2016
+858.0,Racine,66000,55,Wisconsin,2016
+984.0,Waukesha,84250,55,Wisconsin,2016
+548.0,Bayamon zona urbana,06593,72,Puerto Rico,2016
+551.0,Caguas zona urbana,10334,72,Puerto Rico,2016
+591.0,Carolina zona urbana,14290,72,Puerto Rico,2016
+816.0,Guaynabo zona urbana,32522,72,Puerto Rico,2016
+279.0,Ponce zona urbana,63820,72,Puerto Rico,2016
+499.0,San Juan zona urbana,76770,72,Puerto Rico,2016
+773.0,Birmingham,07000,01,Alabama,2017
+757.0,Dothan,21184,01,Alabama,2017
+1170.0,Hoover,35896,01,Alabama,2017
+808.0,Huntsville,37000,01,Alabama,2017
+812.0,Mobile,50000,01,Alabama,2017
+817.0,Montgomery,51000,01,Alabama,2017
+867.0,Tuscaloosa,77256,01,Alabama,2017
+1475.0,Anchorage municipality,03000,02,Alaska,2017
+1121.0,Avondale,04720,04,Arizona,2017
+1207.0,Buckeye,07940,04,Arizona,2017
+1046.0,Casas Adobes CDP,10670,04,Arizona,2017
+1325.0,Chandler,12000,04,Arizona,2017
+1261.0,Flagstaff,23620,04,Arizona,2017
+1486.0,Gilbert town,27400,04,Arizona,2017
+1018.0,Glendale,27820,04,Arizona,2017
+1425.0,Goodyear,28380,04,Arizona,2017
+1026.0,Mesa,46000,04,Arizona,2017
+1183.0,Peoria,54050,04,Arizona,2017
+1060.0,Phoenix,55000,04,Arizona,2017
+1220.0,San Tan Valley CDP,64210,04,Arizona,2017
+1425.0,Scottsdale,65000,04,Arizona,2017
+1172.0,Surprise,71510,04,Arizona,2017
+1134.0,Tempe,73000,04,Arizona,2017
+835.0,Tucson,77000,04,Arizona,2017
+906.0,Yuma,85540,04,Arizona,2017
+849.0,Conway,15190,05,Arkansas,2017
+815.0,Fayetteville,23290,05,Arkansas,2017
+654.0,Fort Smith,24550,05,Arkansas,2017
+783.0,Jonesboro,35710,05,Arkansas,2017
+924.0,Little Rock,41000,05,Arkansas,2017
+770.0,North Little Rock,50450,05,Arkansas,2017
+884.0,Rogers,60410,05,Arkansas,2017
+834.0,Springdale,66080,05,Arkansas,2017
+1948.0,Alameda,00562,06,California,2017
+1356.0,Alhambra,00884,06,California,2017
+1659.0,Anaheim,02000,06,California,2017
+1817.0,Antioch,02252,06,California,2017
+1147.0,Apple Valley town,02364,06,California,2017
+1121.0,Arden-Arcade CDP,02553,06,California,2017
+1220.0,Bakersfield,03526,06,California,2017
+1462.0,Baldwin Park,03666,06,California,2017
+1424.0,Bellflower,04982,06,California,2017
+1817.0,Berkeley,06000,06,California,2017
+1643.0,Buena Park,08786,06,California,2017
+1791.0,Burbank,08954,06,California,2017
+1975.0,Camarillo,10046,06,California,2017
+2253.0,Carlsbad,11194,06,California,2017
+1229.0,Carmichael CDP,11390,06,California,2017
+1431.0,Carson,11530,06,California,2017
+1940.0,Castro Valley CDP,11964,06,California,2017
+1042.0,Chico,13014,06,California,2017
+1691.0,Chino,13210,06,California,2017
+2076.0,Chino Hills,13214,06,California,2017
+1774.0,Chula Vista,13392,06,California,2017
+1281.0,Citrus Heights,13588,06,California,2017
+1361.0,Clovis,14218,06,California,2017
+1342.0,Compton,15044,06,California,2017
+1868.0,Concord,16000,06,California,2017
+1766.0,Corona,16350,06,California,2017
+1835.0,Costa Mesa,16532,06,California,2017
+2084.0,Daly City,17918,06,California,2017
+1638.0,Davis,18100,06,California,2017
+1553.0,Downey,19766,06,California,2017
+1101.0,East Los Angeles CDP,20802,06,California,2017
+1302.0,El Cajon,21712,06,California,2017
+1801.0,Elk Grove,22020,06,California,2017
+1244.0,El Monte,22230,06,California,2017
+1558.0,Escondido,22804,06,California,2017
+1777.0,Fairfield,23182,06,California,2017
+1204.0,Florence-Graham CDP,24477,06,California,2017
+1875.0,Folsom,24638,06,California,2017
+1531.0,Fontana,24680,06,California,2017
+2348.0,Fremont,26000,06,California,2017
+1035.0,Fresno,27000,06,California,2017
+1679.0,Fullerton,28000,06,California,2017
+1548.0,Garden Grove,29000,06,California,2017
+1669.0,Glendale,30000,06,California,2017
+1233.0,Hawthorne,32548,06,California,2017
+1869.0,Hayward,33000,06,California,2017
+995.0,Hemet,33182,06,California,2017
+1156.0,Hesperia,33434,06,California,2017
+1833.0,Huntington Beach,36000,06,California,2017
+1158.0,Indio,36448,06,California,2017
+1350.0,Inglewood,36546,06,California,2017
+2311.0,Irvine,36770,06,California,2017
+1438.0,Jurupa Valley,37692,06,California,2017
+2461.0,Laguna Niguel,39248,06,California,2017
+1556.0,Lake Elsinore,39486,06,California,2017
+2075.0,Lake Forest,39496,06,California,2017
+1818.0,Lakewood,39892,06,California,2017
+1280.0,Lancaster,40130,06,California,2017
+2430.0,Livermore,41992,06,California,2017
+1190.0,Lodi,42202,06,California,2017
+1431.0,Long Beach,43000,06,California,2017
+1548.0,Los Angeles,44000,06,California,2017
+1302.0,Lynwood,44574,06,California,2017
+1048.0,Madera,45022,06,California,2017
+1311.0,Manteca,45484,06,California,2017
+1515.0,Menifee,46842,06,California,2017
+1027.0,Merced,46898,06,California,2017
+2507.0,Milpitas,47766,06,California,2017
+2168.0,Mission Viejo,48256,06,California,2017
+1184.0,Modesto,48354,06,California,2017
+1493.0,Moreno Valley,49270,06,California,2017
+2393.0,Mountain View,49670,06,California,2017
+1909.0,Murrieta,50076,06,California,2017
+1839.0,Napa,50258,06,California,2017
+2569.0,Newport Beach,51182,06,California,2017
+1644.0,Norwalk,52526,06,California,2017
+1558.0,Oakland,53000,06,California,2017
+1709.0,Oceanside,53322,06,California,2017
+1466.0,Ontario,53896,06,California,2017
+1805.0,Orange,53980,06,California,2017
+1619.0,Oxnard,54652,06,California,2017
+1342.0,Palmdale,55156,06,California,2017
+2747.0,Palo Alto,55282,06,California,2017
+1795.0,Pasadena,56000,06,California,2017
+1468.0,Perris,56700,06,California,2017
+1662.0,Pittsburg,57456,06,California,2017
+2687.0,Pleasanton,57792,06,California,2017
+1385.0,Pomona,58072,06,California,2017
+1274.0,Rancho Cordova,59444,06,California,2017
+1858.0,Rancho Cucamonga,59451,06,California,2017
+1051.0,Redding,59920,06,California,2017
+1339.0,Redlands,59962,06,California,2017
+2285.0,Redondo Beach,60018,06,California,2017
+2520.0,Redwood City,60102,06,California,2017
+1279.0,Rialto,60466,06,California,2017
+1567.0,Richmond,60620,06,California,2017
+1429.0,Riverside,62000,06,California,2017
+1690.0,Roseville,62938,06,California,2017
+1269.0,Sacramento,64000,06,California,2017
+1472.0,Salinas,64224,06,California,2017
+1058.0,San Bernardino,65000,06,California,2017
+1636.0,San Buenaventura (Ventura),65042,06,California,2017
+1987.0,San Clemente,65084,06,California,2017
+1756.0,San Diego,66000,06,California,2017
+1991.0,San Francisco,67000,06,California,2017
+2257.0,San Jose,68000,06,California,2017
+1659.0,San Leandro,68084,06,California,2017
+1797.0,San Marcos,68196,06,California,2017
+2466.0,San Mateo,68252,06,California,2017
+2975.0,San Ramon,68378,06,California,2017
+1526.0,Santa Ana,69000,06,California,2017
+1817.0,Santa Barbara,69070,06,California,2017
+2316.0,Santa Clara,69084,06,California,2017
+1988.0,Santa Clarita,69088,06,California,2017
+1859.0,Santa Cruz,69112,06,California,2017
+1445.0,Santa Maria,69196,06,California,2017
+1931.0,Santa Monica,70000,06,California,2017
+1650.0,Santa Rosa,70098,06,California,2017
+2145.0,Simi Valley,72016,06,California,2017
+1203.0,South Gate,73080,06,California,2017
+2083.0,South San Francisco,73262,06,California,2017
+1172.0,Stockton,75000,06,California,2017
+2329.0,Sunnyvale,77000,06,California,2017
+2016.0,Temecula,78120,06,California,2017
+2213.0,Thousand Oaks,78582,06,California,2017
+1737.0,Torrance,80000,06,California,2017
+1883.0,Tracy,80238,06,California,2017
+1181.0,Turlock,80812,06,California,2017
+1999.0,Tustin,80854,06,California,2017
+2287.0,Union City,81204,06,California,2017
+1472.0,Upland,81344,06,California,2017
+1777.0,Vacaville,81554,06,California,2017
+1474.0,Vallejo,81666,06,California,2017
+1184.0,Victorville,82590,06,California,2017
+1048.0,Visalia,82954,06,California,2017
+1694.0,Vista,82996,06,California,2017
+2039.0,Walnut Creek,83346,06,California,2017
+1743.0,West Covina,84200,06,California,2017
+1614.0,Westminster,84550,06,California,2017
+1648.0,Whittier,85292,06,California,2017
+2597.0,Yorba Linda,86832,06,California,2017
+1139.0,Yuba City,86972,06,California,2017
+1446.0,Arvada,03455,08,Colorado,2017
+1345.0,Aurora,04000,08,Colorado,2017
+1605.0,Boulder,07850,08,Colorado,2017
+1573.0,Broomfield,09280,08,Colorado,2017
+1720.0,Centennial,12815,08,Colorado,2017
+1164.0,Colorado Springs,16000,08,Colorado,2017
+1357.0,Denver,20000,08,Colorado,2017
+1332.0,Fort Collins,27425,08,Colorado,2017
+982.0,Greeley,32155,08,Colorado,2017
+1806.0,Highlands Ranch CDP,36410,08,Colorado,2017
+1333.0,Lakewood,43000,08,Colorado,2017
+1342.0,Longmont,45970,08,Colorado,2017
+1262.0,Loveland,46465,08,Colorado,2017
+773.0,Pueblo,62000,08,Colorado,2017
+1463.0,Thornton,77290,08,Colorado,2017
+1359.0,Westminster,83835,08,Colorado,2017
+1248.0,Bridgeport,08000,09,Connecticut,2017
+1515.0,Danbury,18430,09,Connecticut,2017
+1003.0,Hartford,37000,09,Connecticut,2017
+991.0,New Britain,50370,09,Connecticut,2017
+1200.0,New Haven,52000,09,Connecticut,2017
+1709.0,Norwalk,55990,09,Connecticut,2017
+1926.0,Stamford,73000,09,Connecticut,2017
+998.0,Waterbury,80000,09,Connecticut,2017
+978.0,Wilmington,77580,10,Delaware,2017
+1641.0,Washington,50000,11,District of Columbia,2017
+1386.0,Alafaya CDP,00410,12,Florida,2017
+1568.0,Boca Raton,07300,12,Florida,2017
+1314.0,Boynton Beach,07875,12,Florida,2017
+1170.0,Brandon CDP,08150,12,Florida,2017
+1128.0,Cape Coral,10275,12,Florida,2017
+984.0,Clearwater,12875,12,Florida,2017
+1590.0,Coral Springs,14400,12,Florida,2017
+1360.0,Davie town,16475,12,Florida,2017
+857.0,Daytona Beach,16525,12,Florida,2017
+1127.0,Deerfield Beach,16725,12,Florida,2017
+1299.0,Delray Beach,17100,12,Florida,2017
+1028.0,Deltona,17200,12,Florida,2017
+1266.0,Fort Lauderdale,24000,12,Florida,2017
+977.0,Fort Myers,24125,12,Florida,2017
+897.0,Gainesville,25175,12,Florida,2017
+1033.0,Hialeah,30000,12,Florida,2017
+1153.0,Hollywood,32000,12,Florida,2017
+1346.0,Homestead,32275,12,Florida,2017
+998.0,Jacksonville,35000,12,Florida,2017
+1482.0,Kendall CDP,36100,12,Florida,2017
+1098.0,Kissimmee,36950,12,Florida,2017
+902.0,Lakeland,38250,12,Florida,2017
+910.0,Largo,39425,12,Florida,2017
+1166.0,Lauderhill,39550,12,Florida,2017
+938.0,Lehigh Acres CDP,39925,12,Florida,2017
+877.0,Melbourne,43975,12,Florida,2017
+1194.0,Miami,45000,12,Florida,2017
+1365.0,Miami Beach,45025,12,Florida,2017
+1175.0,Miami Gardens,45060,12,Florida,2017
+1386.0,Miramar,45975,12,Florida,2017
+1047.0,North Port,49675,12,Florida,2017
+1158.0,Orlando,53000,12,Florida,2017
+897.0,Palm Bay,54000,12,Florida,2017
+1003.0,Palm Coast,54200,12,Florida,2017
+1390.0,Pembroke Pines,55775,12,Florida,2017
+970.0,Pine Hills CDP,56825,12,Florida,2017
+1488.0,Plantation,57425,12,Florida,2017
+1062.0,Poinciana CDP,57900,12,Florida,2017
+1132.0,Pompano Beach,58050,12,Florida,2017
+807.0,Port Charlotte CDP,58350,12,Florida,2017
+1185.0,Port St. Lucie,58715,12,Florida,2017
+1368.0,Riverview CDP,60950,12,Florida,2017
+1010.0,St. Petersburg,63000,12,Florida,2017
+825.0,Spring Hill CDP,68350,12,Florida,2017
+1342.0,Sunrise,69700,12,Florida,2017
+1010.0,Tallahassee,70600,12,Florida,2017
+1013.0,Tamarac,70675,12,Florida,2017
+1092.0,Tampa,71000,12,Florida,2017
+1639.0,The Hammocks CDP,71569,12,Florida,2017
+760.0,The Villages CDP,71625,12,Florida,2017
+1021.0,Town 'n' Country CDP,72145,12,Florida,2017
+1979.0,Weston,76582,12,Florida,2017
+1254.0,West Palm Beach,76600,12,Florida,2017
+674.0,Albany,01052,13,Georgia,2017
+1595.0,Alpharetta,01696,13,Georgia,2017
+855.0,Athens-Clarke County unified government (balance),03440,13,Georgia,2017
+1205.0,Atlanta,04000,13,Georgia,2017
+818.0,Augusta-Richmond County consolidated government (balance),04204,13,Georgia,2017
+861.0,Columbus,19000,13,Georgia,2017
+1686.0,Johns Creek,42425,13,Georgia,2017
+815.0,Macon-Bibb County,49008,13,Georgia,2017
+1429.0,Roswell,67284,13,Georgia,2017
+1375.0,Sandy Springs,68516,13,Georgia,2017
+969.0,Savannah,69000,13,Georgia,2017
+851.0,Warner Robins,80508,13,Georgia,2017
+1479.0,Urban Honolulu CDP,71550,15,Hawaii,2017
+951.0,Boise City,08830,16,Idaho,2017
+1163.0,Meridian,52120,16,Idaho,2017
+939.0,Nampa,56260,16,Idaho,2017
+1477.0,Arlington Heights village,02154,17,Illinois,2017
+1258.0,Aurora,03012,17,Illinois,2017
+906.0,Bloomington,06613,17,Illinois,2017
+1616.0,Bolingbrook village,07133,17,Illinois,2017
+938.0,Champaign,12385,17,Illinois,2017
+1185.0,Chicago,14000,17,Illinois,2017
+936.0,Cicero town,14351,17,Illinois,2017
+670.0,Decatur,18823,17,Illinois,2017
+1225.0,Elgin,23074,17,Illinois,2017
+1609.0,Evanston,24582,17,Illinois,2017
+1211.0,Joliet,38570,17,Illinois,2017
+1884.0,Naperville,51622,17,Illinois,2017
+1347.0,Palatine village,57225,17,Illinois,2017
+845.0,Peoria,59000,17,Illinois,2017
+775.0,Rockford,65000,17,Illinois,2017
+1410.0,Schaumburg village,68003,17,Illinois,2017
+1326.0,Skokie village,70122,17,Illinois,2017
+786.0,Springfield,72000,17,Illinois,2017
+950.0,Waukegan,79293,17,Illinois,2017
+836.0,Bloomington,05860,18,Indiana,2017
+1405.0,Carmel,10342,18,Indiana,2017
+741.0,Evansville,22000,18,Indiana,2017
+1455.0,Fishers,23278,18,Indiana,2017
+716.0,Fort Wayne,25000,18,Indiana,2017
+665.0,Gary,27000,18,Indiana,2017
+803.0,Hammond,31000,18,Indiana,2017
+888.0,Indianapolis,36003,18,Indiana,2017
+725.0,Lafayette,40788,18,Indiana,2017
+654.0,Muncie,51876,18,Indiana,2017
+734.0,South Bend,71000,18,Indiana,2017
+979.0,Ames,01855,19,Iowa,2017
+877.0,Cedar Rapids,12000,19,Iowa,2017
+829.0,Davenport,19000,19,Iowa,2017
+908.0,Des Moines,21000,19,Iowa,2017
+1031.0,Iowa City,38595,19,Iowa,2017
+748.0,Sioux City,73335,19,Iowa,2017
+751.0,Waterloo,82425,19,Iowa,2017
+831.0,Kansas City,36000,20,Kansas,2017
+937.0,Lawrence,38900,20,Kansas,2017
+1286.0,Olathe,52575,20,Kansas,2017
+1195.0,Overland Park,53775,20,Kansas,2017
+1150.0,Shawnee,64500,20,Kansas,2017
+782.0,Topeka,71000,20,Kansas,2017
+835.0,Wichita,79000,20,Kansas,2017
+800.0,Bowling Green,08902,21,Kentucky,2017
+925.0,Lexington-Fayette urban county,46027,21,Kentucky,2017
+867.0,Louisville/Jefferson County metro government (balance),48006,21,Kentucky,2017
+848.0,Baton Rouge,05000,22,Louisiana,2017
+920.0,Bossier City,08920,22,Louisiana,2017
+925.0,Kenner,39475,22,Louisiana,2017
+879.0,Lafayette,40735,22,Louisiana,2017
+821.0,Lake Charles,41155,22,Louisiana,2017
+960.0,Metairie CDP,50115,22,Louisiana,2017
+969.0,New Orleans,55000,22,Louisiana,2017
+768.0,Shreveport,70000,22,Louisiana,2017
+1183.0,Portland,60545,23,Maine,2017
+1070.0,Baltimore,04000,24,Maryland,2017
+2401.0,Bethesda CDP,07125,24,Maryland,2017
+1724.0,Columbia CDP,19125,24,Maryland,2017
+1925.0,Ellicott City CDP,26000,24,Maryland,2017
+1463.0,Frederick,30325,24,Maryland,2017
+1690.0,Gaithersburg,31175,24,Maryland,2017
+1763.0,Germantown CDP,32025,24,Maryland,2017
+1362.0,Glen Burnie CDP,32650,24,Maryland,2017
+1879.0,Rockville,67675,24,Maryland,2017
+1668.0,Silver Spring CDP,72450,24,Maryland,2017
+1735.0,Waldorf CDP,81175,24,Maryland,2017
+1654.0,Boston,07000,25,Massachusetts,2017
+1298.0,Brockton,09000,25,Massachusetts,2017
+2046.0,Cambridge,11000,25,Massachusetts,2017
+815.0,Fall River,23000,25,Massachusetts,2017
+1517.0,Framingham CDP,24960,25,Massachusetts,2017
+1193.0,Lawrence,34550,25,Massachusetts,2017
+1184.0,Lowell,37000,25,Massachusetts,2017
+1292.0,Lynn,37490,25,Massachusetts,2017
+870.0,New Bedford,45000,25,Massachusetts,2017
+2274.0,Newton,45560,25,Massachusetts,2017
+1540.0,Quincy,55745,25,Massachusetts,2017
+1805.0,Somerville,62535,25,Massachusetts,2017
+921.0,Springfield,67000,25,Massachusetts,2017
+1078.0,Worcester,82000,25,Massachusetts,2017
+1295.0,Ann Arbor,03000,26,Michigan,2017
+940.0,Dearborn,21000,26,Michigan,2017
+679.0,Detroit,22000,26,Michigan,2017
+1290.0,Farmington Hills,27440,26,Michigan,2017
+568.0,Flint,29000,26,Michigan,2017
+894.0,Grand Rapids,34000,26,Michigan,2017
+805.0,Kalamazoo,42160,26,Michigan,2017
+801.0,Lansing,46000,26,Michigan,2017
+1073.0,Livonia,49000,26,Michigan,2017
+1288.0,Rochester Hills,69035,26,Michigan,2017
+1125.0,Southfield,74900,26,Michigan,2017
+1021.0,Sterling Heights,76460,26,Michigan,2017
+1283.0,Troy,80700,26,Michigan,2017
+838.0,Warren,84000,26,Michigan,2017
+869.0,Westland,86000,26,Michigan,2017
+853.0,Wyoming,88940,26,Michigan,2017
+1201.0,Bloomington,06616,27,Minnesota,2017
+1209.0,Brooklyn Park,07966,27,Minnesota,2017
+864.0,Duluth,17000,27,Minnesota,2017
+1253.0,Eagan,17288,27,Minnesota,2017
+1554.0,Maple Grove,40166,27,Minnesota,2017
+1151.0,Minneapolis,43000,27,Minnesota,2017
+1517.0,Plymouth,51730,27,Minnesota,2017
+1097.0,Rochester,54880,27,Minnesota,2017
+773.0,St. Cloud,56896,27,Minnesota,2017
+1063.0,St. Paul,58000,27,Minnesota,2017
+1628.0,Woodbury,71428,27,Minnesota,2017
+803.0,Gulfport,29700,28,Mississippi,2017
+789.0,Jackson,36000,28,Mississippi,2017
+910.0,Columbia,15670,29,Missouri,2017
+840.0,Independence,35000,29,Missouri,2017
+950.0,Kansas City,38000,29,Missouri,2017
+1219.0,Lee's Summit,41348,29,Missouri,2017
+1273.0,O'Fallon,54074,29,Missouri,2017
+1018.0,St. Charles,64082,29,Missouri,2017
+716.0,St. Joseph,64550,29,Missouri,2017
+818.0,St. Louis,65000,29,Missouri,2017
+714.0,Springfield,70000,29,Missouri,2017
+953.0,Billings,06550,30,Montana,2017
+902.0,Missoula,50200,30,Montana,2017
+926.0,Lincoln,28000,31,Nebraska,2017
+991.0,Omaha,37000,31,Nebraska,2017
+1444.0,Enterprise CDP,23770,32,Nevada,2017
+1261.0,Henderson,31900,32,Nevada,2017
+1098.0,Las Vegas,40000,32,Nevada,2017
+1179.0,North Las Vegas,51800,32,Nevada,2017
+962.0,Paradise CDP,54600,32,Nevada,2017
+1011.0,Reno,60600,32,Nevada,2017
+1154.0,Sparks,68400,32,Nevada,2017
+1152.0,Spring Valley CDP,68585,32,Nevada,2017
+921.0,Sunrise Manor CDP,71400,32,Nevada,2017
+1174.0,Manchester,45140,33,New Hampshire,2017
+1350.0,Nashua,50260,33,New Hampshire,2017
+1365.0,Bayonne,03580,34,New Jersey,2017
+859.0,Camden,10000,34,New Jersey,2017
+1542.0,Clifton,13690,34,New Jersey,2017
+1212.0,East Orange,19390,34,New Jersey,2017
+1227.0,Elizabeth,21000,34,New Jersey,2017
+1495.0,Jersey City,36000,34,New Jersey,2017
+1150.0,Newark,51000,34,New Jersey,2017
+1205.0,Passaic,56550,34,New Jersey,2017
+1258.0,Paterson,57000,34,New Jersey,2017
+1571.0,Toms River CDP,73110,34,New Jersey,2017
+1094.0,Trenton,74000,34,New Jersey,2017
+1268.0,Union City,74630,34,New Jersey,2017
+929.0,Albuquerque,02000,35,New Mexico,2017
+756.0,Las Cruces,39380,35,New Mexico,2017
+1169.0,Rio Rancho,63460,35,New Mexico,2017
+1025.0,Santa Fe,70500,35,New Mexico,2017
+1023.0,Albany,01000,36,New York,2017
+2071.0,Brentwood CDP,08026,36,New York,2017
+710.0,Buffalo,11000,36,New York,2017
+845.0,Cheektowaga CDP,15000,36,New York,2017
+1480.0,Mount Vernon,49121,36,New York,2017
+1793.0,New Rochelle,50617,36,New York,2017
+1435.0,New York,51000,36,New York,2017
+818.0,Rochester,63000,36,New York,2017
+866.0,Schenectady,65508,36,New York,2017
+789.0,Syracuse,73000,36,New York,2017
+1455.0,Yonkers,84000,36,New York,2017
+1081.0,Asheville,02140,37,North Carolina,2017
+1333.0,Cary town,10740,37,North Carolina,2017
+1123.0,Charlotte,12000,37,North Carolina,2017
+1069.0,Concord,14100,37,North Carolina,2017
+1081.0,Durham,19000,37,North Carolina,2017
+889.0,Fayetteville,22920,37,North Carolina,2017
+851.0,Gastonia,25580,37,North Carolina,2017
+868.0,Greensboro,28000,37,North Carolina,2017
+870.0,Greenville,28080,37,North Carolina,2017
+870.0,High Point,31400,37,North Carolina,2017
+1010.0,Jacksonville,34200,37,North Carolina,2017
+1154.0,Raleigh,55000,37,North Carolina,2017
+956.0,Wilmington,74440,37,North Carolina,2017
+808.0,Winston-Salem,75000,37,North Carolina,2017
+920.0,Bismarck,07200,38,North Dakota,2017
+862.0,Fargo,25700,38,North Dakota,2017
+736.0,Akron,01000,39,Ohio,2017
+635.0,Canton,12000,39,Ohio,2017
+793.0,Cincinnati,15000,39,Ohio,2017
+690.0,Cleveland,16000,39,Ohio,2017
+968.0,Columbus,18000,39,Ohio,2017
+661.0,Dayton,21000,39,Ohio,2017
+680.0,Lorain,44856,39,Ohio,2017
+846.0,Parma,61000,39,Ohio,2017
+680.0,Toledo,77000,39,Ohio,2017
+521.0,Youngstown,88000,39,Ohio,2017
+1092.0,Broken Arrow,09050,40,Oklahoma,2017
+1133.0,Edmond,23200,40,Oklahoma,2017
+802.0,Lawton,41850,40,Oklahoma,2017
+908.0,Norman,52500,40,Oklahoma,2017
+906.0,Oklahoma City,55000,40,Oklahoma,2017
+830.0,Tulsa,75000,40,Oklahoma,2017
+1432.0,Beaverton,05350,41,Oregon,2017
+1334.0,Bend,05800,41,Oregon,2017
+1048.0,Eugene,23850,41,Oregon,2017
+1194.0,Gresham,31250,41,Oregon,2017
+1510.0,Hillsboro,34100,41,Oregon,2017
+1034.0,Medford,47000,41,Oregon,2017
+1374.0,Portland,59000,41,Oregon,2017
+1043.0,Salem,64900,41,Oregon,2017
+958.0,Allentown,02000,42,Pennsylvania,2017
+1055.0,Bethlehem,06088,42,Pennsylvania,2017
+675.0,Erie,24000,42,Pennsylvania,2017
+941.0,Philadelphia,60000,42,Pennsylvania,2017
+886.0,Pittsburgh,61000,42,Pennsylvania,2017
+734.0,Reading,63624,42,Pennsylvania,2017
+779.0,Scranton,69000,42,Pennsylvania,2017
+1340.0,Cranston,19180,44,Rhode Island,2017
+968.0,Pawtucket,54640,44,Rhode Island,2017
+1068.0,Providence,59000,44,Rhode Island,2017
+1268.0,Warwick,74300,44,Rhode Island,2017
+1333.0,Charleston,13330,45,South Carolina,2017
+912.0,Columbia,16000,45,South Carolina,2017
+922.0,Greenville,30850,45,South Carolina,2017
+1703.0,Mount Pleasant town,48535,45,South Carolina,2017
+1007.0,North Charleston,50875,45,South Carolina,2017
+950.0,Rock Hill,61405,45,South Carolina,2017
+899.0,Rapid City,52980,46,South Dakota,2017
+905.0,Sioux Falls,59020,46,South Dakota,2017
+794.0,Chattanooga,14000,47,Tennessee,2017
+1005.0,Clarksville,15160,47,Tennessee,2017
+1555.0,Franklin,27740,47,Tennessee,2017
+838.0,Jackson,37640,47,Tennessee,2017
+761.0,Johnson City,38320,47,Tennessee,2017
+834.0,Knoxville,40000,47,Tennessee,2017
+861.0,Memphis,48000,47,Tennessee,2017
+1036.0,Murfreesboro,51560,47,Tennessee,2017
+1094.0,Nashville-Davidson metropolitan government (balance),52006,47,Tennessee,2017
+784.0,Abilene,01000,48,Texas,2017
+1704.0,Allen,01924,48,Texas,2017
+869.0,Amarillo,03000,48,Texas,2017
+1044.0,Arlington,04000,48,Texas,2017
+1437.0,Atascocita CDP,04462,48,Texas,2017
+1342.0,Austin,05000,48,Texas,2017
+892.0,Baytown,06128,48,Texas,2017
+831.0,Beaumont,07000,48,Texas,2017
+671.0,Brownsville,10768,48,Texas,2017
+860.0,Bryan,10912,48,Texas,2017
+1285.0,Carrollton,13024,48,Texas,2017
+1614.0,Cedar Park,13552,48,Texas,2017
+1005.0,College Station,15976,48,Texas,2017
+1067.0,Conroe,16432,48,Texas,2017
+942.0,Corpus Christi,17000,48,Texas,2017
+1024.0,Dallas,19000,48,Texas,2017
+1071.0,Denton,19972,48,Texas,2017
+776.0,Edinburg,22660,48,Texas,2017
+856.0,El Paso,24000,48,Texas,2017
+1992.0,Flower Mound town,26232,48,Texas,2017
+1074.0,Fort Worth,27000,48,Texas,2017
+1881.0,Frisco,27684,48,Texas,2017
+1047.0,Garland,29000,48,Texas,2017
+1125.0,Georgetown,29336,48,Texas,2017
+1119.0,Grand Prairie,30464,48,Texas,2017
+639.0,Harlingen,32372,48,Texas,2017
+994.0,Houston,35000,48,Texas,2017
+1116.0,Irving,37000,48,Texas,2017
+936.0,Killeen,39148,48,Texas,2017
+822.0,Laredo,41464,48,Texas,2017
+1422.0,League City,41980,48,Texas,2017
+1245.0,Lewisville,42508,48,Texas,2017
+813.0,Longview,43888,48,Texas,2017
+918.0,Lubbock,45000,48,Texas,2017
+795.0,McAllen,45384,48,Texas,2017
+1708.0,McKinney,45744,48,Texas,2017
+1517.0,Mansfield,46452,48,Texas,2017
+1068.0,Mesquite,47892,48,Texas,2017
+1129.0,Midland,48072,48,Texas,2017
+666.0,Mission,48768,48,Texas,2017
+1381.0,Missouri City,48804,48,Texas,2017
+1117.0,New Braunfels,50820,48,Texas,2017
+1229.0,North Richland Hills,52356,48,Texas,2017
+948.0,Odessa,53388,48,Texas,2017
+887.0,Pasadena,56000,48,Texas,2017
+1687.0,Pearland,56348,48,Texas,2017
+573.0,Pharr,57200,48,Texas,2017
+1425.0,Plano,58016,48,Texas,2017
+1318.0,Richardson,61796,48,Texas,2017
+1412.0,Round Rock,63500,48,Texas,2017
+815.0,San Angelo,64472,48,Texas,2017
+940.0,San Antonio,65000,48,Texas,2017
+1476.0,Sugar Land,70808,48,Texas,2017
+886.0,Temple,72176,48,Texas,2017
+1892.0,The Woodlands CDP,72656,48,Texas,2017
+863.0,Tyler,74144,48,Texas,2017
+899.0,Victoria,75428,48,Texas,2017
+836.0,Waco,76000,48,Texas,2017
+738.0,Wichita Falls,79000,48,Texas,2017
+1134.0,Layton,43660,49,Utah,2017
+848.0,Ogden,55980,49,Utah,2017
+1085.0,Orem,57300,49,Utah,2017
+881.0,Provo,62470,49,Utah,2017
+972.0,St. George,65330,49,Utah,2017
+1051.0,Salt Lake City,67000,49,Utah,2017
+1336.0,Sandy,67440,49,Utah,2017
+1622.0,South Jordan,70850,49,Utah,2017
+1363.0,West Jordan,82950,49,Utah,2017
+1124.0,West Valley City,83470,49,Utah,2017
+1810.0,Alexandria,01000,51,Virginia,2017
+2016.0,Arlington CDP,03000,51,Virginia,2017
+1882.0,Centreville CDP,14440,51,Virginia,2017
+1398.0,Chesapeake,16000,51,Virginia,2017
+1635.0,Dale City CDP,21088,51,Virginia,2017
+1128.0,Hampton,35000,51,Virginia,2017
+812.0,Lynchburg,47672,51,Virginia,2017
+1039.0,Newport News,56000,51,Virginia,2017
+1111.0,Norfolk,57000,51,Virginia,2017
+1055.0,Portsmouth,64000,51,Virginia,2017
+1033.0,Richmond,67000,51,Virginia,2017
+826.0,Roanoke,68000,51,Virginia,2017
+1295.0,Suffolk,76432,51,Virginia,2017
+1407.0,Virginia Beach,82000,51,Virginia,2017
+1357.0,Auburn,03180,53,Washington,2017
+1939.0,Bellevue,05210,53,Washington,2017
+1148.0,Bellingham,05280,53,Washington,2017
+1288.0,Everett,22640,53,Washington,2017
+1410.0,Federal Way,23515,53,Washington,2017
+928.0,Kennewick,35275,53,Washington,2017
+1448.0,Kent,35415,53,Washington,2017
+1957.0,Kirkland,35940,53,Washington,2017
+1578.0,Marysville,43955,53,Washington,2017
+1026.0,Pasco,53545,53,Washington,2017
+1545.0,Renton,57745,53,Washington,2017
+1705.0,Seattle,63000,53,Washington,2017
+879.0,Spokane,67000,53,Washington,2017
+981.0,Spokane Valley,67167,53,Washington,2017
+1248.0,Tacoma,70000,53,Washington,2017
+1209.0,Vancouver,74060,53,Washington,2017
+781.0,Yakima,80010,53,Washington,2017
+908.0,Appleton,02375,55,Wisconsin,2017
+857.0,Eau Claire,22300,55,Wisconsin,2017
+766.0,Green Bay,31000,55,Wisconsin,2017
+936.0,Kenosha,39225,55,Wisconsin,2017
+1203.0,Madison,48000,55,Wisconsin,2017
+860.0,Milwaukee,53000,55,Wisconsin,2017
+843.0,Oshkosh,60500,55,Wisconsin,2017
+830.0,Racine,66000,55,Wisconsin,2017
+1004.0,Waukesha,84250,55,Wisconsin,2017
+529.0,Bayam?n zona urbana,06593,72,Puerto Rico,2017
+490.0,Caguas zona urbana,10334,72,Puerto Rico,2017
+646.0,Carolina zona urbana,14290,72,Puerto Rico,2017
+750.0,Guaynabo zona urbana,32522,72,Puerto Rico,2017
+220.0,Ponce zona urbana,63820,72,Puerto Rico,2017
+508.0,San Juan zona urbana,76770,72,Puerto Rico,2017
